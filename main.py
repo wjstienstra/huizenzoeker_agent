@@ -52,7 +52,7 @@ def stuur_whatsapp_notificatie(adres, score, motivatie, url):
     
     bericht = f"🌟 *Nieuwe Match in Apeldoorn!*\n\n🏠 {adres}\n⭐ Score: {score}/10\n\n💡 {motivatie}\n\n🔗 {url}"
     encoded_bericht = urllib.parse.quote(bericht)
-    api_url = f"https://api.callmebot.com/whatsapp.php?phone={telefoonnummer}&text={encoded_bericht}&apikey={api_key}"
+    api_url = f"https://api.callmebot.com/whatsapp.php?phone={+31614265291}&text={encoded_bericht}&apikey={api_key}"
     
     try:
         response = requests.get(api_url)

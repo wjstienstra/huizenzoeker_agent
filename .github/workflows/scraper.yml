@@ -1,0 +1,43 @@
+name: Huizenzoeker Agent
+
+on:
+  schedule:
+    # Draait elke dag om 07:00 en 15:00 UTC (09:00 en 17:00 Nederlandse tijd)
+    - cron: '0 7,15 * * *'
+  workflow_dispatch: # Zorgt dat je hem ook handmatig kunt starten via de GitHub website
+
+permissions:
+  contents: write # Rechten om de JSON update terug te pushen
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Code ophalen
+      uses: actions/checkout@v4
+
+    - name: Python instellen
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Dependencies installeren
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        playwright install --with-deps chromium
+
+    - name: Run de agent
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: python main.py
+
+    - name: Update geheugen (JSON) naar GitHub
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add gezien_huizen.json
+        # Check of er iets veranderd is, zo ja: commit en push
+        git commit -m "🤖 JSON Geheugen geüpdatet met nieuwe huizen" || echo "Geen nieuwe huizen gezien, niets te pushen"
+        git push
