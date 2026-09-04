@@ -1,6 +1,19 @@
 # makelaars.py
 
 MAKELAARS = [
+ 
+    {
+        "naam": "Goos Makelaardij",
+        "base": "https://www.goos.nl",
+        "url": "https://www.goos.nl/woning"
+    }
+]
+
+# Opmerking: Guidan aankoopmakelaar is niet toegevoegd aan de lijst. 
+# Omdat zij alleen als aankoopmakelaar fungeren, hebben zij geen eigen 
+# doorzoekbaar aanbod van te koop staande woningen op hun site.
+
+"""
     {
         "naam": "Rodenburg", 
         "base": "https://rodenburg.nl", 
@@ -50,14 +63,5 @@ MAKELAARS = [
         "naam": "Mulderij Makelaardij",
         "base": "https://www.mulderijmakelaardij.nl",
         "url": "https://www.mulderijmakelaardij.nl/actueel/"
-    },
-    {
-        "naam": "Goos Makelaardij",
-        "base": "https://www.goos.nl",
-        "url": "https://www.goos.nl/woning"
     }
-]
-
-# Opmerking: Guidan aankoopmakelaar is niet toegevoegd aan de lijst. 
-# Omdat zij alleen als aankoopmakelaar fungeren, hebben zij geen eigen 
-# doorzoekbaar aanbod van te koop staande woningen op hun site.
+"""

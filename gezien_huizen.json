@@ -311,14 +311,6 @@
         "prijs": 419500,
         "datum": "2026-09-03 21:13"
     },
-    "https://vlpmakelaardij.nl/woningaanbod/germanenlaan-1/": {
-        "adres": "Germanenlaan 1, Apeldoorn",
-        "score": 9,
-        "motivatie": "Hoi Willem-Jan, dit is echt een schot in de roos voor jou! Deze vrijstaande jaren '30 woning aan de Germanenlaan heeft precies het karakter waar je naar op zoek bent: prachtige glas-in-looddetails, authentieke en-suitedeuren, erkers en zelfs een fraaie granitovloer. Met 4 slaapkamers op de eerste verdieping zit je qua ruimte ook goed (120 m2 woonoppervlakte, iets onder je richtlijn van 125m2, maar door de indeling en ruime vlieringen compenseert dit ruimschoots). Het perceel van 455 m2 biedt een fantastische, zonnige tuin rondom met volop privacy en alle ruimte voor die langgekoesterde sauna. De vraagprijs van \u20ac 598.500 past perfect binnen jouw budget. Enig minpuntje is het energielabel F, dus daar moeten we wel wat aan doen, maar qua karakter en sfeer is dit absoluut een 9 waard! Zullen we snel een bezichtiging inplannen?",
-        "buurt": "Apeldoorn (Centraal/Groene woonomgeving)",
-        "prijs": 598500,
-        "datum": "2026-09-03 21:13"
-    },
     "https://www.reindersmakelaars.nl/woningen/asselsestraat-160-apeldoorn-906419202d13a11fba4c3fb10d427d9391eea9/": {
         "adres": "Asselsestraat 160",
         "score": 5,
@@ -383,14 +375,6 @@
         "prijs": 789000,
         "datum": "2026-09-04 18:14"
     },
-    "https://www.goos.nl/woning/soerenseweg-36": {
-        "adres": "Soerenseweg 36, 7314 CE Apeldoorn",
-        "score": 8,
-        "motivatie": "Hoi Willem-Jan, deze schitterende vrijstaande villa 'Rivendel' aan de Soerenseweg 36 in de Indische Buurt past bijna naadloos bij jouw Woon-DNA! Met een woonoppervlakte van 156 m\u00b2, 4 slaapkamers en een bouwjaar uit 1910 ademt dit huis volop karakter. Denk aan en-suite schuifdeuren, hoge ornamenten plafonds en een stijlvolle renovatie met behoud van authentieke details. De vraagprijs van \u20ac 925.000 zit weliswaar net iets boven jouw maximale budget van \u20ac 900.000, maar de ligging, de fantastische diepe tuin met veranda en de uitstekende verduurzaming (energielabel B met hybride warmtepomp en zonnepanelen) maken dit absoluut het overwegen waard. Er is bovendien meer dan genoeg ruimte in de tuin voor een sauna. Wat mij betreft een dikke 8 waard!",
-        "buurt": "Indische Buurt",
-        "prijs": 925000,
-        "datum": "2026-09-04 18:16"
-    },
     "https://www.goos.nl/woning/lippe-biesterfeldstraat-15": {
         "adres": "Lippe-Biesterfeldstraat 15, 7315 JK Apeldoorn",
         "score": 5,
@@ -398,5 +382,13 @@
         "buurt": "Het Loo",
         "prijs": 480000,
         "datum": "2026-09-04 18:17"
+    },
+    "https://www.goos.nl/woning/soerenseweg-36": {
+        "adres": "Soerenseweg 36, 7314 CE Apeldoorn",
+        "score": 8,
+        "motivatie": "Beste Willem-Jan, deze schitterende vrijstaande villa uit 1910 aan de Soerenseweg in de Indische Buurt past bijna perfect bij jouw Woon-DNA! Met 156 m\u00b2 woonoppervlakte, 4 slaapkamers en een perceel van 411 m\u00b2 zit je ruimschoots binnen jouw wensen. Het karakter is absoluut aanwezig dankzij authentieke details zoals en-suite schuifdeuren, ornamenten plafonds en een stijlvolle renovatie met behoud van de bouwstijl. De diepe, fraai aangelegde tuin met veranda en tuinhuis biedt bovendien volop ruimte voor die kleine sauna waar je naar op zoek was. Het enige minpuntje is de vraagprijs van \u20ac 925.000, die net boven jouw maximale budget van \u20ac 900.000 ligt. Gezien de hoogwaardige staat van onderhoud en de fantastische locatie nabij het centrum en de bossen, is het echter absoluut de moeite waard om te onderzoeken of hier onderhandelingsruimte zit!",
+        "buurt": "Indische Buurt",
+        "prijs": 925000,
+        "datum": "2026-09-04 20:47"
     }
 }

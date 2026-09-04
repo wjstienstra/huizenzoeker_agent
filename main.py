@@ -47,72 +47,33 @@ def save_memory(memory):
     with open(MEMORY_FILE, 'w') as f:
         json.dump(memory, f, indent=4)
 
+# --- TELEGRAM NOTIFICATIE LOGICA ---
+def stuur_telegram_notificatie(adres, score, motivatie, url):
+    bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
+    chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
-# --- WHATSAPP NOTIFICATIE LOGICA ---
-def stuur_whatsapp_notificatie(adres, score, motivatie, url):
-    # VUL HIER JE EIGEN GEGEVENS IN
-    telefoonnummer = os.getenv("WHATSAPP_PHONE")
-    api_key = os.getenv("WHATSAPP_API_KEY")
-
-    if not telefoonnummer or not api_key:
-        print("⚠️ WhatsApp configuratie ontbreekt in .env of secrets.")
+    if not bot_token or not chat_id:
+        print("⚠️ Telegram configuratie ontbreekt in .env of secrets.")
         return
     
+    # Telegram gebruikt Markdown voor dikgedrukte tekst (*)
     bericht = f"🌟 *Nieuwe Match in Apeldoorn!*\n\n🏠 {adres}\n⭐ Score: {score}/10\n\n💡 {motivatie}\n\n🔗 {url}"
-    encoded_bericht = urllib.parse.quote(bericht)
-    api_url = f"https://api.callmebot.com/whatsapp.php?phone={telefoonnummer}&text={encoded_bericht}&apikey={api_key}"
+    
+    api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    payload = {
+        "chat_id": chat_id,
+        "text": bericht,
+        "parse_mode": "Markdown"
+    }
     
     try:
-        response = requests.get(api_url)
+        response = requests.post(api_url, json=payload)
         if response.status_code == 200:
-            print(f"📱 ✅ WhatsApp notificatie verstuurd voor {adres}")
+            print(f"📱 ✅ Telegram notificatie verstuurd voor {adres}")
         else:
-            print(f"📱 ❌ Fout bij versturen WhatsApp: {response.text}")
+            print(f"📱 ❌ Fout bij versturen Telegram: {response.text}")
     except Exception as e:
-        print(f"📱 ❌ WhatsApp API error: {e}")
-
-
-# --- EMAIL NOTIFICATIE LOGICA ---
-def stuur_email_notificatie(adres, score, motivatie, url):
-    sender_email = os.getenv("EMAIL_SENDER")
-    app_password = os.getenv("EMAIL_APP_PASSWORD")
-    receiver_email = os.getenv("EMAIL_RECEIVER")
-    
-    if not sender_email or not app_password or not receiver_email:
-        print("⚠️ E-mail configuratie ontbreekt in .env of secrets.")
-        return
-
-    # Maak het e-mailbericht op
-    message = MIMEMultipart("alternative")
-    message["Subject"] = f"🌟 Nieuwe Match in Apeldoorn! ({score}/10) - {adres}"
-    message["From"] = sender_email
-    message["To"] = receiver_email
-
-    # Plain text en HTML versie voor een mooi leesbaar mailtje
-    html = f"""
-    <html>
-      <body style="font-family: Arial, sans-serif; color: #333;">
-        <h2 style="color: #2c3e50;">Nieuwe woning match gevonden!</h2>
-        <p><strong>Adres:</strong> {adres}</p>
-        <p><strong>Match Score:</strong> <span style="font-size: 1.2em; color: #e74c3c;">{score}/10</span></p>
-        <hr style="border: none; border-top: 1px solid #eee;" />
-        <p><strong>🤖 Taxateur Motivatie:</strong></p>
-        <p style="background-color: #f9f9f9; padding: 15px; border-left: 4px solid #3498db; line-height: 1.5;">{motivatie}</p>
-        <p><a href="{url}" style="background-color: #27ae60; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">Bekijk woning op website</a></p>
-      </body>
-    </html>
-    """
-    
-    message.attach(MIMEText(html, "html"))
-
-    try:
-        # Verbinding maken met Gmail SMTP server
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-            server.login(sender_email, app_password)
-            server.sendmail(sender_email, receiver_email, message.as_string())
-            print(f"📧 ✅ E-mail notificatie verstuurd voor {adres}")
-    except Exception as e:
-        print(f"📧 ❌ E-mail verzenden mislukt: {e}")
+        print(f"📱 ❌ Telegram API error: {e}")
 
 
 # --- DE CASCADE RUNNER ---
@@ -251,14 +212,8 @@ async def main():
 
                         # --- Email TRIGGER ---
                         if woning_data.match_score >= 8:
-                            stuur_email_notificatie(
-                                woning_data.adres, 
-                                woning_data.match_score, 
-                                woning_data.motivatie, 
-                                woning_data.url
-                            )
-                            # 2. Stuur WhatsApp via CallMeBot
-                            stuur_whatsapp_notificatie(
+                            # Stuur Telegram
+                            stuur_telegram_notificatie(
                                 woning_data.adres, 
                                 woning_data.match_score, 
                                 woning_data.motivatie, 
