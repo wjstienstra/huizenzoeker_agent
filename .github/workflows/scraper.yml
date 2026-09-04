@@ -43,4 +43,5 @@ jobs:
         git add gezien_huizen.json
         # Check of er iets veranderd is, zo ja: commit en push
         git commit -m "🤖 JSON Geheugen geüpdatet met nieuwe huizen" || echo "Geen nieuwe huizen gezien, niets te pushen"
+        git pull --rebase origin main
         git push
