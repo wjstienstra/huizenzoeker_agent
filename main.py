@@ -3,10 +3,6 @@ import asyncio
 import json
 import re
 import requests
-import urllib.parse
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 from dotenv import load_dotenv
 from playwright.async_api import async_playwright
@@ -27,7 +23,7 @@ MEMORY_FILE = "gezien_huizen.json"
 provider = GoogleProvider(api_key=os.getenv('GEMINI_API_KEY'))
 
 CASCADE_MODELS = [
-    #'gemini-pro-latest',
+    'gemini-pro-latest',
     'gemini-flash-latest',
     'gemini-flash-lite-latest',
     'gemini-3.5-flash',
@@ -210,7 +206,7 @@ async def main():
                         nieuwe_scans = True
                         eind_resultaat.append(woning_data)
 
-                        # --- Email TRIGGER ---
+                        # --- TELEGRAM TRIGGER ---
                         if woning_data.match_score >= 8:
                             # Stuur Telegram
                             stuur_telegram_notificatie(

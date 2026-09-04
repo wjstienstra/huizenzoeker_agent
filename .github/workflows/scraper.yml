@@ -31,11 +31,9 @@ jobs:
     - name: Run de agent
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
-        EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
-        EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
-        WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
-        WHATSAPP_API_KEY: ${{ secrets.WHATSAPP_API_KEY }}
+        TELEGRAM_BOT_TOKEN: ${{secrets.TELEGRAM_BOT_TOKEN}}
+        TELEGRAM_CHAT_ID: ${{secrets.TELEGRAM_CHAT_ID}}
+
       run: python main.py
 
     - name: Update geheugen (JSON) naar GitHub
