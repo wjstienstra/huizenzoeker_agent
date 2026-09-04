@@ -334,5 +334,69 @@
         "buurt": "Centrum / Asselsestraat",
         "prijs": 550000,
         "datum": "2026-09-03 21:15"
+    },
+    "https://opendeur.nl/woningaanbod/prof.-r%C3%B6ntgenstraat-17-apeldoorn": {
+        "adres": "Prof. R\u00f6ntgenstraat 17",
+        "score": 6,
+        "motivatie": "Beste Willem-Jan, dit charmante, vrijstaande herenhuis uit 1905 aan de Prof. R\u00f6ntgenstraat heeft absoluut de uiterlijke sfeer en de hoge plafonds waar je hart sneller van gaat kloppen. De locatie zo vlak bij het centrum is bovendien fantastisch. Toch moet ik als je makelaar streng zijn op je woon-DNA: de woning heeft helaas slechts 2 slaapkamers, terwijl je er minimaal 3 wenst. Daarnaast is het woonoppervlak van 120 m\u00b2 net iets kleiner dan de gewenste 125 m\u00b2 en is de achtertuin met 47 m\u00b2 erg krap als je er ook nog een sauna in wilt plaatsen. Hoewel het een prachtig en instapklaar huis is dat perfect binnen je budget valt, schiet het op het gebied van ruimte en kamers net tekort voor jouw situatie.",
+        "buurt": "Centrum / De Parken (Apeldoorn)",
+        "prijs": 625000,
+        "datum": "2026-09-04 18:04"
+    },
+    "https://www.reindersmakelaars.nl/woningen/homerusstraat-23-apeldoorn-906419c3cd208d92e2438aa88cec74d09a5be1/": {
+        "adres": "Homerusstraat 23",
+        "score": 4,
+        "motivatie": "Beste Willem-Jan, op papier tikt deze woning heel veel boxen aan: de prijs van \u20ac 757.500 k.k. past perfect in je budget, de woning biedt met 149 m\u00b2 en 4 slaapkamers exact de ruimte die je zoekt, en de heerlijke tuin op het zuidwesten heeft meer dan genoeg ruimte voor een sauna. Bovendien is het huis met energielabel A, 16 zonnepanelen en een warmtepomp uiterst duurzaam. \n\nEchter, als we kijken naar jouw Woon-DNA, moeten we heel streng zijn op het karakter. Dit huis is gebouwd in 1994 en bevindt zich in een moderne villawijk. Er is werkelijk geen spoor van de door jou zo geliefde jaren '30 sfeer te bekennen: geen glas-in-lood, geen paneeldeuren en geen hoge plafonds. Het is een fantastisch en comfortabel gezinshuis, maar het mist de historische charme en ziel die jij zoekt. Daarom krijgt deze woning een lage match-score.",
+        "buurt": "Sprenkelaarsdijk",
+        "prijs": 757500,
+        "datum": "2026-09-04 18:07"
+    },
+    "https://www.reindersmakelaars.nl/woningen/chamavenlaan-13-apeldoorn-906419a322ff8f138940cf8dd609549cc6fb34/": {
+        "adres": "Chamavenlaan 13",
+        "score": 4,
+        "motivatie": "Willem-Jan, deze woning aan de Chamavenlaan heeft absoluut ruimte (166m2, 5 slaapkamers) en een fijne locatie in West Apeldoorn, maar qua Woon-DNA missen we hier de essentie volledig. Het is een bouwjaar uit 1973 (jaren '70 in plaats van jouw geliefde jaren '30 stijl) en er is geen sprake van glas-in-lood of karakteristieke paneeldeuren. Het is te modern en mist de charme waar jij naar zoekt, ondanks dat de prijs en de ruimte op papier in de buurt komen. Laten we doorzoeken naar een echt karakteristiek herenhuis!",
+        "buurt": "West Apeldoorn",
+        "prijs": 699000,
+        "datum": "2026-09-04 18:09"
+    },
+    "https://www.reindersmakelaars.nl/woningen/adelaarslaan-49-apeldoorn-90641985dec56bd8c04e688bf56ed51d319cce/": {
+        "adres": "Adelaarslaan 49",
+        "score": 4,
+        "motivatie": "Beste Willem-Jan, hoewel deze vrijstaande woning aan de Adelaarslaan op een prachtig ruim perceel van 498 m\u00b2 ligt en een fantastische grote garage heeft, sluit hij helaas niet goed aan bij jouw Woon-DNA. De woning stamt uit 1964 en mist de karakteristieke jaren '30 details (zoals glas-in-lood en paneeldeuren) die jij zo belangrijk vindt. Daarnaast is het woonoppervlak met 107 m\u00b2 aan de krappe kant vergeleken met jouw richtlijn van minimaal 125 m\u00b2. De tuin biedt weliswaar voldoende privacy en ruimte voor een sauna, maar door het gebrek aan historisch karakter en de beperktere binnenruimte krijgt deze woning van mij een lage score. We zoeken snel verder naar een \u00e9cht karakterpand!",
+        "buurt": "Apeldoorn Zuid",
+        "prijs": 600000,
+        "datum": "2026-09-04 18:10"
+    },
+    "https://www.mulderijmakelaardij.nl/woningen/strausslaan-81-apeldoorn-934984809bdda67df846cfbfa7fe91d72881c2/": {
+        "adres": "Strausslaan 81, Apeldoorn",
+        "score": 4,
+        "motivatie": "Beste Willem-Jan, hoewel deze woning aan de Strausslaan netjes is gemoderniseerd en op een mooie locatie in het Componistenkwartier ligt, mis ik volledig het karakter waar jij zo naar op zoek bent. Het is een bouwjaar 1965 tussenwoning van 106 m2 (wat aan de krappe kant is volgens onze richtlijn van 125-175 m2). Geen glas-in-lood, geen paneeldeuren en geen jaren '30 sfeer. Ook de tuin van 134 m2 perceel is aan de kleine kant voor een eventuele sauna. Ik zou deze overslaan en doorzoeken naar een echt herenhuis!",
+        "buurt": "Componistenkwartier",
+        "prijs": 425000,
+        "datum": "2026-09-04 18:13"
+    },
+    "https://www.mulderijmakelaardij.nl/woningen/einsteinlaan-53-apeldoorn-934984ff242a9d38fb450ca6049fca8f91c1bc/": {
+        "adres": "Einsteinlaan 53",
+        "score": 5,
+        "motivatie": "Hoi Willem-Jan, deze woning aan de Einsteinlaan biedt lekker veel ruimte (177 m2) en een fantastische tuin op het zuiden waar je met gemak je sauna kwijt kunt. Ook de prijs past binnen je budget. Maar... we moeten streng zijn op je Woon-DNA: het is een bouwjaar uit 2009. Geen glas-in-lood, geen paneeldeuren en geen authentieke jaren '30 sfeer, maar strak en modern. Echt een 'hoofd versus hart'-dingetje. Als je kunt leven met de moderne bouwstijl krijg je er wel heel veel comfort voor terug!",
+        "buurt": "De Parken / Kerschoten",
+        "prijs": 789000,
+        "datum": "2026-09-04 18:14"
+    },
+    "https://www.goos.nl/woning/soerenseweg-36": {
+        "adres": "Soerenseweg 36, 7314 CE Apeldoorn",
+        "score": 8,
+        "motivatie": "Hoi Willem-Jan, deze schitterende vrijstaande villa 'Rivendel' aan de Soerenseweg 36 in de Indische Buurt past bijna naadloos bij jouw Woon-DNA! Met een woonoppervlakte van 156 m\u00b2, 4 slaapkamers en een bouwjaar uit 1910 ademt dit huis volop karakter. Denk aan en-suite schuifdeuren, hoge ornamenten plafonds en een stijlvolle renovatie met behoud van authentieke details. De vraagprijs van \u20ac 925.000 zit weliswaar net iets boven jouw maximale budget van \u20ac 900.000, maar de ligging, de fantastische diepe tuin met veranda en de uitstekende verduurzaming (energielabel B met hybride warmtepomp en zonnepanelen) maken dit absoluut het overwegen waard. Er is bovendien meer dan genoeg ruimte in de tuin voor een sauna. Wat mij betreft een dikke 8 waard!",
+        "buurt": "Indische Buurt",
+        "prijs": 925000,
+        "datum": "2026-09-04 18:16"
+    },
+    "https://www.goos.nl/woning/lippe-biesterfeldstraat-15": {
+        "adres": "Lippe-Biesterfeldstraat 15, 7315 JK Apeldoorn",
+        "score": 5,
+        "motivatie": "Hoi Willem-Jan, deze woning ligt op een fantastische locatie in Het Loo (vlakbij het paleis en de bossen) en qua ruimte (140 m2, 4 slaapkamers) en prijs (\u20ac 480.000) zit je hier helemaal goed. Maar... je Woon-DNA vraagt om karakter zoals glas-in-lood en een jaren '30 stijl. Dit huis is gebouwd in 1972. Hoewel het flink is uitgebouwd, mis je hier volledig de authentieke details, paneeldeuren en hoge plafonds die jij zo mooi vindt. De tuin is wel lekker zonnig en biedt ruimte voor je sauna, maar qua sfeer vrees ik dat je hart herhaaldelijk 'nee' gaat zeggen. Wat mij betreft slaan we deze over.",
+        "buurt": "Het Loo",
+        "prijs": 480000,
+        "datum": "2026-09-04 18:17"
     }
 }

@@ -50,6 +50,11 @@ MAKELAARS = [
         "naam": "Mulderij Makelaardij",
         "base": "https://www.mulderijmakelaardij.nl",
         "url": "https://www.mulderijmakelaardij.nl/actueel/"
+    },
+    {
+        "naam": "Goos Makelaardij",
+        "base": "https://www.goos.nl",
+        "url": "https://www.goos.nl/woning"
     }
 ]
 
