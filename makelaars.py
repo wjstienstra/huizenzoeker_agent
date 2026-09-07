@@ -156,8 +156,8 @@ MAKELAARS = {
         },
         {
             "naam": "Vinke Veluwe Makelaars",
-            "base": "https://www.vinkeveluwemakelaars.nl",
-            "url": "https://www.vinkeveluwemakelaars.nl/woningaanbod/"
+            "base": "https://www.vinkeveluwe.nl",
+            "url": "https://www.vinkeveluwe.nl/woningaanbod/"
         },
         {
             "naam": "Nijeborgh Makelaardij",

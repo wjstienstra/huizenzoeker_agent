@@ -11,13 +11,13 @@
     "geheugen_bestand": "gezien_huizen_wj.json"
   },
   {
-    "id": "moeder_harderwijk_ermelo",
-    "naam": "Moeder van Willem-Jan",
+    "id": "harderwijk_ermelo",
+    "naam": "Ida",
     "regio": "Harderwijk_Ermelo",
     "focus_locaties": "Harderwijk en Ermelo, met een zeer sterke focus op wijken op korte loopafstand van het centrum, supermarkten en dagelijkse voorzieningen. Geen buitengebied.",
     "budget_min": 500000,
     "budget_max": 800000,
-    "woon_dna": "Type: Levensloopbestendig (bungalow of slaap/badkamer op begane grond) óf een ruim en luxe appartement met lift. Ruimte: 100 - 150 m2 met ruimte voor logees of hobby. Buiten: Een klein, onderhoudsvriendelijk tuintje óf een royaal balkon waar je comfortabel buiten kunt zitten (geen grote lappen grond). Stijl: Luxe uitstraling, instapklaar en modern afgewerkt; woningen met een gedateerde of verjaarde inrichting (oude badkamers, schrootjes) direct laag scoren.",
+    "woon_dna": "Type: Levensloopbestendig (bungalow of slaap/badkamer op begane grond) óf een ruim en luxe appartement met lift. Ruimte: 100 - 150 m2 met ruimte voor logees of hobby. Buiten: Een klein, onderhoudsvriendelijk tuintje óf een royaal balkon waar je comfortabel buiten kunt zitten (geen grote lappen grond). Stijl: Luxe uitstraling, instapklaar en modern afgewerkt; woningen met een gedateerde of verjaarde inrichting (oude badkamers, schrootjes) direct laag scoren. Status: Woningen moeten op korte termijn beschikbaar zijn. Sluit nieuwbouwprojecten met een opleverdatum ver in de toekomst (zoals 2027 of 2028) direct uit met een score van 1.",
     "telegram_chat_id": "JOUW_EIGEN_CHAT_ID"
   }
 ]
