@@ -679,6 +679,30 @@
             "buurt": "Apeldoorn",
             "prijs": 425000,
             "datum": "2026-09-07 15:43"
+        },
+        "https://www.deheusmakelaardij.nl/woning/apeldoorn-anklaarseweg-412-AN101695": {
+            "adres": "Anklaarseweg 412",
+            "score": 5,
+            "motivatie": "Beste Willem-Jan, deze semi-bungalow aan de Anklaarseweg biedt qua ruimte (152 m\u00b2) en perceel (655 m\u00b2) absoluut potentie, maar past qua 'Woon-DNA' niet echt bij jouw wensen. Met een bouwjaar uit 1971 ontbreekt het karakteristieke jaren '30 gevoel (geen glas-in-lood of typische paneeldeuren). Wel is het fijn dat er genoeg slaapkamers zijn en de ruime tuin alle ruimte biedt voor je sauna. Aangezien de vraagprijs (\u20ac 625.000) ruim binnen budget valt, kunnen we een kijkje wagen als je concessies wilt doen op stijl, maar ik vermoed dat we beter kunnen doorzoeken naar een echte klassieker!",
+            "buurt": "Zevenhuizen",
+            "prijs": 625000,
+            "datum": "2026-09-07 19:03"
+        },
+        "https://www.goos.nl/woning/sluisoordlaan-416": {
+            "adres": "Sluisoordlaan 416",
+            "score": 5,
+            "motivatie": "Beste Willem-Jan, hoewel deze instapklare woning qua woonoppervlakte (133 m\u00b2) en aantal slaapkamers (4) netjes binnen jouw richtlijnen valt en scherp geprijsd is op \u20ac 439.500, mist het helaas jouw geliefde Woon-DNA volledig. Het is een moderne tussenwoning in Zevenhuizen en geen jaren '30 stijl herenhuis; je zult tevergeefs zoeken naar glas-in-lood of authentieke paneeldeuren. De onderhoudsvrije tuin met overkapping biedt wel mogelijkheden, maar het karakter waar jij zo naar verlangt ontbreekt hier totaal. Gezien je budget tot \u20ac 900.000 kunnen we echt op zoek naar iets met meer authentieke sfeer!",
+            "buurt": "Zevenhuizen",
+            "prijs": 439500,
+            "datum": "2026-09-07 19:03"
+        },
+        "https://vanvlietmakelaardij.nl/woning/hoog-soeren-hoog-soeren-18b/": {
+            "adres": "Hoog Soeren 18B, 7346 AB Hoog Soeren",
+            "score": 5,
+            "motivatie": "Hoi Willem-Jan, ik heb deze woning in Hoog Soeren voor je bekeken. Hoewel de locatie prachtig is en de woning heerlijk ruim en duurzaam (nieuwbouw uit 2027), valt hij op twee cruciale punten buiten de boot. Ten eerste is de vraagprijs van \u20ac 1.195.000,- flink hoger dan jouw maximale budget van \u20ac 900.000,-. Daarnaast mis ik het echte authentieke jaren '30 karakter en de specifieke details waar jij zo van houdt; het is namelijk een nieuwbouwwoning. Wel is er ruimte genoeg voor een sauna! Gezien het forse prijsverschil adviseer ik om deze te laten schieten.",
+            "buurt": "Hoog Soeren",
+            "prijs": 1195000,
+            "datum": "2026-09-07 19:05"
         }
     },
     "harderwijk_ermelo": {
@@ -1049,6 +1073,22 @@
             "buurt": "Huys van Zuylen",
             "prijs": 605000,
             "datum": "2026-09-07 15:56"
+        },
+        "https://www.janvandenberg-makelaar.nl/woningen/oude-arnhemsekarweg-17-ermelo-939492a57fd41e3e184e11bc979d4e17fd68a5/": {
+            "adres": "Oude Arnhemsekarweg 17, Ermelo",
+            "score": 5,
+            "motivatie": "Lieve Ida, deze vrijstaande woning aan de Oude Arnhemsekarweg in Ermelo is absoluut prachtig en biedt dankzij de slaap- en badkamer op de begingrond perfect levensloopbestendig comfort. Toch geef ik dit huis een score van 5, en dat komt om twee belangrijke redenen: ten eerste ligt de vraagprijs met \u20ac 985.000 flink boven jouw maximale budget van \u20ac 800.000. Daarnaast hoort bij dit perceel van 726 m\u00b2 een tuin rondom, wat groter is dan het kleine, onderhoudsvriendelijke tuintje dat jij zocht. Hoewel de afwerking modern en instapklaar is en de locatie fantastisch, past het simpelweg niet binnen jouw financi\u00eble en ruimtelijke kaders.",
+            "buurt": "Ermelo (nabij bos en centrum)",
+            "prijs": 985000,
+            "datum": "2026-09-07 19:06"
+        },
+        "https://www.janvandenberg-makelaar.nl/woningen/huygenslaan-43-ermelo-9394929e655ce2026e4da58424e8cce2f399ea/": {
+            "adres": "Huygenslaan 43, Ermelo",
+            "score": 1,
+            "motivatie": "Ida, deze prachtige villa in Ermelo valt direct af. Met een vraagprijs van \u20ac 1.340.000 overschrijdt deze woning ruimschoots jouw maximale budget van \u20ac 800.000. Daarnaast is een perceel van 1.206 m\u00b2 veel te groot voor wie een klein, onderhoudsvriendelijk tuintje zoekt. Helaas, we zoeken verder!",
+            "buurt": "Ermelo-Noord",
+            "prijs": 1340000,
+            "datum": "2026-09-07 19:07"
         }
     },
     "moeder_harderwijk_ermelo": {
