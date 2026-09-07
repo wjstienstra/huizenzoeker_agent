@@ -6,6 +6,7 @@
     "focus_locaties": "Apeldoorn Noord/West, specifiek postcodes 7311, 7313, 7314, 7315, 7316 (Centrum, Parken, Berg en Bos, Indische buurt)",
     "budget_min": 400000,
     "budget_max": 900000,
+    "focus_gebied": "esthetiek en karakter",
     "woon_dna": "Karakter: Glas-in-lood, paneeldeuren, jaren '30 stijl (of ouder herenhuis). Ruimte: Minimaal 3 slaapkamers, 125-175m2 als richtlijn. Tuin: Goede tuinligging met ruimte voor een kleine sauna is een pre.",
     "telegram_chat_id": "JOUW_EIGEN_CHAT_ID",
     "geheugen_bestand": "gezien_huizen_wj.json"
@@ -17,7 +18,10 @@
     "focus_locaties": "Harderwijk en Ermelo, met een zeer sterke focus op wijken op korte loopafstand van het centrum, supermarkten en dagelijkse voorzieningen. Geen buitengebied.",
     "budget_min": 500000,
     "budget_max": 800000,
+    "focus_gebied": "loopafstand en praktisch",
     "woon_dna": "Type: Levensloopbestendig (bungalow of slaap/badkamer op begane grond) óf een ruim en luxe appartement met lift. Ruimte: 100 - 150 m2 met ruimte voor logees of hobby. Buiten: Een klein, onderhoudsvriendelijk tuintje óf een royaal balkon waar je comfortabel buiten kunt zitten (geen grote lappen grond). Stijl: Luxe uitstraling, instapklaar en modern afgewerkt; woningen met een gedateerde of verjaarde inrichting (oude badkamers, schrootjes) direct laag scoren. Status: Woningen moeten op korte termijn beschikbaar zijn. Sluit nieuwbouwprojecten met een opleverdatum ver in de toekomst (zoals 2027 of 2028) direct uit met een score van 1.",
     "telegram_chat_id": "JOUW_EIGEN_CHAT_ID"
   }
 ]
+
+  

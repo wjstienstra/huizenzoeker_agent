@@ -3,11 +3,6 @@
 MAKELAARS = {
     "Apeldoorn": [
         {
-            "naam": "Rodenburg", 
-            "base": "https://rodenburg.nl", 
-            "url": "https://rodenburg.nl/wonen/aanbod?buy_rent=buy&buy_price=400000-1000000&status=beschikbaar"
-        },
-        {
             "naam": "Van Laarhoven en Paul Makelaardij", 
             "base": "https://vlpmakelaardij.nl", 
             "url": "https://vlpmakelaardij.nl/woningaanbod/?view=list&straat&plaats=apeldoorn&prijs_vanaf=400000&prijs_tot=1000000"
@@ -94,11 +89,6 @@ MAKELAARS = {
         }
     ],
         "Harderwijk_Ermelo": [
-        {
-            "naam": "Randmeer Makelaars",
-            "base": "https://randmeermakelaars.nl",
-            "url": "https://randmeermakelaars.nl/aanbod/"
-        },
         {
             "naam": "Van der Hoek Makelaardij",
             "base": "https://www.vanderhoekmakelaardij.nl",
