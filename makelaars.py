@@ -97,22 +97,22 @@ MAKELAARS = {
         {
             "naam": "Randmeer Makelaars",
             "base": "https://randmeermakelaars.nl",
-            "url": "https://randmeermakelaars.nl/woningaanbod/koop/"
+            "url": "https://randmeermakelaars.nl/aanbod/"
         },
         {
             "naam": "Van der Hoek Makelaardij",
             "base": "https://www.vanderhoekmakelaardij.nl",
-            "url": "https://www.vanderhoekmakelaardij.nl/aanbod/woningaanbod/koop/"
+            "url": "https://www.vanderhoekmakelaardij.nl/woningen/"
         },
         {
             "naam": "Uniecker Wonen Makelaars",
             "base": "https://www.unieckerwonenmakelaars.nl",
-            "url": "https://www.unieckerwonenmakelaars.nl/woningaanbod/koop/"
+            "url": "https://www.unieckerwonenmakelaars.nl/aanbod/koopwoningen"
         },
         {
             "naam": "Jan van den Berg Makelaardij",
             "base": "https://www.janvandenberg-makelaar.nl",
-            "url": "https://www.janvandenberg-makelaar.nl/aanbod/woningaanbod/koop/"
+            "url": "https://www.janvandenberg-makelaar.nl/woningen/"
         },
         {
             "naam": "Makelaardij bijWillem",
@@ -127,17 +127,42 @@ MAKELAARS = {
         {
             "naam": "Bart Jansen Makelaars",
             "base": "https://www.bartjansenmakelaars.nl",
-            "url": "https://www.bartjansenmakelaars.nl/woningaanbod/koop/"
+            "url": "https://www.bartjansenmakelaars.nl/onze-huizen/"
         },
         {
             "naam": "Pfrommer Makelaardij",
             "base": "https://www.pfrommermakelaardij.nl",
-            "url": "https://www.pfrommermakelaardij.nl/aanbod/woningaanbod/koop/"
+            "url": "https://www.pfrommermakelaardij.nl/aanbod"
         },
         {
             "naam": "Het Geldersch Huys",
             "base": "https://www.hetgelderschhuys.nl",
-            "url": "https://www.hetgelderschhuys.nl/woningaanbod/koop/"
+            "url": "https://www.hetgelderschhuys.nl/woningaanbod"
+        },
+        {
+            "naam": "Brandt Makelaars",
+            "base": "https://www.brandtmakelaars.nl",
+            "url": "https://www.brandtmakelaars.nl/woningen/"
+        },
+        {
+            "naam": "Midden Nederland Makelaars",
+            "base": "https://www.mnm.nl",
+            "url": "https://mnm.nl/woningen/"
+        },
+        {
+            "naam": "Makelaarsschap Flevoland",
+            "base": "https://www.makelaarsschap.nl",
+            "url": "https://makelaarschap.nl/aanbod/"
+        },
+        {
+            "naam": "Vinke Veluwe Makelaars",
+            "base": "https://www.vinkeveluwemakelaars.nl",
+            "url": "https://www.vinkeveluwemakelaars.nl/woningaanbod/"
+        },
+        {
+            "naam": "Nijeborgh Makelaardij",
+            "base": "https://www.nijeborghmakelaardij.nl/",
+            "url": "https://www.nijeborghmakelaardij.nl/woningaanbod/koop/"
         }
     ]
 }

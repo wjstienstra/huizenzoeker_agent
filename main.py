@@ -69,14 +69,14 @@ def stuur_telegram_notificatie(adres, score, motivatie, url, regio, profiel_chat
         print("⚠️ Telegram configuratie ontbreekt in .env of profielen.json.")
         return
     
-    # Telegram gebruikt Markdown voor dikgedrukte tekst (*)
-    bericht = f"🌟 *Nieuwe Match in {regio}!*\n\n🏠 {adres}\n⭐ Score: {score}/10\n\n💡 {motivatie}\n\n🔗 {url}"
+    # HTML is veel veiliger dan Markdown, omdat underscores in URLs niet meer crashen
+    bericht = f"🌟 <b>Nieuwe Match in {regio}!</b>\n\n🏠 {adres}\n⭐ Score: {score}/10\n\n💡 {motivatie}\n\n🔗 {url}"
     
     api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     payload = {
         "chat_id": chat_id,
         "text": bericht,
-        "parse_mode": "Markdown"
+        "parse_mode": "HTML"
     }
     
     try:

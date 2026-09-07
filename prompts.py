@@ -13,6 +13,7 @@ STRIKTE CRITERIA:
    - NEGEER: Woningen die overduidelijk buiten deze gebieden vallen.
 2. Prijs: Tussen € {profiel['budget_min']} en € {profiel['budget_max']}.
 3. Type: Geen recreatie of commercieel, tenzij expliciet vermeld in de wensen.
+4. Status: Negeer woningen die 'verkocht', 'verkocht onder voorbehoud' of 'onder bod' zijn. We zoeken uitsluitend beschikbaar aanbod.
 
 URL KOPPELING (CRUCIAAL):
 - Je krijgt een lijst met 'GOUDEN URLS' die de scraper heeft gevonden.
