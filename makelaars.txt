@@ -1,33 +1,25 @@
-Rodenburg: https://rodenburg.nl/wonen/aanbod?buy_rent=buy&buy_price=400000-1000000&status=beschikbaar&order_by=created_at-desc&page=1
+In Holland staat een Huis Makelaars - Toegevoegd --> Checken, mogelijk geen resultaten
+Rodenburg: - Toegevoegd
+Hunink & Holtrigter - Toegevoegd
+Drieklomp - Toegevoegd
+Van Laarhoven en Paul Makelaardij - Toegevoegd
+OpenDeur Apeldoorn - Toegevoegd
+Reinders Makelaars - Toegevoegd
+Mulderij Makelaardij - Toegevoegd
+Goos Makelaardij - Toegevoegd
+Alpina Makelaardij - Toegevoegd
+Landheeren Makelaardij - Toegevoegd
+Mennink Makelaars - Toegevoegd
+Koningsstede.nl - Toegevoegd
+Van Vliet Makelaardij O.G. - Toegevoegd
+iQ makelaars Apeldoorn & Deventer - Toegevoegd
+De Heus Makelaardij - Toegevoegd
+WitteWoning Makelaars Apeldoorn - Toegevoegd
+Ten Hag Bisterbosch - Toegevoegd
 
-Thoma Post: https://thomapost.nl/aanbod/woningaanbod/apeldoorn/
-
-Hunink & Holtrigter: https://www.huninkholtrigter.nl/koop-aanbod/?_plaatsen=apeldoorn
-
-Drieklomp: https://www.drieklomp.nl/woningen/?_zoeken=apeldoorn&_status=beschikbaar 
-
-Van Laarhoeven en Paul Makelaardij
-
-iQ makelaars Apeldoorn & Deventer
-
-WitteWoning Makelaars Apeldoorn
-
-De Heus Makelaardij
-
-OpenDeur Apeldoorn
-
-In Holland staat een Huis Makelaars
-
-Tysma Makelaardij B.V.
-
-Guidan aankoopmakelaar
-
-Trentvast B.V.
+Thoma Post Makelaars - Niks in Apeldoorn
+Tysma Makelaardij B.V. - Niks in Apeldoorn, wel in Deventer
+Guidan aankoopmakelaar - Niet echt aanbod
 
 
-Gemini 3.1 Flash Lite (latest)
-Gemini 3 Flash (Latest)
-Gemini 2.5 Flash
-Gemini 2.5 Pro (Latest)
-Gemini 2 Flash
-Gemini 2 Flash Lite
+

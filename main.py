@@ -10,16 +10,17 @@ from bs4 import BeautifulSoup
 from pydantic_ai import Agent
 from pydantic_ai.models.google import GoogleModel
 from pydantic_ai.providers.google import GoogleProvider
-from models import WoningLijst, Woning 
 
 # Externe configuratie
-from prompts import VERKENNER_SYSTEM_PROMPT, TAXATEUR_SYSTEM_PROMPT
+from models import WoningLijst, Woning 
+from prompts import genereer_verkenner_prompt, genereer_taxateur_prompt
 from makelaars import MAKELAARS
 
 load_dotenv()
 
 # --- CONFIGURATIE ---
-MEMORY_FILE = "gezien_huizen.json"
+MEMORY_FILE = "huizen_gezien.json"
+
 provider = GoogleProvider(api_key=os.getenv('GEMINI_API_KEY'))
 
 CASCADE_MODELS = [
@@ -30,30 +31,46 @@ CASCADE_MODELS = [
     'gemini-3.5-flash-lite'
 ]
 
-# --- GEHEUGEN LOGICA ---
-def load_memory():
+# --- PROFIELEN LOGICA ---
+def laad_profielen():
+    if not os.path.exists('profielen.json'):
+        print("❌ Kan profielen.json niet vinden. Zorg dat het bestand bestaat.")
+        return []
+    try:
+        with open('profielen.json', 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"⚠️ Fout bij het inlezen van profielen.json: {e}")
+        return []
+
+# --- GECENTRALISEERDE GEHEUGEN LOGICA ---
+def laad_geheugen():
     if os.path.exists(MEMORY_FILE):
         try:
-            with open(MEMORY_FILE, 'r') as f:
+            with open(MEMORY_FILE, 'r', encoding='utf-8') as f:
                 return json.load(f)
-        except: return {}
+        except Exception as e:
+            print(f"⚠️ Fout bij het inlezen van geheugen ({MEMORY_FILE}): {e}")
+            return {}
     return {}
 
-def save_memory(memory):
-    with open(MEMORY_FILE, 'w') as f:
-        json.dump(memory, f, indent=4)
+def sla_geheugen_op(geheugen):
+    with open(MEMORY_FILE, 'w', encoding='utf-8') as f:
+        json.dump(geheugen, f, indent=4)
 
 # --- TELEGRAM NOTIFICATIE LOGICA ---
-def stuur_telegram_notificatie(adres, score, motivatie, url):
+def stuur_telegram_notificatie(adres, score, motivatie, url, regio, profiel_chat_id):
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
-    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    
+    # Fallback: Als in profielen.json een dummy-waarde staat, gebruik dan de .env variabele
+    chat_id = profiel_chat_id if profiel_chat_id and "JOUW_" not in profiel_chat_id else os.getenv("TELEGRAM_CHAT_ID")
 
     if not bot_token or not chat_id:
-        print("⚠️ Telegram configuratie ontbreekt in .env of secrets.")
+        print("⚠️ Telegram configuratie ontbreekt in .env of profielen.json.")
         return
     
     # Telegram gebruikt Markdown voor dikgedrukte tekst (*)
-    bericht = f"🌟 *Nieuwe Match in Apeldoorn!*\n\n🏠 {adres}\n⭐ Score: {score}/10\n\n💡 {motivatie}\n\n🔗 {url}"
+    bericht = f"🌟 *Nieuwe Match in {regio}!*\n\n🏠 {adres}\n⭐ Score: {score}/10\n\n💡 {motivatie}\n\n🔗 {url}"
     
     api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     payload = {
@@ -71,19 +88,18 @@ def stuur_telegram_notificatie(adres, score, motivatie, url):
     except Exception as e:
         print(f"📱 ❌ Telegram API error: {e}")
 
-
 # --- DE CASCADE RUNNER ---
-async def cascade_run(agent_factory, prompt):
+async def cascade_run(agent_factory, system_prompt, user_prompt):
     last_error = None
-    for model_name in CASCADE_MODELS:
-        model = GoogleModel(model_name, provider=provider)
-        agent = agent_factory(model)
+    for model_naam in CASCADE_MODELS:
+        model = GoogleModel(model_naam, provider=provider)
+        agent = agent_factory(model, system_prompt)
         retries, max_retries, wachttijd = 0, 2, 2
         
-        print(f"🤖 Poging met model: {model_name}...")
+        print(f"🤖 Poging met model: {model_naam}...")
         while retries <= max_retries:
             try:
-                return await agent.run(prompt)
+                return await agent.run(user_prompt)
             except Exception as e:
                 err = str(e).lower()
                 if any(msg in err for msg in ["503", "high demand", "unavailable"]):
@@ -92,18 +108,19 @@ async def cascade_run(agent_factory, prompt):
                     wachttijd *= 2
                     continue
                 elif "429" in err or "quota" in err:
-                    print(f"   🚫 Quota bereikt voor {model_name}. Volgende...")
+                    print(f"   🚫 Quota bereikt voor {model_naam}. Volgende...")
                     break 
-                else: raise e
-        last_error = f"Laatste model {model_name} faalde."
+                else: 
+                    raise e
+        last_error = f"Laatste model {model_naam} faalde."
     raise Exception(f"Model Cascade volledig uitgeput. {last_error}")
 
 # --- AGENT FACTORIES ---
-def get_verkenner(model):
-    return Agent(model, output_type=WoningLijst, system_prompt=VERKENNER_SYSTEM_PROMPT)
+def get_verkenner(model, system_prompt):
+    return Agent(model, output_type=WoningLijst, system_prompt=system_prompt)
 
-def get_taxateur(model):
-    return Agent(model, output_type=Woning, system_prompt=TAXATEUR_SYSTEM_PROMPT)
+def get_taxateur(model, system_prompt):
+    return Agent(model, output_type=Woning, system_prompt=system_prompt)
 
 # --- DE ROBUUSTE UNIVERSELE SCRAPER ---
 async def scrape_url(url, base_url, is_detail=False):
@@ -164,81 +181,116 @@ async def scrape_url(url, base_url, is_detail=False):
 
 # --- MAIN LOOP ---
 async def main():
-    geheugen = load_memory()
-    eind_resultaat = []
-    nieuwe_scans = False
+    profielen = laad_profielen()
+    
+    if not profielen:
+        print("❌ Geen profielen ingeladen. Script stopt.")
+        return
 
-    for m in MAKELAARS:
-        print(f"\n--- SCAN START: {m['naam']} ---")
-        ruwe_tekst, gevonden_links = await scrape_url(m['url'], m['base'])
+    # Laad het gecentraliseerde geheugen in
+    volledig_geheugen = laad_geheugen()
+    wijzigingen_gemaakt = False
+
+    for profiel in profielen:
+        profiel_id = profiel['id']
         
-        if len(ruwe_tekst) < 500:
-            print(f"❌ Content bleef te summier voor {m['naam']}. Mogelijk sterke blokkade.")
+        # Maak een eigen sectie aan in het geheugen als dit profiel nog niet bestaat
+        if profiel_id not in volledig_geheugen:
+            volledig_geheugen[profiel_id] = {}
+            
+        profiel_geheugen = volledig_geheugen[profiel_id]
+
+        print(f"\n" + "="*50)
+        print(f"🚀 START ZOEKTOCHT VOOR PROFIEL: {profiel['naam']} ({profiel['regio']})")
+        print("="*50)
+
+        eind_resultaat = []
+        makelaars_lijst = MAKELAARS.get(profiel['regio'], [])
+        
+        if not makelaars_lijst:
+            print(f"❌ Geen makelaars gevonden in makelaars.py voor regio: {profiel['regio']}")
             continue
 
-        try:
-            res_verkenner = await cascade_run(
-                get_verkenner, 
-                f"Analyseer aanbod van {m['naam']}.\nTekst: {ruwe_tekst[:25000]}\nURLs: {gevonden_links}"
-            )
-            
-            print(f"   ✅ Verkenner vond {len(res_verkenner.output.woningen)} woningen.")
-            
-            for woning in res_verkenner.output.woningen:
-                if not woning.url or woning.url in geheugen:
-                    if woning.url in geheugen: print(f"⏩ Bekend: {woning.adres}")
-                    continue
+        verkenner_sys_prompt = genereer_verkenner_prompt(profiel)
+        taxateur_sys_prompt = genereer_taxateur_prompt(profiel)
 
-                print(f"🔎 Deep Scan: {woning.adres}")
-                details, _ = await scrape_url(woning.url, m['base'], is_detail=True)
+        for m in makelaars_lijst:
+            print(f"\n--- SCAN START: {m['naam']} ---")
+            ruwe_tekst, gevonden_links = await scrape_url(m['url'], m['base'])
+            
+            if len(ruwe_tekst) < 500:
+                print(f"❌ Content bleef te summier voor {m['naam']}.")
+                continue
+
+            try:
+                res_verkenner = await cascade_run(
+                    get_verkenner, 
+                    verkenner_sys_prompt,
+                    f"Analyseer aanbod van {m['naam']}.\nTekst: {ruwe_tekst[:25000]}\nURLs: {gevonden_links}"
+                )
                 
-                if len(details) > 1000:
-                    try:
-                        check = await cascade_run(get_taxateur, f"Beoordeel deze woning: {details[:30000]}")
-                        woning_data = check.output
-                        woning_data.url = woning.url 
-                        
-                        geheugen[woning.url] = {
-                            "adres": woning_data.adres, "score": woning_data.match_score,
-                            "motivatie": woning_data.motivatie, "buurt": woning_data.buurt,
-                            "prijs": woning_data.prijs, "datum": datetime.now().strftime("%Y-%m-%d %H:%M")
-                        }
-                        nieuwe_scans = True
-                        eind_resultaat.append(woning_data)
+                print(f"   ✅ Verkenner vond {len(res_verkenner.output.woningen)} woningen.")
+                
+                for woning in res_verkenner.output.woningen:
+                    if not woning.url or woning.url in profiel_geheugen:
+                        if woning.url in profiel_geheugen: 
+                            print(f"⏩ Bekend in geheugen van {profiel['naam']}: {woning.adres}")
+                        continue
 
-                        # --- TELEGRAM TRIGGER ---
-                        if woning_data.match_score >= 8:
-                            # Stuur Telegram
-                            stuur_telegram_notificatie(
-                                woning_data.adres, 
-                                woning_data.match_score, 
-                                woning_data.motivatie, 
-                                woning_data.url
+                    print(f"🔎 Deep Scan: {woning.adres}")
+                    details, _ = await scrape_url(woning.url, m['base'], is_detail=True)
+                    
+                    if len(details) > 1000:
+                        try:
+                            check = await cascade_run(
+                                get_taxateur, 
+                                taxateur_sys_prompt, 
+                                f"Beoordeel deze woning: {details[:30000]}"
                             )
+                            woning_data = check.output
+                            woning_data.url = woning.url 
+                            
+                            profiel_geheugen[woning.url] = {
+                                "adres": woning_data.adres, "score": woning_data.match_score,
+                                "motivatie": woning_data.motivatie, "buurt": woning_data.buurt,
+                                "prijs": woning_data.prijs, "datum": datetime.now().strftime("%Y-%m-%d %H:%M")
+                            }
+                            wijzigingen_gemaakt = True
+                            eind_resultaat.append(woning_data)
 
-                        await asyncio.sleep(1) # API beleefdheidspauze
-                    except Exception as e:
-                        print(f"❌ Analyse mislukt voor {woning.adres}: {e}")
-                else:
-                    print(f"⚠️ Detailpagina van {woning.adres} kon niet gelezen worden.")
-        except Exception as e:
-            print(f"❌ Fout bij verwerken lijst {m['naam']}: {e}")
+                            if woning_data.match_score >= 8:
+                                stuur_telegram_notificatie(
+                                    woning_data.adres, 
+                                    woning_data.match_score, 
+                                    woning_data.motivatie, 
+                                    woning_data.url,
+                                    profiel['regio'],
+                                    profiel.get('telegram_chat_id')
+                                )
 
-    if nieuwe_scans:
-        save_memory(geheugen)
-        print("--- Geheugen bijgewerkt met nieuwe resultaten. ---")
+                            await asyncio.sleep(1)
+                        except Exception as e:
+                            print(f"❌ Analyse mislukt voor {woning.adres}: {e}")
+                    else:
+                        print(f"⚠️ Detailpagina van {woning.adres} kon niet gelezen worden.")
+            except Exception as e:
+                print(f"❌ Fout bij verwerken lijst {m['naam']}: {e}")
 
-    print("\n" + "="*50 + "\nNIEUWE RESULTATEN VANDAAG\n" + "="*50)
-    
-    unieke_matches = {res.url: res for res in eind_resultaat}.values()
-    
-    if not unieke_matches:
-        print("Geen nieuwe woningen gevonden die aan je Woon-DNA voldoen.")
-    else:
-        for res in sorted(unieke_matches, key=lambda x: x.match_score, reverse=True):
-            print(f"🌟 {res.adres} - SCORE: {res.match_score}/10")
-            print(f"   💡 {res.motivatie}")
-            print(f"   🔗 {res.url}\n")
+        print("\n" + "-"*40 + f"\nRESULTATEN VOOR {profiel['naam'].upper()}\n" + "-"*40)
+        unieke_matches = {res.url: res for res in eind_resultaat}.values()
+        
+        if not unieke_matches:
+            print("Geen nieuwe woningen gevonden die aan het Woon-DNA voldoen.")
+        else:
+            for res in sorted(unieke_matches, key=lambda x: x.match_score, reverse=True):
+                print(f"🌟 {res.adres} - SCORE: {res.match_score}/10")
+                print(f"   💡 {res.motivatie}")
+                print(f"   🔗 {res.url}\n")
+
+    # Opslaan van het totale geheugen als er bij minstens 1 profiel iets is gewijzigd
+    if wijzigingen_gemaakt:
+        sla_geheugen_op(volledig_geheugen)
+        print("\n--- Gecentraliseerd geheugen (huizen_gezien.json) bijgewerkt met nieuwe resultaten. ---")
 
 if __name__ == "__main__":
     asyncio.run(main())

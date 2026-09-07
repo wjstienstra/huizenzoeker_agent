@@ -40,7 +40,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
-        git add gezien_huizen.json
+        git add huizen_gezien.json
         
         # Check of de JSON daadwerkelijk is gewijzigd
         if ! git diff --staged --quiet; then
