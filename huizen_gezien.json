@@ -503,9 +503,226 @@
             "buurt": "Zevenhuizen",
             "prijs": 419500,
             "datum": "2026-09-07 11:14"
+        },
+        "https://www.koningsstede.nl/woningen/sterrenlaan-10-apeldoorn-936649ef95b024d9b242b2814e1f388766cbd5/": {
+            "adres": "Sterrenlaan 10, Apeldoorn",
+            "score": 9,
+            "motivatie": "Hoi Willem-Jan, dit is echt een schot in de roos! Deze vrijstaande jaren '30 woning aan de Sterrenlaan in Apeldoorn-West past bijna perfect bij je wensen. Met een woonoppervlakte van 136 m\u00b2 zit hij keurig binnen je richtlijn, en er zijn maar liefst 5 slaapkamers (dus ruimschoots aan jouw minimale eis van 3 voldaan). De vraagprijs van \u20ac 725.000 valt ruim binnen je budget van \u20ac 900.000. De tuin rondom is fantastisch en biedt alle ruimte voor je wens om een kleine sauna te plaatsen (er staat zelfs al een grote houten schuur/bijgebouw). Het enige kleine minpuntje is dat we even goed moeten controleren of er nog specifieke authentieke details zoals glas-in-lood behouden zijn, maar de bouwstijl en uitstraling ademen absoluut de jaren '30 sfeer. Wat mij betreft snel een afspraak for een bezichtiging plannen!",
+            "buurt": "Apeldoorn-West",
+            "prijs": 725000,
+            "datum": "2026-09-07 12:15"
         }
     },
-    "harderwijk_ermelo": {},
+    "harderwijk_ermelo": {
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/harderwijk/24747-israelstraat-3/": {
+            "adres": "Israelstraat 3, 3841 CL Harderwijk",
+            "score": 5,
+            "motivatie": "Hoi Ida, deze woning aan de Israelstraat in Harderwijk is op papier best interessant qua grootte (114 m\u00b2 valt keurig binnen jouw wens van 100-150 m\u00b2) en heeft een heerlijk ruim dakterras van 26 m\u00b2 op het zuidwesten, wat perfect aansluit bij jouw wens voor een fijne, onderhoudsvriendelijke buitenplek. Ook de vraagprijs (\u20ac 575.000) past ruim binnen jouw budget. \n\nWaarom geef ik toch een matige score van een 5? Dit is een maisonnette-appartement verdeeld over meerdere verdiepingen (1e en 2e verdieping) met de slaapkamers en badkamer boven en de woonkamer onder. Het is dus geen gelijkvloerse woning en ik kan in de advertentie niet met zekerheid achterhalen of er een lift aanwezig is in het complex. Daarnaast is de afwerking op de foto's wat gedateerd/eenvoudig te noemen, terwijl jij houdt van een luxe en instapklare moderne stijl. Gezien deze punten sluit het niet helemaal naadloos aan op jouw Woon-DNA. Wat denk jij?",
+            "buurt": "Binnenstad Harderwijk",
+            "prijs": 575000,
+            "datum": "2026-09-07 12:17"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/ermelo/bungalow/24658-bunder-7/": {
+            "adres": "Bunder 7, Ermelo",
+            "score": 1,
+            "motivatie": "Lieve Ida, hoewel deze woning op papier qua indeling (levensloopbestendig met slaap- en badkamer beneden) en oppervlakte (113 m2) heel goed aansluit bij je wensen, is er \u00e9\u00e9n hele grote dealbreaker: het bouwjaar is 2028. Volgens jouw Woon-DNA sluiten we nieuwbouwprojecten met een opleverdatum ver in de toekomst direct uit. Daarom krijgt dit huis een score van 1 en laten we deze schieten!",
+            "buurt": "Horsterhoeve",
+            "prijs": 675000,
+            "datum": "2026-09-07 12:17"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/harderwijk/eengezinswoning/24629-langezand-74/": {
+            "adres": "Langezand 74, 3846 JG Harderwijk",
+            "score": 5,
+            "motivatie": "Dag Ida, deze woning aan de Langezand 74 in Harderwijk is op papier prachtig, modern en absoluut instapklaar (gebouwd in 2020 met een luxe afwerking en twee badkamers). Met 144 m\u00b2 biedt het ook volop ruimte. Toch geef ik deze woning een score van 5, omdat het een eengezinswoning is (hoekwoning met meerdere verdiepingen) en dus niet voldoet aan jouw specifieke wens voor een levensloopbestendige woning of een luxe appartement met lift. Bovendien ligt dit huis in Harderwijk en niet in jouw gewenste regio Apeldoorn. Hoewel het qua stijl en onderhoud perfect aansluit bij jouw smaak, past het woningtype simpelweg niet bij je woonwensen.",
+            "buurt": "Harderwijk",
+            "prijs": 739000,
+            "datum": "2026-09-07 12:17"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/harderwijk/eengezinswoning/24481-operadreef-60/": {
+            "adres": "Operadreef 60, Harderwijk",
+            "score": 5,
+            "motivatie": "Dag Ida! Deze woning aan de Operadreef in Harderwijk is echt prachtig: ontzettend netjes, instapklaar en voorzien van een schitterende, moderne woonkeuken en badkamer. Met 157 m\u00b2 is er ook aan ruimte geen gebrek. Toch geef ik deze woning een score van 5, omdat hij niet helemaal aansluit bij je specifieke woonwensen. Het is een klassieke eengezinswoning (hoekwoning) met maar liefst 5 slaapkamers verdeeld over drie verdiepingen. Het is dus geen levensloopbestendige woning met een slaap- en badkamer op de begingrond, en het is ook geen ruim appartement met een lift. Als een groot gezinshuis past hij fantastisch binnen je budget (\u20ac 675.000), maar qua type woning mist hij de plank voor wat jij zoekt.",
+            "buurt": "Drielanden",
+            "prijs": 675000,
+            "datum": "2026-09-07 12:17"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/harderwijk/eengezinswoning/24273-mecklenburglaan-42/": {
+            "adres": "Mecklenburglaan 42, Harderwijk",
+            "score": 4,
+            "motivatie": "Dag Ida, deze woning aan de Mecklenburglaan in Harderwijk is lekker ruim (166 m\u00b2) en valt binnen je budget met een vraagprijs van \u20ac 685.000. Toch sluit hij niet goed aan op je Woon-DNA. Het is een twee-onder-een-kapwoning met meerdere verdiepingen, terwijl jouw voorkeur uitgaat naar een levensloopbestendige woning (gelijkvloers) of een luxe appartement met lift. Daarnaast heeft de badkamer een gedateerde uitstraling en moet je rekenen op moderniseringskosten. Hoewel de aanbouw handig is voor hobby's, is dit simpelweg niet het type woning dat we voor jou zoeken. Ik adviseer om deze over te slaan.",
+            "buurt": "Harderwijk",
+            "prijs": 685000,
+            "datum": "2026-09-07 12:17"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/ermelo/bungalow/24089-sophialaan-43/": {
+            "adres": "Sophialaan 43, 3851 XH Ermelo",
+            "score": 7,
+            "motivatie": "Hoi Ida! Deze semi-bungalow aan de Sophialaan in Ermelo past op veel punten erg goed bij jouw wensen. Het is een levensloopbestendige woning met een slaap- en badkamer op de begingrond, en met 113 m\u00b2 aan woonoppervlakte en drie slaapkamers in totaal heb je ook voldoende ruimte voor logees of een hobby. De vraagprijs van \u20ac 719.000 valt mooi binnen jouw budget en de woning is direct beschikbaar. Wel heeft de woning met 429 m\u00b2 grond een iets grotere tuin dan een heel klein onderhoudsvriendelijk tuintje, en is het geen modern of luxe appartement met lift, maar een vrijstaande woning uit 1973. Zorg dus dat je bij een bezichtiging goed kijkt of de afwerking (keuken/sanitair) helemaal naar jouw moderne smaak is!",
+            "buurt": "Ermelo",
+            "prijs": 719000,
+            "datum": "2026-09-07 12:18"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/ermelo/bungalow/23616-oude-telgterweg-204/": {
+            "adres": "Oude Telgterweg 204, 3853 PH Ermelo",
+            "score": 9,
+            "motivatie": "Hoi Ida! Wat een fantastische woning is dit zeg. Deze semi-bungalow aan de Oude Telgterweg sluit nagenoeg perfect aan op jouw Woon-DNA. Met een vraagprijs van \u20ac 775.000,00 zit hij mooi binnen jouw budget. Het is een levensloopbestendige woning met een slaapkamer en moderne badkamer op de begingrond, en met 161 m2 woonoppervlakte heb je meer dan genoeg ruimte voor logees of hobby's (extra slaapkamers en een tweede badkamer boven!). De woning is modern afgewerkt, uitstekend onderhouden en direct instapklaar \u2013 geen gedateerde schrootjes of oude badkamers hier. Buiten vind je een heerlijke, verzorgde tuin met overkapping die lekker onderhoudsvriendelijk is, en dankzij de 20 zonnepanelen, vloerverwarming en energielabel A ben je ook nog eens heel duurzaam bezig. Een absolute topper om snel te gaan bezichtigen!",
+            "buurt": "Rand van Ermelo",
+            "prijs": 775000,
+            "datum": "2026-09-07 12:18"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/harderwijk/eengezinswoning/22454-keizerstraat-17/": {
+            "adres": "Keizerstraat 17, 3841 AD Harderwijk",
+            "score": 9,
+            "motivatie": "Dag Ida! Dit is een fantastische en unieke kans: het betreft eigenlijk twee volwaardige woningen (Keizerstraat 17 en 17A) op \u00e9\u00e9n perceel in de binnenstad van Harderwijk, met een totaal woonoppervlak van 178 m\u00b2. Het past perfect bij jouw woon-DNA omdat nummer 17A een compleet levensloopbestendige unit is met een slaapkamer en badkamer op de beg grond (ideaal voor logees, mantelzorg of hobby). De afwerking is modern, luxueus en absoluut instapklaar (geen schrootjes of verjaarde boel te bekennen!). De vraagprijs van \u20ac 798.000 valt binnen jouw budget, de woning is direct beschikbaar en de binnenstadstuin is heerlijk onderhoudsvriendelijk. Echt een buitenkans die naadloos aansluit op jouw wensen!",
+            "buurt": "Binnenstad Harderwijk",
+            "prijs": 798000,
+            "datum": "2026-09-07 12:18"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/harderwijk/eengezinswoning/21157-stakenbergerhout-56/": {
+            "adres": "Stakenbergerhout 56, 3845 JG Harderwijk",
+            "score": 5,
+            "motivatie": "Dag Ida! Deze woning aan de Stakenbergerhout 56 in Harderwijk is keurig onderhouden, modern afgewerkt en valt binnen jouw budget met een vraagprijs van \u20ac 645.000. Met 144 m\u00b2 aan woonoppervlakte biedt het ook voldoende ruimte. Toch geef ik een matige score van 5, omdat dit een traditionele eengezinswoning is met slaapkamers op de verdiepingen en geen slaap- of badkamer op de begane grond. Het is dus geen levensloopbestendige woning of gelijkvloers appartement zoals in jouw Woon-DNA staat beschreven. Als dat geen harde eis voor je is, is het qua instapklare staat absolutt het bekijken waard!",
+            "buurt": "Drielanden",
+            "prijs": 645000,
+            "datum": "2026-09-07 12:18"
+        },
+        "https://randmeermakelaars.nl/aanbod-detail/woningaanbod/harderwijk/17112-israelstraat-10/": {
+            "adres": "Israelstraat 10, Harderwijk",
+            "score": 5,
+            "motivatie": "Dag Ida! Dit prachtige appartement in het hart van Harderwijk heeft een schitterende, moderne afwerking en een heerlijk dakterras met uitzicht op de Grote Kerk, wat absoluut past bij jouw wens voor een luxe uitstraling. Met 179 m\u00b2 woonoppervlakte zit je echter boven je maximale wens van 150 m\u00b2. Belangrijker nog: de slaapkamers en badkamers bevinden zich op de verdieping, en het pand is helaas niet levensloopbestendig te noemen (geen slaap-/badkamer beneden en het complex beschikt voor zover zichtbaar niet over een lift). Omdat het niet aansluit bij je primaire woonwensen wat betreft indeling en de oppervlakte wat aan de ruime kant is, geef ik deze een score van 5.",
+            "buurt": "Historisch Centrum",
+            "prijs": 795000,
+            "datum": "2026-09-07 12:18"
+        },
+        "https://www.unieckerwonenmakelaars.nl/aanbod/koopwoningen": {
+            "adres": "Onbekend (Makelaarsoverzicht)",
+            "score": 1,
+            "motivatie": "Hoi Ida! Je hebt me een overzichtspagina van een makelaar gestuurd in plaats van \u00e9\u00e9n specifieke woning. Daardoor is er geen adres, prijs of woninginformatie beschikbaar om te beoordelen. Ik kan hier dus helemaal niets mee. Stuur me gerust de link van een specifiek woningaanbod dat je op het oog hebt, dan zoek ik het meteen voor je uit!",
+            "buurt": "Ermelo / Harderwijk",
+            "prijs": null,
+            "datum": "2026-09-07 12:19"
+        },
+        "https://www.janvandenberg-makelaar.nl/woningen/valkenhof-18-ermelo-9394925df426e862ba4197921e88ec848b6427/": {
+            "adres": "Valkenhof 18, Ermelo",
+            "score": 5,
+            "motivatie": "Dag Ida, deze woning aan de Valkenhof 18 in Ermelo heeft zeker pluspunten die bij je wensen aansluiten, zoals een slaapkamer en badkamer op de begingrond waardoor de woning levensloopbestendig is. Ook de vraagprijs (\u20ac 785.000) past binnen je budget van maximaal \u20ac 800.000 en de status is direct beschikbaar. Toch geef ik een matige score van 5, omdat het een vrijstaande woning uit 1974 betreft met een tuin rondom (geen klein, onderhoudsvriendelijk tuintje) en de advertentie expliciet vermeldt dat de woning op onderdelen gemoderniseerd moet worden. Dit strookt niet helemaal met jouw wens voor een instapklare, modern afgewerkte woning zonder gedateerde elementen.",
+            "buurt": "De Maat",
+            "prijs": 785000,
+            "datum": "2026-09-07 12:19"
+        },
+        "https://www.bijwillem.nl/aanbod/woningaanbod/harderwijk/koop/huis-10353678-Roemer-Visscherstraat-24/": {
+            "adres": "Roemer Visscherstraat 24, 3842 JM Harderwijk",
+            "score": 3,
+            "motivatie": "Lieve Ida, hoewel deze uitgebouwde gezinswoning aan de Roemer Visscherstraat prachtig is gemoderniseerd (energielabel A+++, strakke keuken uit 2019) en binnen jouw budget van \u20ac 450.000 valt, past hij simpelweg niet bij jouw Woon-DNA. Jij zoekt specifiek een levensloopbestendige woning (slaap- en badkamer beneden) of een ruim, luxe appartement met lift, en je wilt geen reguliere gezinswoning met meerdere verdiepingen en trap. Daarnaast is de aanvaarding pas per mei 2027, wat veel te ver in de toekomst ligt. Om deze redenen scoor ik dit huis bewust laag.",
+            "buurt": "Stadsdennen",
+            "prijs": 450000,
+            "datum": "2026-09-07 12:19"
+        },
+        "https://www.bwmakelaardij.nl/woningaanbod/branderskamp-35_10523549": {
+            "adres": "Branderskamp 35, 3851 XV Ermelo",
+            "score": 9,
+            "motivatie": "Hoi Ida! Dit appartement in Ermelo past echt fantastisch bij jouw wensen. Met een woonoppervlakte van 115 m\u00b2 valt het precies binnen jouw gewenste marge, en dankzij de lift en gelijkvloerse indeling is het volledig levensloopbestendig en toekomstgericht. Het is modern (bouwjaar 2011), gasloos met vloerverwarming, heeft een nette afwerking en beschikt over twee fijne buitenruimtes (twee balkons) \u00e9n toegang tot een mooie gemeenschappelijke binnentuin. Ook de locatie midden in het centrum met alle voorzieningen onder je en een eigen parkeerplaats in de garage is een enorme plus. De woning is per direct beschikbaar. Echt een topkans!",
+            "buurt": "Centrum Ermelo",
+            "prijs": 495000,
+            "datum": "2026-09-07 12:20"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-krommekamp-306/": {
+            "adres": "Krommekamp 306, Harderwijk",
+            "score": 7,
+            "motivatie": "Lieve Ida, dit huis aan de Krommekamp 306 in Harderwijk past op veel punten heel erg goed bij jouw wensen! Het is een levensloopbestendige woning met een slaapkamer en badkamer op de begingrond, wat perfect aansluit bij je wensen. Met 135 m\u00b2 woonoppervlak zit je precies in de gewenste ruimteklasse en het is netjes onderhouden met een moderne badkamer uit 2022 en energielabel A. De vraagprijs van \u20ac 735.000,- valt keurig binnen je budget van maximaal \u20ac 800.000,- en de woning is op korte termijn beschikbaar (in overleg). Het enige minpuntje ten opzichte van jouw DNA is het perceel: het is met 486 m\u00b2 een stuk groter en ruimer dan het kleine, onderhoudsvriendelijke tuintje dat je in gedachten had, en het ligt niet in Apeldoorn maar in Harderwijk. Desondanks absoluut een bezichtiging waard!",
+            "buurt": "Frankrijk, Harderwijk",
+            "prijs": 735000,
+            "datum": "2026-09-07 12:20"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-vissershaven-6/": {
+            "adres": "Vissershaven 6, Harderwijk",
+            "score": 5,
+            "motivatie": "Lieve Ida, deze unieke woonark aan de Vissershaven in Harderwijk heeft een fantastische, moderne afwerking (energielabel A, strakke wanden, eikenhouten vloer) en valt binnen je budget met een vanafprijs van \u20ac 795.000,-. Ook de buitenruimte (een fijn overkapt terras) en de optie om een slaap- en badkamer op de begane grond te realiseren sluiten mooi aan. Echter, met 165 m2 is hij net iets groter dan je gewenste 100-150 m2, en nog belangrijker: het betreft een *woonark* (een woonboot) in plaats van een reguliere bungalow of appartement. Omdat dit type woning echt afwijkt van je woon-Woon-DNA en de leefsituatie op water specifieke aandacht vraagt, geef ik deze een kritische 5. Mocht je openstaan voor wonen op het water, dan is hij absoluut instapklaar!",
+            "buurt": "Oude Vissershaven / Waterfront",
+            "prijs": 795000,
+            "datum": "2026-09-07 12:20"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-couperuslaan-1f/": {
+            "adres": "Couperuslaan 1F, Harderwijk",
+            "score": 4,
+            "motivatie": "Hoi Ida, ik heb deze riante 2-onder-1-kapwoning aan de Couperuslaan in Harderwijk voor je bekeken. Hoewel de woning keurig is afgewerkt, een moderne keuken uit 2020 heeft en binnen je budget valt (\u20ac 745.000), past het qua type simpelweg niet bij jouw Woon-DNA. Jij zoekt een levensloopbestendige woning (met slaap- en badkamer beneden) \u00f3f een ruim, luxe appartement met lift. Dit is een klassieke eengezinswoning met maar liefst 5 slaapkamers verdeeld over drie verdiepingen en een woonoppervlakte van 169 m2, wat echt te groot en niet levensloopbestendig is voor jou. Bovendien is de tuin inclusief voortuin en zijtuin wat te ruim van opzet. Kortom, prachtig huis, maar niet wat jij zoekt!",
+            "buurt": "Harderwijk",
+            "prijs": 745000,
+            "datum": "2026-09-07 12:20"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-ploegdreef-16/": {
+            "adres": "Ploegdreef 16, Harderwijk",
+            "score": 4,
+            "motivatie": "Lieve Ida, hoewel deze moderne hoekwoning in Harderwijk qua afwerking (visgraatvloer, luxe keuken en badkamer, energielabel A++++ uit 2024) en prijs (\u20ac 595.000) absoluut prachtig en instapklaar is, past het simpelweg niet bij jouw Woon-DNA. Jij zoekt specifiek een levensloopbestendige woning (met slaap- en badkamer beneden) of een ruim, luxe appartement met lift. Dit is een eengezinswoning met de slaapkamers en badkamer op de verdieping, wat betekent dat je dagelijks de trap op moet. Daarmee schiet deze woning helaas te kort op jouw belangrijkste woonwensen.",
+            "buurt": "Drielanden (Harderweide)",
+            "prijs": 595000,
+            "datum": "2026-09-07 12:20"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-bluesdreef-17/": {
+            "adres": "Bluesdreef 17, Harderwijk",
+            "score": 4,
+            "motivatie": "Lieve Ida, hoewel deze woning in Harderwijk qua prijs (\u20ac 725.000) en moderne afwerking (keuken uit 2014, badkamer uit 2017) erg aantrekkelijk is, past het type huis simpelweg niet bij je Woon-DNA. Jij zoekt een levensloopbestendige woning (bungalow/gelijkvloers) of een luxe appartement met lift. Dit is een grote 2-onder-1-kapwoning met maar liefst 6 slaapkamers verdeeld over meerdere verdiepingen, en er is geen slaap- of badkamer op de begingrond. Ook is het woonoppervlak met 186 m2 groter dan je wens (100-150 m2) en heeft het een te groot perceel met tuin. Helaas een onvoldoende voor de match!",
+            "buurt": "Drielanden",
+            "prijs": 725000,
+            "datum": "2026-09-07 12:21"
+        },
+        "https://www.goesenroos.nl": {
+            "adres": "De Wel 34E, Hoevelaken",
+            "score": 1,
+            "motivatie": "Lieve Ida, de tekst die je hebt gestuurd is geen woning, maar de website van een webbouwer voor makelaars (Tophuis.nl / Goes & Roos)! Dit is dus absoluut geen geschikt huis voor jou. Ik stel voor dat we snel verder zoeken naar een mooi, instapklaar appartement met lift of een fijne bungalow.",
+            "buurt": "Hoevelaken",
+            "prijs": null,
+            "datum": "2026-09-07 12:22"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-grote-marktstraat-16/": {
+            "adres": "Grote Marktstraat 16, 3841 AJ Harderwijk",
+            "score": 5,
+            "motivatie": "Hoi Ida, ik heb deze woning in Harderwijk voor je bekeken. Hoewel het huis prachtig, modern en instapklaar is afgewerkt met een fijn onderhoudsvriendelijk tuintje, mis ik een heel belangrijk punt uit je Woon-DNA: het is geen levensloopbestendige woning of appartement met lift, maar een eengezinswoning met meerdere verdiepingen en slaapkamers boven. Daarnaast zit de woonoppervlakte met 97 m\u00b2 net onder jouw ondergrens van 100 m\u00b2. Omdat het qua woningtype en indeling niet aansluit op je wensen, geef ik deze een matige score.",
+            "buurt": "Binnenstad Harderwijk",
+            "prijs": 595000,
+            "datum": "2026-09-07 12:22"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-annie-salomonslaan-2/": {
+            "adres": "Annie Salomonslaan 2, 3842 HP Harderwijk",
+            "score": 4,
+            "motivatie": "Hoi Ida, deze woning in Harderwijk heeft een prachtig Vondelpark-uitzicht en valt met \u20ac 595.000 ruim binnen je budget van \u20ac 800.000. Ook de woonoppervlakte van 132 m\u00b2 is helemaal goed. Helaas sluit het type woning niet aan op je Woon-DNA: het is een traditionele twee-onder-een-kapwoning met slaapkamers op de verdieping, en dus geen levensloopbestendige woning (bungalow/slaapkamer beneden) of luxe appartement met lift. Bovendien heeft deze woning een volwaardige tuin rondom/achter in plaats van een klein, onderhoudsvriendelijk tuintje of royaal balkon. Daarom geef ik deze helaas een lage score.",
+            "buurt": "Stadsdennen-Oost",
+            "prijs": 595000,
+            "datum": "2026-09-07 12:22"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-couperuslaan-1d/": {
+            "adres": "Couperuslaan 1 D, 3842 AA Harderwijk",
+            "score": 4,
+            "motivatie": "Hoi Ida, hoewel deze twee-onder-\u00e9\u00e9n-kapwoning aan de Couperuslaan in Harderwijk ontzettend keurig, modern en instapklaar is (met een mooie vraagprijs van \u20ac 725.000), past hij simpelweg niet bij jouw Woon-DNA. Het is een klassieke gezinswoning met maar liefst 174 m\u00b2 aan woonoppervlakte en meerdere verdiepingen, terwijl jij juist op zoek bent naar een levensloopbestendige woning (gelijkvloers) of een luxe appartement met lift. Daarnaast heeft dit type woning niet jouw gewenste kleine tuintje of royaal balkon, maar juist een flink perceel met een flinke tuin en garage. Ik zou deze overslaan!",
+            "buurt": "Harderwijk",
+            "prijs": 725000,
+            "datum": "2026-09-07 12:22"
+        },
+        "https://mnm.nl/woning/ermelo-horsterweg-5b/": {
+            "adres": "Horsterweg 5B, Ermelo",
+            "score": 8,
+            "motivatie": "Hoi Ida! Dit appartement aan de Horsterweg in Ermelo is echt een kanshebber. Met een woonoppervlakte van 157 m2 zit je ruimschoots binnen jouw wens van 100-150 m2 (het is zelfs iets groter, wat heerlijk is voor je hobby en logees). Er is een lift aanwezig in het complex, wat ideaal is. Buiten heb je geen grote lap grond, maar twee fijne loggia's/daktuin op het zuiden. De inrichting is modern, netjes en instapklaar, en met een vraagprijs van \u20ac 597.500,- blijf je ruim onder je budget van 8 ton. Het enige kleine minpuntje ten opzichte van je absolute droom (een gelijkvloerse bungalow) is dat het over twee verdiepingen is verdeeld, maar er is wel een slaapkamer en badkamer op de woonlaag te vinden, en het complex heeft een lift. Wat mij betreft absoluut de moeite waard om te gaan bekijken!",
+            "buurt": "Centrum Ermelo",
+            "prijs": 597500,
+            "datum": "2026-09-07 12:23"
+        },
+        "https://mnm.nl/woning/harderwijk-tonselsedreef-28/": {
+            "adres": "Tonselsedreef 28, 3845 CT Harderwijk",
+            "score": 4,
+            "motivatie": "Hoi Ida! Ik heb deze woning aan de Tonselsedreef in Harderwijk kritisch voor je bekeken. Hoewel het huis er keurig verzorgd, modern en instapklaar uitziet met een prachtige keuken en visgraatvloer, past het simpelweg niet bij jouw Woon-DNA. Dit is namelijk een eengezinswoning (tussenwoning) met slaapkamers op de verdiepingen en geen slaap- of badkamer op de begingrond. Je zoekt specifiek een levensloopbestendige woning of een ruim appartement met lift. Omdat dit een traditionele gezinswoning is, moet ik deze helaas afraden voor jou.",
+            "buurt": "Harderwijk",
+            "prijs": 495000,
+            "datum": "2026-09-07 12:23"
+        },
+        "https://makelaarschap.nl/woning/harderwijk-weverskamp-61/": {
+            "adres": "Weverskamp 61, Harderwijk",
+            "score": 4,
+            "motivatie": "Dag Ida! Dit huis in Harderwijk ziet er op papier heel modern en verzorgd uit (met een strakke keuken, badkamer en energielabel A), maar het past simpelweg niet bij jouw Woon-DNA. Jij zoekt een levensloopbestendige woning of een luxe appartement met lift. Dit is een reguliere twee-onder-een-kapwoning met maar liefst vier slaapkamers verdeeld over verdiepingen, en een traditionele trap. Bovendien heeft het een tuin met een zwembad, wat het tegenovergestelde is van het kleine, onderhoudsvriendelijke tuintje waar je om vroeg. Prachtig huis, maar niet voor jou!",
+            "buurt": "Frankrijk",
+            "prijs": 600000,
+            "datum": "2026-09-07 12:23"
+        }
+    },
     "moeder_harderwijk_ermelo": {
         "https://www.bijwillem.nl/aanbod/woningaanbod/harderwijk/koop/huis-5162680-Simon-Vestdijkstraat-50/": {
             "adres": "Simon Vestdijkstraat 50, Harderwijk",
