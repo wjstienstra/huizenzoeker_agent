@@ -70,7 +70,7 @@ MAKELAARS = {
         {
             "naam": "Mennink Makelaars",
             "base": "https://www.menninkmakelaars.nl",
-            "url": "https://www.menninkmakelaars.nl/woningaanbod/koop?orderby=1&pricerange.maxprice=1000000&pricerange.minprice=400000"
+            "url": "https://www.menninkmakelaars.nl/woningaanbod/"
         },
         {
             "naam": "Koningsstede.nl",

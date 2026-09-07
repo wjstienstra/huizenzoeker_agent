@@ -139,7 +139,7 @@ async def scrape_url(url, base_url, is_detail=False):
         try:
             print(f"Browsen naar: {url}...")
             # Aangepast naar networkidle voor de tragere RealWorks sites
-            await page.goto(url, wait_until="networkidle", timeout=60000)
+            await page.goto(url, wait_until="domcontentloaded", timeout=60000)
             
             text, links, hoofd_foto_url = "", [], None
             
