@@ -7,13 +7,14 @@ from datetime import datetime
 from dotenv import load_dotenv
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
-from pydantic_ai import Agent
+from pydantic_ai import Agent, BinaryContent
 from pydantic_ai.models.google import GoogleModel
 from pydantic_ai.providers.google import GoogleProvider
 
+
 # Externe configuratie
-from models import WoningLijst, Woning 
-from prompts import genereer_verkenner_prompt, genereer_taxateur_prompt
+from models import WoningLijst, Woning, VisionBeoordeling 
+from prompts import genereer_verkenner_prompt, genereer_taxateur_prompt, genereer_vision_prompt
 from makelaars import MAKELAARS
 
 load_dotenv()
@@ -122,6 +123,9 @@ def get_verkenner(model, system_prompt):
 def get_taxateur(model, system_prompt):
     return Agent(model, output_type=Woning, system_prompt=system_prompt)
 
+def get_vision_agent(model, system_prompt):
+    return Agent(model, output_type=VisionBeoordeling, system_prompt=system_prompt)
+
 # --- DE ROBUUSTE UNIVERSELE SCRAPER ---
 async def scrape_url(url, base_url, is_detail=False):
     async with async_playwright() as p:
@@ -134,9 +138,11 @@ async def scrape_url(url, base_url, is_detail=False):
         
         try:
             print(f"Browsen naar: {url}...")
+            # Aangepast naar networkidle voor de tragere RealWorks sites
             await page.goto(url, wait_until="networkidle", timeout=60000)
             
-            text, links = "", []
+            text, links, hoofd_foto_url = "", [], None
+            
             for attempt in range(3):
                 try:
                     cookie_buttons = page.get_by_role("button", name=re.compile("accepteer|akkoord|ok|cookies", re.IGNORECASE))
@@ -157,10 +163,21 @@ async def scrape_url(url, base_url, is_detail=False):
                     break
                 print(f"   ⏳ Pagina lijkt nog leeg ({len(text)} tekens), geduld (poging {attempt+1}/3)...")
 
+            # --- NIEUW: FOTO VANGEN OP DETAILPAGINA ---
+            if is_detail:
+                meta_image = soup.find('meta', property='og:image')
+                if meta_image and meta_image.get('content'):
+                    hoofd_foto_url = meta_image['content']
+                    # Zorg dat het een volledige link is
+                    if hoofd_foto_url.startswith('/'):
+                        hoofd_foto_url = base_url.rstrip('/') + hoofd_foto_url
+
+            # Filter en verzamel links
             if not is_detail:
                 for a in soup.find_all('a', href=True):
                     href = a['href'].strip()
-                    if not href or any(n in href.lower() for n in ['facebook', 'linkedin', 'instagram', 'funda.nl', 'google', 'pdf', 'jpg']): 
+                    # .pdf en .jpg toegevoegd aan uitsluitingen
+                    if not href or any(n in href.lower() for n in ['facebook', 'linkedin', 'instagram', 'funda.nl', 'google', '.pdf', '.jpg']): 
                         continue
 
                     is_internal = any(x in href for x in ['/wonen/aanbod/', '/woningen/', '/aanbod/', '/woning/', '/woningaanbod/', '/koopwoningen/'])
@@ -170,14 +187,15 @@ async def scrape_url(url, base_url, is_detail=False):
                         full_url = href if href.startswith('http') else f"{base_url.rstrip('/')}/{href.lstrip('/')}"
                         if full_url not in links: links.append(full_url)
 
-            print(f"   📊 Eindresultaat: {len(text)} tekens en {len(links)} links.")
+            print(f"   📊 Eindresultaat: {len(text)} tekens. Foto gevonden: {'Ja' if hoofd_foto_url else 'Nee'}")
             await browser.close()
-            return text, links
+            # We sturen nu 3 variabelen terug!
+            return text, links, hoofd_foto_url
 
         except Exception as e:
             print(f"⚠️ Fout bij {url}: {e}")
             await browser.close()
-            return "", []
+            return "", [], None
 
 # --- MAIN LOOP ---
 async def main():
@@ -216,7 +234,7 @@ async def main():
 
         for m in makelaars_lijst:
             print(f"\n--- SCAN START: {m['naam']} ---")
-            ruwe_tekst, gevonden_links = await scrape_url(m['url'], m['base'])
+            ruwe_tekst, gevonden_links, _ = await scrape_url(m['url'], m['base'])
             
             if len(ruwe_tekst) < 500:
                 print(f"❌ Content bleef te summier voor {m['naam']}.")
@@ -238,7 +256,7 @@ async def main():
                         continue
 
                     print(f"🔎 Deep Scan: {woning.adres}")
-                    details, _ = await scrape_url(woning.url, m['base'], is_detail=True)
+                    details, _, foto_url = await scrape_url(woning.url, m['base'], is_detail=True)
                     
                     if len(details) > 1000:
                         try:
@@ -248,7 +266,33 @@ async def main():
                                 f"Beoordeel deze woning: {details[:30000]}"
                             )
                             woning_data = check.output
-                            woning_data.url = woning.url 
+                            woning_data.url = woning.url
+
+                            # --- VISION CHECK: Alleen bij hoge scores en als er een foto is ---
+                            if woning_data.match_score >= 7 and foto_url:
+                                print(f"👁️ Hoge tekst-score ({woning_data.match_score})! Foto visueel keuren...")
+                                try:
+                                    img_resp = requests.get(foto_url, timeout=10)
+                                    if img_resp.status_code == 200:
+                                        vision_prompt = genereer_vision_prompt(profiel)
+                                        foto_input = [
+                                            "Beoordeel deze foto aan de hand van je instructies.",
+                                            BinaryContent(data=img_resp.content, media_type='image/jpeg')
+                                        ]
+                                        vision_check = await cascade_run(get_vision_agent, vision_prompt, foto_input)
+                                        
+                                        v_score = vision_check.output.score_aanpassing
+                                        v_motivatie = vision_check.output.vision_motivatie
+                                        
+                                        # Toepassen en begrenzen op 10
+                                        nieuwe_score = min(10, woning_data.match_score + v_score)
+                                        
+                                        # Motivatie samenvoegen
+                                        woning_data.motivatie = f"{woning_data.motivatie}\n\n📸 <b>Vision Check:</b> {v_motivatie} (Score aanpassing: {v_score})"
+                                        woning_data.match_score = nieuwe_score
+                                        print(f"   📸 Foto beoordeeld: {v_score} punten. Nieuwe score: {nieuwe_score}/10")
+                                except Exception as e:
+                                    print(f"⚠️ Vision check mislukt voor {woning.adres}: {e}")
                             
                             profiel_geheugen[woning.url] = {
                                 "adres": woning_data.adres, "score": woning_data.match_score,

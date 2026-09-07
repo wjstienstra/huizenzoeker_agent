@@ -13,3 +13,7 @@ class Woning(BaseModel):
 
 class WoningLijst(BaseModel):
     woningen: List[Woning]
+
+class VisionBeoordeling(BaseModel):
+    score_aanpassing: int = Field(description="Een getal tussen -3 en +3. Bijvoorbeeld -2 voor een lelijke/foute stijl, of +2 voor een perfecte stijlmatch.")
+    vision_motivatie: str = Field(description="Eén korte, vlotte zin met je oordeel over de voorgevel.")

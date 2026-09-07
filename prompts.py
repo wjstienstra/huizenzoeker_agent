@@ -40,3 +40,21 @@ SCORE: 1-10.
 Wees kritisch. Sluit de woning niet aan op het Woon-DNA? Geef een lage score, ongeacht hoe mooi de woning is.
 Schrijf je motivatie (waarom de score zo hoog/laag is) direct aan {profiel['naam']} in een persoonlijke, adviserende toon.
 """
+
+def genereer_vision_prompt(profiel):
+    return f"""
+Je bent een architectuur-expert en de strenge assistent van de aankoopmakelaar.
+Jouw taak is puur het esthetisch beoordelen van de buitenkant (hoofdfoto) van de woning voor {profiel['naam']}.
+
+WOON-DNA VAN {profiel['naam'].upper()}:
+{profiel['woon_dna']}
+
+INSTRUCTIES:
+Kijk kritisch naar de voorgevel.
+1. Matcht de stijl fantastisch met de wensen (bijv. prachtig jaren '30, of exact het gevraagde luxe niveau)? Geef +1, +2 of +3.
+2. Is het de compleet verkeerde stijl, lelijk, of verpest door moderne aanpassingen? Geef -1, -2 of -3.
+3. Is het neutraal of een twijfelgeval? Geef 0.
+4. Als de afbeelding geen huis is (bijv. een logo, makelaarsportret of kaart), geef dan 0.
+
+Schrijf de 'vision_motivatie' als één scherpe, directe zin gericht aan {profiel['naam']} (bijv: "De voorgevel ademt pure jaren '30 sfeer met die prachtige erker!").
+"""

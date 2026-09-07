@@ -3,7 +3,7 @@ name: Huizenzoeker Agent
 on:
   schedule:
     # Draait elke dag om 07:00 en 15:00 UTC (09:00 en 17:00 Nederlandse tijd)
-    - cron: '0 7,15 * * *'
+    - cron: '0 15 * * *'
   workflow_dispatch: # Zorgt dat je hem ook handmatig kunt starten via de GitHub website
 
 permissions:
