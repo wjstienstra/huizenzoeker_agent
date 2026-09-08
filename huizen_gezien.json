@@ -703,6 +703,30 @@
             "buurt": "Hoog Soeren",
             "prijs": 1195000,
             "datum": "2026-09-07 19:05"
+        },
+        "https://opendeur.nl/woningaanbod/de-visserstraat-2-apeldoorn/": {
+            "adres": "De Visserstraat 2, 7331 TA Apeldoorn",
+            "score": 2,
+            "motivatie": "Beste Willem-Jan, dit appartement is echt een complete mismatch met jouw Woon-DNA. Jij zoekt karakteristieke elementen zoals glas-in-lood en hoge plafonds, bij voorkeur in een jaren '30 stijl herenhuis. Dit is een galerijflat uit 1961 van slechts 68 m\u00b2 met 2 slaapkamers, wat veel te klein is en bovendien de gewenste sfeer mist. Ook is er geen eigen tuin met ruimte voor een sauna. Ik zou deze lekker aan mij voorbij laten gaan!",
+            "buurt": "Zuid / Staatsliedenkwartier",
+            "prijs": 250000,
+            "datum": "2026-09-08 18:24"
+        },
+        "https://www.goos.nl/woning/arnhemseweg-47": {
+            "adres": "Arnhemseweg 47, 7331 BB Apeldoorn",
+            "score": 6,
+            "motivatie": "H\u00e9 Willem-Jan! Wat een ontzettend charmant huis is dit zeg. Het bouwen uit 1929 proef je direct in alles: prachtige glas-in-looddetails, kamer en suite deuren, een klassieke granito hal en zelfs authentieke schouwen met houtkachels. Echt een plaatje om te zien en qua karakter raakt dit je Woon-DNA volledig. Ook de diepe tuin op het zuidoosten met veranda is een dikke plus. Toch moeten we even kritisch zijn op twee punten uit jouw wensenlijst: het woonoppervlak is met 108 m\u00b2 kleiner dan jouw richtlijn (125-175 m\u00b2) en de woning telt momenteel slechts 2 slaapkamers in plaats van de gewenste 3. Gezien de vraagprijs van \u20ac 525.000 is het absoluut een sfeervol huis, maar qua ruimte en slaapkamers sluit het niet helemaal naadloos aan op wat we zochten. Wat vind jij ervan?",
+            "buurt": "Arnhemseweg (nabij centrum / station)",
+            "prijs": 525000,
+            "datum": "2026-09-08 18:24"
+        },
+        "https://www.landheeren.nl/aanbod/agathastraat-11/": {
+            "adres": "Agathastraat 11",
+            "score": 5,
+            "motivatie": "Beste Willem-Jan, hoewel deze moderne hoekwoning aan de Agathastraat in het centrum van Apeldoorn instapklaar en netjes is afgewerkt, past hij eigenlijk niet bij jouw Woon-DNA. Met 105 m\u00b2 woonoppervlakte zit hij flink onder jouw richtlijn van 125-175 m\u00b2. Daarnaast ontbreekt het specifieke karakter waar je naar zoekt: het is een moderne woning in plaats van een sfeervol jaren '30 huis met glas-in-lood en hoge plafonds. De prijs van \u20ac 439.000 is vriendelijk en ruim binnen je budget, maar qua stijl en ruimte ga je hier waarschijnlijk niet vinden wat je zoekt.",
+            "buurt": "Centrum / Apeldoorn",
+            "prijs": 439000,
+            "datum": "2026-09-08 18:25"
         }
     },
     "harderwijk_ermelo": {
@@ -1089,6 +1113,30 @@
             "buurt": "Ermelo-Noord",
             "prijs": 1340000,
             "datum": "2026-09-07 19:07"
+        },
+        "https://www.bijwillem.nl/aanbod/woningaanbod/harderwijk/koop/huis-10147678-Van-Speyklaan-33/": {
+            "adres": "Van Speyklaan 33, Harderwijk",
+            "score": 5,
+            "motivatie": "Dag Ida, deze moderne geschakelde twee-onder-een-kapwoning in Harderwijk is op papier keurig onderhouden, voorzien van energielabel A, zonnepanelen en een recente cv-ketel/airco uit 2025. Het afwerkingsniveau is netjes en instapklaar. Toch sluit dit object niet optimaal aan bij jouw Woon-DNA: het is een reguliere eengezinswoning over drie woonlagen met vier slaapkamers, en dus geen levensloopbestendige woning (geen slaap- en badkamer op de begane grond) en ook geen ruim appartement met lift. Bovendien ligt de woning in Harderwijk, terwijl de focus op Apeldoorn ligt, en staat de status op 'Verkocht'. Gezien het ontbreken van levensloopbestendigheid en de verkochte status geef ik dit een score van 5.",
+            "buurt": "Tweelingstad",
+            "prijs": 550000,
+            "datum": "2026-09-08 18:27"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-metten-gerritskamp-34/": {
+            "adres": "Metten Gerritskamp 34, 3848 CW Harderwijk",
+            "score": 5,
+            "motivatie": "Lieve Ida, deze twee-onder-een-kapwoning aan de Metten Gerritskamp 34 in Harderwijk is op papier prachtig: modern afgewerkt, instapklaar, voorzien van een energielabel A met zonnepanelen en een fijne woonoppervlakte van 123 m\u00b2. Ook de prijs van \u20ac 610.000,- valt keurig binnen je budget. Toch past deze woning niet optimaal bij jouw Woon-DNA. Het is een klassieke eengezinswoning met de slaapkamers en de badkamer op de verdieping (geen slaap- en badkamer op de begingrond en ook geen lift), en de tuin is met een perceel van 281 m\u00b2 (diepe achtertuin) een slag groter dan het kleine, onderhoudsvriendelijke tuintje dat jij zoekt. Hoewel de woning zelf fantastisch en instapklaar is, mis ik de levensloopbestendigheid die voor jou zo belangrijk is. Daarom geef ik deze woning een 5.",
+            "buurt": "Frankrijk",
+            "prijs": 610000,
+            "datum": "2026-09-08 18:28"
+        },
+        "https://mnm.nl/woning/hoevelaken-bouwnummer-3-ong/": {
+            "adres": "Kantemarsweg (Bouwnummer 3), 3871 AP Hoevelaken",
+            "score": 1,
+            "motivatie": "Hoi Ida, deze woning valt helaas direct af. In je Woon-DNA hebben we duidelijk afgesproken dat we nieuwbouwprojecten met een opleverdatum ver in de toekomst (zoals 2028) direct uitsluiten met een score van 1. Ook al is het oppervlakte (131 m2) en de prijs (\u20ac 589.600) interessant, we willen niet zo lang wachten op onze nieuwe, instapklare stek! Ik zoek snel verder naar een woning die wel op korte termijn beschikbaar is.",
+            "buurt": "Hoevelaken Centrum / Zuidrand",
+            "prijs": 589600,
+            "datum": "2026-09-08 18:28"
         }
     },
     "moeder_harderwijk_ermelo": {
