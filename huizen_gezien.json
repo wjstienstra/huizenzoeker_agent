@@ -727,6 +727,38 @@
             "buurt": "Centrum / Apeldoorn",
             "prijs": 439000,
             "datum": "2026-09-08 18:25"
+        },
+        "https://opendeur.nl/woningaanbod/houttuinen-noord-38-apeldoorn/": {
+            "adres": "Houttuinen-Noord 38",
+            "score": 3,
+            "motivatie": "Beste Willem-Jan, hoewel deze vrijstaande villa qua comfort, perceel en tuin (ruimte genoeg voor een buitensauna!) indrukwekkend is, slaat deze woning de plank mis op jouw twee belangrijkste zoekcriteria. Allereerst ontbreekt het authentieke karakter: met het bouwjaar 1995 vind je hier geen jaren '30 sfeer, glas-in-lood of authentieke paneeldeuren. Daarnaast ligt de vraagprijs van \u20ac 1.050.000,- maar liefst \u20ac 150.000 boven jouw maximale budget van \u20ac 900.000,-. We kunnen deze woning dan ook direct laten schieten en verder zoeken naar jouw karakteristieke droomhuis.",
+            "buurt": "Woudhuis (Villabos)",
+            "prijs": 1050000,
+            "datum": "2026-09-09 18:25"
+        },
+        "https://www.goos.nl/woning/kamerlingh-onnesstraat-10": {
+            "adres": "Kamerlingh Onnesstraat 10, 7316 LS Apeldoorn",
+            "score": 6,
+            "motivatie": "Hoi Willem-Jan, ik heb deze hoekwoning aan de Kamerlingh Onnesstraat 10 in Kerschoten voor je onder de loep genomen. Wat direct opvalt is de enorm royale ruimte: met 164 m\u00b2 woonoppervlakte en maar liefst 6 slaapkamers zit je qua ruimte ruimschoots binnen je wensen van 125-175 m\u00b2, en ook de prijs van \u20ac 498.000 is erg vriendelijk binnen je budget van maximaal \u20ac 900.000. De tuin is lekker ruim en zonnig, en biedt zeker mogelijkheden voor een kleine sauna. Waar ik wel kritisch over ben, is het Woon-DNA. Dit is een 'App\u00e8lwoning' (een type jaren '50/'60 hoekwoning), geen jaren '30 stijl herenhuis. De kunststof kozijnen, het ontbreken van glas-in-lood en de wat gedateerde afwerking (zoals de eenvoudige keuken en energielabel D) maken dat we hier qua karakter flink concessies moeten doen. Het is een fantastisch, praktisch gezinshuis, maar qua sfeer mist het de authentieke details waar jij zo van houdt. Ik geef het een 6!",
+            "buurt": "Kerschoten",
+            "prijs": 498000,
+            "datum": "2026-09-09 18:26"
+        },
+        "https://www.koningsstede.nl/woningen/deventerstraat-268-b-apeldoorn-93664985ec8c35de674b74b2f02b7362f6ac33/": {
+            "adres": "Deventerstraat 268 B",
+            "score": 6,
+            "motivatie": "Beste Willem-Jan, deze woning aan de Deventerstraat biedt met 126 m\u00b2 woonoppervlakte en maar liefst 5 slaapkamers meer dan genoeg ruimte, en het royale perceel (528 m\u00b2) met grote schuur en veranda is absoluut een droom voor een sauna en het buitenleven. Toch mis ik het specifieke 'Karakter' waar je zo van houdt: het is een bouwjaar uit 1991 in plaats van een authentieke jaren '30 stijl of oud herenhuis met glas-in-lood en paneeldeuren. Qua comfort (recente keuken, badkamer en 20 zonnepanelen) scoort hij wel fantastisch binnen je budget van \u20ac 695.000, maar qua Woon-DNA is het een compromis. Wat vind je hiervan?",
+            "buurt": "Deventerstraat / Apeldoorn Centrum-Oost",
+            "prijs": 695000,
+            "datum": "2026-09-09 18:27"
+        },
+        "https://beoordelingen.mtmo.nl/tenhag.nl": {
+            "adres": "Niet vermeld",
+            "score": 1,
+            "motivatie": "Beste Willem-Jan, de pagina die je hebt gedeeld is geen woningadvertentie, maar de review- en contactpagina van Ten Hag Makelaars. Er is hier dus helaas geen huis te bekijken of te beoordelen. Stuur gerust de link van een echte woning op Funda mee, dan zoek ik direct uit of het past bij jouw woon-wensen!",
+            "buurt": "Niet vermeld",
+            "prijs": null,
+            "datum": "2026-09-09 18:28"
         }
     },
     "harderwijk_ermelo": {
@@ -1137,6 +1169,22 @@
             "buurt": "Hoevelaken Centrum / Zuidrand",
             "prijs": 589600,
             "datum": "2026-09-08 18:28"
+        },
+        "https://www.bijwillem.nl/aanbod/woningaanbod/harderwijk/koop/huis-9683682-Mandenmakerstraat-125/": {
+            "adres": "Mandenmakerstraat 125, 3841 VE Harderwijk",
+            "score": 9,
+            "motivatie": "Hoi Ida! Deze helft van een dubbel woonhuis in Harderwijk past verrassend goed bij jouw wensen. Het is absoluut geen appartement, maar het heeft wel een grote troef: er is een slaap- en werkkamer op de begane grond, wat het levensloopbestendig maakt! Met 139 m2 woonoppervlakte heb je alle ruimte voor logees of hobby's. De afwerking is modern en instapklaar, en de zonnige achtertuin op het zuiden (op een perceel van 534 m2) is netjes en beheersbaar. De vraagprijs van \u20ac 650.000,- valt keurig binnen jouw budget. Een hele mooie optie!\n\n\ud83d\udcf8 <b>Vision Check:</b> Een sfeervolle achterzijde van de woning met veel groen, al is het geheel wat rommelig door de bomen en het meubilair. (Score aanpassing: 1)",
+            "buurt": "Zeebuurt II",
+            "prijs": 650000,
+            "datum": "2026-09-09 18:29"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/ermelo-dirk-staalweg-1/": {
+            "adres": "Dirk Staalweg 1, Ermelo",
+            "score": 5,
+            "motivatie": "Lieve Ida, deze prachtige en karakteristieke vrijstaande villa in Ermelo (buiten je favoriete regio Apeldoorn, maar qua type het bekijken waard) heeft veel te bieden met haar schitterende bouwjaar (1928), glas-in-lood en uitstekende onderhoudsstaat. De woning heeft echter een woonoppervlakte van 180 m2 (wat aan de ruime kant is voor je wens van 100-150 m2) en een totale perceeloppervlakte van 348 m2 met tuin rondom, wat meer buitenruimte is dan het 'kleine, onderhoudsvriendelijke tuintje' waar je naar zoekt. Hoewel er opties zijn voor een levensloopbestendige invulling (de noordvleugel), is het in de basis een groot gezinshuis/woon-werkpand. Wel is het direct beschikbaar en keurig afgewerkt, maar door de hoeveelheid ruimte en grond scoor ik dit object gematigd voor jou.",
+            "buurt": "Centrum Ermelo",
+            "prijs": 775000,
+            "datum": "2026-09-09 18:29"
         }
     },
     "moeder_harderwijk_ermelo": {
