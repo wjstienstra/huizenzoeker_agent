@@ -759,6 +759,30 @@
             "buurt": "Niet vermeld",
             "prijs": null,
             "datum": "2026-09-09 18:28"
+        },
+        "https://www.reindersmakelaars.nl/woningen/hazenleger-33-apeldoorn-9064191e377831bd824625a342f4838c3a4c3a/": {
+            "adres": "Hazenleger 33, Apeldoorn",
+            "score": 5,
+            "motivatie": "Beste Willem-Jan, hoewel deze moderne woning aan de Hazenleger qua ruimte (145 m2 en 4 slaapkamers) en duurzaamheid (energielabel A++, warmtepomp) dik in orde is, mis ik hier volledig jouw zo geliefde Woon-DNA. Het is een strakke, jonge bouw uit 2016 in plaats van de karakteristieke jaren '30 stijl met glas-in-lood en paneeldeuren waar jij naar op zoek bent. Daarnaast is het perceel met 119 m2 erg compact voor een fijne tuin met sauna. Gezien de vraagprijs van \u20ac 579.000 vind ik dit geen match voor jou. Ik zou deze overslaan en lekker doorzoeken naar een sfeervol herenhuis!",
+            "buurt": "Zonnehoeve",
+            "prijs": 579000,
+            "datum": "2026-09-10 18:15"
+        },
+        "https://www.goos.nl/woning/marktstraat-8": {
+            "adres": "Marktstraat 8, 8167 NG Oene",
+            "score": 6,
+            "motivatie": "H\u00e9 Willem-Jan, ik heb deze woning in Oene voor je bekeken. Qua ruimte zit je hier met 158 m\u00b2 en 5 slaapkamers helemaal goed en de tuin met veranda en buitenkeuken biedt volop mogelijkheden voor je wens qua sauna. Ook de prijs van \u20ac 735.000,- valt keurig binnen je budget. Toch moeten we kritisch zijn op jouw Woon-DNA: het huis is gebouwd in 2003 en mist daardoor het authentieke karakter waar je zo naar op zoek bent (geen glas-in-lood, hoge plafonds of typische jaren '30 stijl, maar een moderne bouwstijl). Bovendien ligt het in Oene i.p.v. Apeldoorn. Een fijne, energiezuinige woning (label A), maar qua sfeer sluit het niet helemaal aan bij jouw droomhuis.",
+            "buurt": "Centrum Oene",
+            "prijs": 735000,
+            "datum": "2026-09-10 18:16"
+        },
+        "https://advies.alpina.nl/makelaardij/woningaanbod/apeldoorn-boswachtersveld-326/": {
+            "adres": "Boswachtersveld 326",
+            "score": 6,
+            "motivatie": "H\u00e9 Willem-Jan, ik heb deze woning aan het Boswachtersveld 326 in De Maten eens goed voor je bekeken. Met een vraagprijs van \u20ac 649.000 en maar liefst 186 m2 aan woonoppervlakte krijg je hier ontzettend veel vierkante meters voor je geld, en de diepe achtertuin met tuinkamer biedt volop mogelijkheden voor die sauna van je. Toch mis ik wel echt jouw geliefde Woon-DNA: het is een geschakelde woning uit 1978 in plaats van een sfeervol jaren '30 herenhuis, en authentieke details zoals glas-in-lood of hoge plafonds ga je hier helaas niet vinden. Het is een fantastisch, gemoderniseerd huis waar je z\u00f3 in kunt, maar qua karakter sluit het niet helemaal aan bij waar jouw hart sneller van gaat kloppen.",
+            "buurt": "De Maten (Boswachtersveld)",
+            "prijs": 649000,
+            "datum": "2026-09-10 18:16"
         }
     },
     "harderwijk_ermelo": {
@@ -1185,6 +1209,46 @@
             "buurt": "Centrum Ermelo",
             "prijs": 775000,
             "datum": "2026-09-09 18:29"
+        },
+        "https://mnm.nl/woning/nijkerkerveen-van-dijkhuizenstraat-38/": {
+            "adres": "Van Dijkhuizenstraat 38, 3864 DW Nijkerkerveen",
+            "score": 5,
+            "motivatie": "Dag Ida, hoewel deze woning aan de Van Dijkhuizenstraat 38 in Nijkerkerveen met 159 m\u00b2 lekker veel ruimte biedt en keurig is afgewerkt, past het qua type niet helemaal bij je Woon-DNA. Het is een volwaardige eengezinswoning (twee-onder-\u00e9\u00e9n-kap) met slaapkamers verdeeld over verdiepingen, en niet levensloopbestendig (geen slaap- en badkamer beneden) of een appartement met lift. Wel is het instapklaar en binnen budget, maar vanwege het ontbreken van de juiste indeling geef ik het een score van 5.",
+            "buurt": "Nijkerkerveen",
+            "prijs": 735000,
+            "datum": "2026-09-10 18:19"
+        },
+        "https://makelaarschap.nl/woning/elburg-molendijkjes-25/": {
+            "adres": "Molendijkjes 25, Elburg",
+            "score": 5,
+            "motivatie": "Lieve Ida, hoewel deze moderne twee-onder-een-kapwoning in Elburg (bouwjaar 2021, A++++, instapklaar en super de luxe) op papier prachtig is, past hij niet helemaal bij jouw Woon-DNA. Ten eerste is het geen levensloopbestendige woning of appartement met lift: je hebt hier te maken met meerdere verdiepingen en slaapkamers boven. Daarnaast is 160 m2 net boven jouw gewenste bovengrens van 150 m2, en zoek je eigenlijk een kleiner tuintje of een balkon (dit perceel is 247 m2 met een grote oprit en garage). Kortom: prachtig huis, maar niet de juiste woningtype voor jou!",
+            "buurt": "Elburg",
+            "prijs": 739500,
+            "datum": "2026-09-10 18:19"
+        },
+        "https://makelaarschap.nl/woning/zeewolde-elementen-68/": {
+            "adres": "Elementen 68, Zeewolde",
+            "score": 4,
+            "motivatie": "Lieve Ida, hoewel deze moderne hoekwoning in Zeewolde er keurig uitziet en instapklaar is (gebouwd in 2017), past hij niet helemaal bij jouw Woon-DNA. Zoek jij niet een levensloopbestendige woning (slaap- en badkamer beneden of een appartement met lift)? Dit is namelijk een eengezinswoning met de slaapkamers verdeeld over de verdiepingen. Bovendien is de woning met 170 m\u00b2 (waarvan een deel op zolder door NEN-normen eigenlijk overig inpandige ruimte is) aan de grote kant voor je, en ligt het buiten je gewenste regio Apeldoorn. Daarom krijgt dit pand een lagere score van mij.",
+            "buurt": "Zeewolde",
+            "prijs": 615000,
+            "datum": "2026-09-10 18:19"
+        },
+        "https://makelaarschap.nl/woning/wezep-bietenakker-29/": {
+            "adres": "Bietenakker 29, Wezep",
+            "score": 5,
+            "motivatie": "Lieve Ida, hoewel deze uitgebouwde hoekwoning in Wezep prachtig is afgewerkt, ruim genoeg is (139 m2) en direct beschikbaar is binnen jouw budget (\u20ac 475.000), past het qua type niet helemaal bij jouw Woon-DNA. Jij zoekt specifiek een levensloopbestendige woning (bungalow of slaap/badkamer op de begijnende grond) of een luxe appartement met lift. Bij deze woning bevinden alle slaapkamers en de badkamer zich op de verdiepingen, wat het minder geschikt maakt voor de langere termijn. Wel is de stijl keurig en instapklaar, maar vanwege het ontbreken van een slaap- en badkamer beneden geef ik deze een score van 5.",
+            "buurt": "Wezep",
+            "prijs": 475000,
+            "datum": "2026-09-10 18:19"
+        },
+        "https://makelaarschap.nl/woning/oosterwolde-gld-essenakker-22/": {
+            "adres": "Essenakker 22, Oosterwolde Gld",
+            "score": 4,
+            "motivatie": "Lieve Ida, deze woning in Oosterwolde is een ruime gezinswoning (127 m2), maar past helaas niet goed bij jouw Woon-DNA. Ten eerste is dit een hoekwoning met meerdere verdiepingen en slaapkamers boven, in plaats van een levensloopbestendige woning (bungalow/gelijkvloers) of een luxe appartement met lift. Bovendien ligt het in Oosterwolde (Gld) en niet in Apeldoorn, en heeft het perceel van 307 m2 een te grote tuin voor jouw wens van een klein, onderhoudsvriendelijk tuintje of royaal balkon. Wel is het netjes afgewerkt, maar qua type en locatie sla ik deze voor jou over!",
+            "buurt": "Oosterwolde Gld",
+            "prijs": 459000,
+            "datum": "2026-09-10 18:19"
         }
     },
     "moeder_harderwijk_ermelo": {
