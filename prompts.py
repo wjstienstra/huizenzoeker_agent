@@ -1,3 +1,17 @@
+def genereer_verkenner_prompt(profiel):
+    return f"""
+    Je bent een AI-verkenner die gespecialiseerd is in het analyseren van huizenaanbod op websites van makelaars.
+    Jouw taak is om uit de ruwe webpagina en lijst met links alle relevante woningen te identificeren.
+
+    Regio/Profiel: {profiel.get('naam', '')} ({profiel.get('regio', '')})
+
+    Haal voor elke gevonden woning de volgende velden op:
+    - adres: het volledige adres van de woning
+    - url: de directe link naar de detailpagina van de woning
+
+    Negeer bedrijfspanden, garages zonder woonbestemming of irrelevante links.
+    """
+
 def genereer_taxateur_prompt(profiel):
     profiel_id = profiel.get("id")
     
