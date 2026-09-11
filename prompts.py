@@ -1,47 +1,72 @@
-def genereer_verkenner_prompt(profiel):
-    return f"""
-Jij bent een slimme vastgoedverkenner voor {profiel['naam']} in regio {profiel['regio']}.
-Je filtert ruw aanbod op basis van de volgende hoofdcriteria:
-{profiel['woon_dna']}
-Maximale prijs: € {profiel['budget_max']}.
-Selecteer alle woningen die ook maar enigszins in de buurt komen.
-"""
-
 def genereer_taxateur_prompt(profiel):
-    focus = profiel.get('focus_gebied', 'standaard')
+    profiel_id = profiel.get("id")
     
-    # Dynamisch stukje logica op basis van de focus
-    extra_instructie = ""
-    if focus == "esthetiek_en_karakter":
-        extra_instructie = "Wees extreem streng op architectuur, bouwjaar en unieke gevels. Een hoge score (8+) is uitsluitend voor echte karakteristieke parels."
-    elif focus == "loopafstand_en_praktisch":
-        extra_instructie = "Wees extreem streng op de locatie en praktische ligging ten opzichte van het centrum en voorzieningen."
+    if profiel_id == "harderwijk_ermelo":
+        extra_instructie = (
+            "WERK VOLGENS DIT STRENGE PUNTENRASTER VOOR IDAPROFIEL (Totaal max 10 punten):\n"
+            "Beoordeel de woning streng per categorie. Tel de punten op voor de eindscore:\n\n"
+            
+            "1. **Levensloopbestendig / Type (Max. 3 punten):**\n"
+            "- 3 pnt: Volledig gelijkvloers (bungalow, semibungalow of slaap- en badkamer op de begane grond).\n"
+            "- 2 pnt: Zeer ruim en luxe appartement in een complex met lift.\n"
+            "- 0 pnt: Standaard gezinswoning met alle slaapkamers op de verdieping zonder liftoptie.\n\n"
+            
+            "2. **Staat van Afwerking & Instapklaar (Max. 3 punten):**\n"
+            "- 3 pnt: Luxueus, modern en direct instapklaar (geen enkele verbouwing nodig).\n"
+            "- 1 pnt: Degelijk onderhouden, maar met lichte moderniseringsbehoefte.\n"
+            "- 0 pnt: Gedateerd, verjaard interieur (oude badkamer, keuken, schrootjes, gedateerd sanitair). Direct afstraffen!\n\n"
+            
+            "3. **Maatvoering & Indeling (Max. 2 punten):**\n"
+            "- Valt de woonoppervlakte binnen de richtlijn van 100 - 150 m² én is er voldoende ruimte voor logees of hobby's? Zo ja: 2 punten. Zo nee: 0 of 1 punt.\n\n"
+            
+            "4. **Buitenruimte (Max. 1 punt):**\n"
+            "- Klein, onderhoudsvriendelijk tuintje of een royaal, comfortabel balkon. Geen grote lappen onderhoudsintensieve grond.\n\n"
+            "5. **Beschikbaarheid & Planning (Max. 1 punt / Harde Uitsluiter):**\n"
+            "- **STRIKTE REGEL:** Is de woning op korte termijn beschikbaar? Sluit nieuwbouwprojecten waarvan de oplevering pas ver in de toekomst ligt (zoals 2027 of 2028) **direct uit met een gefixeerde eindscore van 1**.\n\n"
+            "**GEBRUIKSREGEL:** Ida zoekt geen klushuis of historische charme, maar puur comfort, lift/gelijkvloers, centrale ligging en strakke modernheid binnen het budget."
+        )
+    elif profiel_id == "apeldoorn" or not profiel_id:
+        # Profiel voor Willem-Jan (of als fallback bij ontbrekend ID)
+        extra_instructie = (
+            "WERK VOLGENS DIT GEBALANCEERDE PUNTENRASTER (Totaal max 10 punten):\n"
+            "Beoordeel de woning streng per categorie. Tel de punten op voor de eindscore:\n\n"
+            
+            "1. **Bouwstijl & Vrijheid (Max. 2 punten):**\n"
+            "- 2 pnt: Vrijstaand herenhuis of unieke historische villa met maximale vrijheid rondom.\n"
+            "- 1 pnt: Karakteristieke helft-van-een-dubbel of unieke hoekwoning.\n"
+            "- 0 pnt: Standaard rijtjeshuis of doorsnee massa-bouw.\n\n"
+            
+            "2. **Authentieke Elementen & Interieur (Max. 2 punten):**\n"
+            "- Uitsluitend punten bij *harde tekstuele bewijzen* (stijlkenmerken, paneeldeuren, en-suite, open haard). Negeer vage marketingtaal ('sfeervol') volledig.\n\n"
+            
+            "3. **Prijs-Kwaliteit & Vierkante Meters (Max. 2 punten):**\n"
+            "- Schat of bereken de vraagprijs per m² woonoppervlakte. Markt in Apeldoorn Noord/West ligt rond €4.300 - €4.700 p/m².\n"
+            "- **> €5.000 p/m²:** Fors aan de prijs. Tenzij de staat en afwerking absoluut vlekkeloos zijn, kost dit hier punten (0 of 1 pnt).\n"
+            "- **< €4.700 p/m²:** Scherp of marktconform geprijsd (+2 pnt).\n\n"
+            
+            "4. **Buitenruimte & Sauna-potentie (Max. 2 punten):**\n"
+            "- Diepe of gunstig gelegen tuin (zoals een beschutte achtertuin met veranda) én reële fysieke ruimte voor een kleine sauna (+2 pnt).\n\n"
+            
+            "5. **Ligging, Rust & Omgeving (Max. 2 punten):**\n"
+            "- Weeg de ligging af als een **totaalplaatje**: een drukkere weg is een nadeel voor de voorzijde, maar wordt nadrukkelijk gecompenseerd als de achterzijde, de diepte van het perceel en de achtertuin juist maximale privacy, groen en rust bieden.\n"
+            "- Geef een weloverwogen score (1 of 2 pnt) als de buitenruimte en achterkant de drukte aan de voorzijde goed opvangen.\n\n"
+            
+            "**STRIKTE REGEL VOOR DE EINDGRADE:** \n"
+            "- Wees streng op de vierkante meterprijs, maar straf een woning met een schitterend historisch karakter en een fantastische besloten achtertuin niet onnodig af op een enkele factor."
+        )
+    else:
+        # Algemene fallback voor toekomstige profielen die nog geen specifiek raster hebben
+        extra_instructie = (
+            "WERK VOLGENS DIT ALGEMENE PUNTENRASTER (Totaal max 10 punten):\n"
+            "Beoordeel de woning kritisch en objectief op basis van het opgegeven Woon-DNA, "
+            "de prijs-kwaliteitverhouding en de locatiespecificaties van het profiel."
+        )
 
     return f"""
-Jij bent de persoonlijke aankoopmakelaar van {profiel['naam']}. 
-Beoordeel de woning kritisch op het Woon-DNA: {profiel['woon_dna']} (Max € {profiel['budget_max']}).
+Jij bent de meedogenloze, kritische aankoopmakelaar van {profiel['naam']} in regio {profiel.get('regio', 'onbekend')}. 
+Beoordeel de woning op basis van het Woon-DNA: {profiel['woon_dna']} (Max budget: € {profiel['budget_max']}).
 
 {extra_instructie}
 
-Geef een score van 1 t/m 10 en onderbouw dit in een persoonlijke, direct aan {profiel['naam']} gerichte motivatie.
-"""
-
-def genereer_vision_prompt(profiel):
-    focus = profiel.get('focus_gebied', 'standaard')
-    
-    if focus == "esthetiek_en_karakter":
-        return f"""
-        Je bent een meedogenloze architectuur-criticus en de aankoopadviseur van {profiel['naam']}.
-        Jouw taak is het neersabelen van dertien-in-een-dozijn gevels. Wees extreem streng. 
-
-        BEOORDELINGSRICHTLIJNEN VOOR DE GEVEL:
-        - De standaardstand van elke gevel is **0** (neutraal / doorsnee / gewoontjes). 
-        - Een huis krijgt uitsluitend een plus-score (+1 tot +3) als het een absoluut visueel meesterwerk is (unieke ornamenten, uitgesproken stijlkenmerken die direct opvallen).
-        - **Strafpunten (-1 tot -3):** Zodra een gevel oogt als een normale, platte bakstenen muur met standaard rechthoekige ramen, moderne kozijnen of een gewone dakkapel — hoe netjes onderhouden ook — geef je DIRECT een negatieve score of minimaal een 0. Geef NOOIT zomaar pluspunten aan een doorsnee voororlogse gevel.
-
-        Formuleer in `vision_motivatie` direct en nuchter waarom dit huis esthetisch tegenvalt of juist uitblinkt.
-        """
-    else:
-        return f"""
-Beoordeel de foto van de woning voor {profiel['naam']} op uiterlijke geschiktheid en onderhoud.
+Geef een onderbouwde motivatie waarin je per categorie kort toelicht hoeveel punten er zijn toegekend, en sluit af met de berekende eindscore van 1 t/m 10.
 """
