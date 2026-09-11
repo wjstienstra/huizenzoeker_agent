@@ -16,51 +16,53 @@ async def scrape_url(url, base_url, is_detail=False):
             print(f"Browsen naar: {url}...")
             await page.goto(url, wait_until="domcontentloaded", timeout=60000)
             
-            text, links, hoofd_foto_url = "", [], None
+            # Wacht even op eventuele JavaScript rendering
+            await asyncio.sleep(4)
             
-            for attempt in range(3):
+            # Robuuste cookie-afhandeling (wacht tot knop zichtbaar is en klik)
+            for selector_text in ["accepteer", "akkoord", "alles akkoord", "cookies", "toestaan"]:
                 try:
-                    cookie_buttons = page.get_by_role("button", name=re.compile("accepteer|akkoord|ok|cookies", re.IGNORECASE))
-                    if await cookie_buttons.count() > 0:
-                        await cookie_buttons.first.click()
-                        await asyncio.sleep(1)
-                except: pass
+                    cookie_btn = page.get_by_role("button", name=re.compile(selector_text, re.IGNORECASE))
+                    if await cookie_btn.count() > 0 and await cookie_btn.first.is_visible():
+                        await cookie_btn.first.click()
+                        await asyncio.sleep(1.5)
+                        break
+                except:
+                    pass
 
-                await page.mouse.wheel(0, 1000)
-                await asyncio.sleep(2 + attempt) 
-                
-                content = await page.content()
-                soup = BeautifulSoup(content, 'html.parser')
-                target = soup.find('main') or soup.find('article') or soup.body
-                text = target.get_text(separator=' ', strip=True) if target else ""
-                
-                if len(text) > 500:
-                    break
-                print(f"   ⏳ Pagina lijkt nog leeg ({len(text)} tekens), geduld (poging {attempt+1}/3)...")
+            # Lichte scroll om eventuele lazy loading te triggeren
+            await page.mouse.wheel(0, 1000)
+            await asyncio.sleep(1)
+            
+            content = await page.content()
+            soup = BeautifulSoup(content, 'html.parser')
+            target = soup.find('main') or soup.find('article') or soup.body
+            text = target.get_text(separator=' ', strip=True) if target else ""
 
-            if is_detail:
-                meta_image = soup.find('meta', property='og:image')
-                if meta_image and meta_image.get('content'):
-                    hoofd_foto_url = meta_image['content']
-                    if hoofd_foto_url.startswith('/'):
-                        hoofd_foto_url = base_url.rstrip('/') + hoofd_foto_url
-
+            links = []
             if not is_detail:
+                domain = base_url.split('//')[-1].split('/')[0]
                 for a in soup.find_all('a', href=True):
                     href = a['href'].strip()
-                    if not href or any(n in href.lower() for n in ['facebook', 'linkedin', 'instagram', 'funda.nl', 'google', '.pdf', '.jpg']): 
+                    if not href or any(n in href.lower() for n in ['facebook', 'linkedin', 'instagram', 'funda.nl', 'google', '.pdf', '.jpg', 'mailto:', 'tel:']): 
                         continue
 
-                    is_internal = any(x in href for x in ['/wonen/aanbod/', '/woningen/', '/aanbod/', '/woning/', '/woningaanbod/', '/koopwoningen/'])
-                    is_external = href.startswith('http') and base_url.split('//')[-1].split('/')[0] not in href
-                    
-                    if is_internal or is_external:
-                        full_url = href if href.startswith('http') else f"{base_url.rstrip('/')}/{href.lstrip('/')}"
-                        if full_url not in links: links.append(full_url)
+                    full_url = href if href.startswith('http') else f"{base_url.rstrip('/')}/{href.lstrip('/')}"
+                    clean_url = full_url.split('?')[0].rstrip('/')
 
-            print(f"   📊 Eindresultaat: {len(text)} tekens. Foto gevonden: {'Ja' if hoofd_foto_url else 'Nee'}")
+                    # Alleen links van hetzelfde domein en geen paginatie
+                    if domain in clean_url and 'page/' not in clean_url.lower():
+                        path = clean_url.lower()
+                        
+                        # Breed filter zodat de Verkenner-agent alle typen object-links binnenkrijgt
+                        is_woning_pad = any(x in path for x in ['woning', 'aanbod', 'koop', 'pand', 'object', 'details', 'huis', '/woningen/'])
+                        
+                        if is_woning_pad and clean_url != base_url.rstrip('/'):
+                            if clean_url not in links: 
+                                links.append(clean_url)
+
             await browser.close()
-            return text, links, hoofd_foto_url
+            return text, links, None
 
         except Exception as e:
             print(f"⚠️ Fout bij {url}: {e}")
