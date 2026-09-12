@@ -1759,6 +1759,102 @@
             "buurt": "Kampen",
             "prijs": 700000,
             "datum": "2026-09-11 18:21"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/stadskade-416": {
+            "adres": "Stadskade 416",
+            "score": 2,
+            "motivatie": "Als meedogenloze aankoopmakelaar kan ik hier heel kort over zijn: dit appartement mist nagenoeg elk onderdeel van jouw Woon-DNA.\n\n1. Bouwstijl & Vrijheid (0/2 pnt): Het betreft een modern appartementencomplex uit 2003. Geen historisch herenhuis of karakteristieke villa, maar reguliere complexbouw.\n2. Authentieke Elementen & Interieur (0/2 pnt): Nul komma nul historische details; geen glas-in-lood, geen paneeldeuren, geen en-suite. \n3. Prijs-Kwaliteit & Vierkante Meters (1/2 pnt): Met 86 m\u00b2 woonoppervlakte schiet dit ver tekort bij de gewenste 125-175 m\u00b2 en biedt het slechts 2 slaapkamers (eis is minstens 3). De m\u00b2-prijs ligt rond de \u20ac 4.878 p/m\u00b2 (boven de norm van \u20ac 4.700).\n4. Buitenruimte & Sauna-potentie (0/2 pnt): Slechts een terras van 13 m\u00b2 op de begane grond. Een buitensauna en beschutte tuin zijn hier volstrekt uitgesloten (en VvE-gebonden).\n5. Ligging, Rust & Omgeving (1/2 pnt): Leuk uitzicht over het kanaal en op loopafstand van het centrum, maar niet de rust, privacy en het groen dat je zoekt.\n\nEindscore: 2/10. Direct links laten liggen.",
+            "buurt": "Centrum",
+            "prijs": 419500,
+            "datum": "2026-09-12 17:43"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/jaromirgaarde-114": {
+            "adres": "Jaromirgaarde 114",
+            "score": 3,
+            "motivatie": "Beoordeling op basis van het Woon-DNA en puntenraster:\n\n1. Bouwstijl & Vrijheid (0/2 pnt): Standaard tussenwoning / massabouw uit 1981 in een typische woonerfwijk. Nul uitstraling van een herenhuis of karakteristieke tweekapper.\n2. Authentieke Elementen & Interieur (0/2 pnt): Geen enkel historisch of jaren '30 element aanwezig. Geen glas-in-lood, geen paneeldeuren, geen en-suite. Slechts een moderne afwerking.\n3. Prijs-Kwaliteit & Vierkante Meters (2/2 pnt): De vraagprijs per m\u00b2 bedraagt ca. \u20ac 3.665,- (\u20ac 428.800 voor 117 m\u00b2), wat ruimschoots onder de \u20ac 4.700,- per m\u00b2 ligt. Wel valt het met 117 m\u00b2 net onder de richtlijn (125-175 m\u00b2), al zijn er wel 4 slaapkamers aanwezig.\n4. Buitenruimte & Sauna-potentie (0/2 pnt): Een bescheiden achtertuin op het noordoosten (weinig gunstige zonligging) met stenen berging. Een buitensauna ontneemt nagenoeg alle buitenruimte en biedt nauwelijks privacy tussen de buren.\n5. Ligging, Rust & Omgeving (1/2 pnt): Rustige ligging nabij het Matenpark en voorzieningen, maar het is De Maten (Apeldoorn-Zuidoost) en niet de gezochte karakteristieke lanen in Noord/West.\n\nEindscore: 3/10. Functionele en energiezuinige gezinswoning, maar een regelrechte mismatch voor Willem-Jans karakterwensen.",
+            "buurt": "De Maten",
+            "prijs": 428800,
+            "datum": "2026-09-12 17:43"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/ploegersdonk-113": {
+            "adres": "Ploegersdonk 113",
+            "score": 3,
+            "motivatie": "Beoordeling volgens puntenraster:\n\n1. Bouwstijl & Vrijheid (0/2 pnt): Het betreft een standaard tussen-/rijwoning uit 1974 in een typische bloemkoolwijk; geen enkele historische uitstraling of vrijheid.\n2. Authentieke Elementen & Interieur (0/2 pnt): Volledig gemoderniseerd (2023) en strakgetrokken, maar nul authentieke stijlelementen zoals glas-in-lood, paneeldeuren of en-suite.\n3. Prijs-Kwaliteit & Vierkante Meters (2/2 pnt): Vraagprijs van \u20ac 449.500 voor 136 m\u00b2 komt neer op ca. \u20ac 3.305/m\u00b2. Gezien het energielabel A en de recente renovaties is dit bijzonder scherp geprijsd ten opzichte van de Apeldoornse normen.\n4. Buitenruimte & Sauna-potentie (0/2 pnt): Een bescheiden achtertuin van ca. 50 m\u00b2 op het noordoosten, die al grotendeels in beslag wordt genomen door een schuur en overkapping. Geen re\u00eble plek of privacy voor een ontspannen saunahoek.\n5. Ligging, Rust & Omgeving (1/2 pnt): De Maten is een rustige, kindvriendelijke woonwijk met veel groen en voorzieningen nabij, maar mist de statige sfeer en lommerrijke charme van Apeldoorn Noord of West.\n\nEindscore: 3/10. Financieel en qua verduurzaming keurig voor starters/gezinnen, maar volstrekt in strijd met het gezochte karaktervolle jaren '30/herenhuis Woon-DNA van Willem-Jan.",
+            "buurt": "De Maten",
+            "prijs": 449500,
+            "datum": "2026-09-12 17:43"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/vosselmanstraat-580": {
+            "adres": "Vosselmanstraat 580, Apeldoorn",
+            "score": 2,
+            "motivatie": "Willem-Jan, wat haal je me nu weer in huis? Dit is een flatgebouw uit 1999 in het centrum van Apeldoorn, in de verste verte geen jaren '30 herenhuis te bekennen. \n\n1. Bouwstijl & Vrijheid (0/2): Een appartement op de 3e verdieping. Geen vrijstaand herenhuis of historische villa, maar massa-bouw.\n2. Authentieke Elementen & Interieur (0/2): Geen enkel hard bewijs van glas-in-lood, paneeldeuren of en-suite. Strak gestucte wanden en een eiken parketvloer, maar nul historische ziel.\n3. Prijs-Kwaliteit & Vierkante Meters (1/2): Met 92 m\u00b2 en een vraagprijs van \u20ac 400.000 betaal je zo'n \u20ac 4.347 per m\u00b2. Dat is marktconform voor Apeldoorn, maar je krijgt er een krappe 92 kuub aan leefruimte voor terug in plaats van de gewenste 125-175m\u00b2.\n4. Buitenruimte & Sauna-potentie (0/2): Een terras op het zuiden. Probeer daar maar eens een sauna neer te zetten; de VvE en je buren lachen je vierendeel uit.\n5. Ligging, Rust & Omgeving (1/2): Midden in het levendige centrum. Weliswaar rustig gelegen \u00edn het complex, maar het DNA van Willem-Jan schreeuwt om een diepe achtertuin met maximale privacy, niet een galerijflat.\n\nEindscore: 2 van de 10 punten. Dit is een regelrechte belediging voor het Woon-DNA en direct afgedaan als miskoop. Doorpakken naar de volgende!",
+            "buurt": "Centrum",
+            "prijs": 400000,
+            "datum": "2026-09-12 17:44"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/stadskade-344": {
+            "adres": "Stadskade 344",
+            "score": 1,
+            "motivatie": "Dit appartement slaat de plank voor Willem-Jan op vrijwel alle fronten mis. \n\nHier is de uitsplitsing op basis van het puntenraster:\n1. Bouwstijl & Vrijheid (0/2 pnt): Een modern appartementencomplex uit 2003. Geen vrijstaand herenhuis of karakteristieke twee-onder-een-kap, maar massa-appartementenbouw.\n2. Authentieke Elementen & Interieur (0/2 pnt): Bouwjaar 2003; er is geen enkel authentiek historisch stijlelement (zoals glas-in-lood, paneeldeuren of en-suite) aanwezig.\n3. Prijs-Kwaliteit & Vierkante Meters (0/2 pnt): Met \u20ac 415.000 voor 80 m\u00b2 betaal je bijna \u20ac 5.188 per m\u00b2. Dat is ruim boven de \u20ac 5.000 p/m\u00b2. Bovendien voldoet 80 m\u00b2 met 2 slaapkamers absoluut niet aan de richtlijn van 125-175 m\u00b2 en minimaal 3 slaapkamers.\n4. Buitenruimte & Sauna-potentie (0/2 pnt): Er is slechts een balkon op de vijfde verdieping; er is geen tuin en dus nul sauna-potentie.\n5. Ligging, Rust & Omgeving (1/2 pnt): De ligging aan het Apeldoorns Kanaal en de rand van het centrum is levendig en biedt leuk uitzicht over het water, maar biedt niet de rust en privacy van een groene woonwijk.\n\nEindscore: 1 / 10. Direct doorstrepen en verder zoeken naar een karakteristiek woonhuis!",
+            "buurt": "Centrum / De Haven",
+            "prijs": 415000,
+            "datum": "2026-09-12 17:44"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/bierbrouwershorst-610": {
+            "adres": "Bierbrouwershorst 610",
+            "score": 4,
+            "motivatie": "Als meedogenloze aankoopmakelaar moet ik hier heel helder in zijn: dit is een nette eengezinswoning, maar het staat mijlenver af van jouw Woon-DNA.\n\nHier is de uitsplitsing volgens het puntenraster:\n1. Bouwstijl & Vrijheid (0/2 pnt): Een standaard tussenwoning/rijtjeshuis uit 1980 in een typische woonerfwijk. Nul uitstraling van een herenhuis of jaren '30 architectuur.\n2. Authentieke Elementen & Interieur (0/2 pnt): Geen enkel authentiek historisch detail aanwezig (geen glas-in-lood, geen en-suite, geen paneeldeuren of hoge plafonds). \n3. Prijs-Kwaliteit & Vierkante Meters (2/2 pnt): Met \u20ac 425.000 k.k. voor 115 m\u00b2 bedraagt de vierkante meterprijs ca. \u20ac 3.695/m\u00b2. Dat is zeer scherp en ruim onder de \u20ac 4.700/m\u00b2, mede dankzij het uitstekende energielabel A+. Echter is het woonoppervlak (115 m\u00b2) kleiner dan jouw richtlijn van 125-175 m\u00b2.\n4. Buitenruimte & Sauna-potentie (1/2 pnt): De tuin heeft een overkapping en loopt iets breder uit, maar ligt pal op het noorden en het perceel is bescheiden (181 m\u00b2 incl. voortuin). Fysiek zou een compacte sauna er misschien net tussen gepropt kunnen worden, maar ideaal is het allerminst.\n5. Ligging, Rust & Omgeving (1/2 pnt): Rustige en groene ligging aan een fietspad en speelveld in De Maten, maar het is ver verwijderd van het karaktervolle Apeldoorn Noord of West waar de lanen met allure liggen.\n\nEindscore: 4/10. Financieel en qua energiezuinigheid een prima startershuis, maar qua karakter, stijl en beleving een absolute mismatch. Laten schieten.",
+            "buurt": "De Maten",
+            "prijs": 425000,
+            "datum": "2026-09-12 17:45"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/1e-wormenseweg-137-2": {
+            "adres": "1e Wormenseweg 137-2, Apeldoorn",
+            "score": 8,
+            "motivatie": "Willem-Jan, luister goed. Dit is een serieuze kandidaat. Laten we het puntentraster er streng op loslaten:\n\n1. Bouwstijl & Vrijheid (1 punt): Het betreft een karakteristieke 2-onder-1-kapwoning uit 1935 met een eigen oprit. Geen vrijstaand herenhuis, maar zeker geen doorsnee massa-bouw. (1/2 pnt)\n2. Authentieke Elementen & Interieur (2 punten): Harde bewijzen zijn er zeker: een fraaie entree met granito vloer, een erker aan de voorzijde \u00e9n een prachtige kamer-en-suite met bijbehorende deuren. Volledige score hierop. (2/2 pnt)\n3. Prijs-Kwaliteit & Vierkante Meters (2 punten): Vraagprijs is \u20ac 529.500 k.k. voor 125 m\u00b2. Dat komt neer op pakweg \u20ac 4.236 per m\u00b2. Gezien de markttrend in Apeldoorn Noord/West (\u20ac 4.300 - \u20ac 4.700) is dit scherp en marktconform geprijsd! (2/2 pnt)\n4. Buitenruimte & Sauna-potentie (2 punten): Perceel van 333 m\u00b2 met een diepe en zonnige achtertuin die privacy biedt. Hier is absoluut fysieke ruimte voor een kleine sauna. (2/2 pnt)\n5. Ligging, Rust & Omgeving (1 punt): De woning ligt aan een doorgaande weg (1e Wormenseweg), wat minuspunten oplevert voor de voorzijde. Echter, de diepte van het perceel en de beschutte achtertuin vangen dit redelijk op, gecombineerd met de centrale ligging nabij het station en parken. (1/2 pnt)\n\nTotale eindscore: 8 van de 10 punten. Een ijzersterke woning die past bij jouw Woon-DNA!",
+            "buurt": "Wormen",
+            "prijs": 529500,
+            "datum": "2026-09-12 17:45"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/zonnewende-242": {
+            "adres": "Zonnewende 242",
+            "score": 4,
+            "motivatie": "Beoordeling op basis van het Woon-DNA en puntenraster:\n\n1. Bouwstijl & Vrijheid (1/2 pnt): Het betreft een vrijstaand geschakelde woning met oprit en garage, maar het is typische nieuwbouwarmateuristische vinex-architectuur uit 2005. Geen spoor van een historisch herenhuis of jaren '30 uitstraling.\n2. Authentieke Elementen & Interieur (0/2 pnt): Geen enkel authentiek stijlelement. Nul glas-in-lood, geen paneeldeuren of en-suite. Slechts een moderne gashaard en een strakke, eigentijdse afwerking.\n3. Prijs-Kwaliteit & Vierkante Meters (1/2 pnt): Met een vraagprijs van \u20ac 649.500 voor 135 m\u00b2 woonoppervlak komt de vierkante meterprijs uit op ca. \u20ac 4.811/m\u00b2. Voor Osseveld is dit behoorlijk aan de prijs, zeker gezien het ontbreken van historisch karakter.\n4. Buitenruimte & Sauna-potentie (1/2 pnt): De achtertuin ligt gunstig op het zuidwesten en beschikt over een veranda. Met een perceel van 227 m\u00b2 (inclusief garage en oprit) is de ruimte echter bescheiden; een sauna past wellicht krap, maar biedt weinig weelderige privacy.\n5. Ligging, Rust & Omgeving (1/2 pnt): Gelegen aan het einde van een rustig, groen en kindvriendelijk woonhofje met veel privacy aan de achterzijde. Echter, Osseveld-West mist de authentieke, lommerrijke charme van Apeldoorn West/Noord waar Willem-Jan naar zoekt.\n\nEindscore: 4 / 10. Een prima onderhouden en comfortabele gezinswoning, maar een totale mismatch met het karaktervolle Woon-DNA.",
+            "buurt": "Osseveld-West",
+            "prijs": 649500,
+            "datum": "2026-09-12 17:46"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/houttuinen-noord-11": {
+            "adres": "Houttuinen-Noord 11, Apeldoorn",
+            "score": 5,
+            "motivatie": "Willem-Jan, laten we helder zijn: dit is geen jaren '30 parel, maar een degelijke vrijstaande semi-bungalow uit 1996 in Woudhuis. \n1. Bouwstijl & Vrijheid (1/2 pnt): Het is een vrijstaande woning, dus de vrijheid rondom is uitstekend, maar het ontbreken van de historische jaren '30 bouwstijl kost een punt.\n2. Authentieke Elementen (0/2 pnt): Geen glas-in-lood, paneeldeuren of en-suite. Er is wel een gashaard aanwezig, maar dit is overduidelijk jaren '90 bouw zonder authentiek karakter.\n3. Prijs-Kwaliteit (2/2 pnt): Vraagprijs is \u20ac 699.000 voor 139 m\u00b2 woonoppervlakte (ca. \u20ac 5.035 p/m\u00b2). Aan de bovenkant van de richtprijs, maar het is wel een vrijstaande woning met 433 m\u00b2 perceel en 5 slaapkamers. Net aanvaardbaar qua prijs-ruimteverhouding.\n4. Buitenruimte & Sauna-potentie (2/2 pnt): De tuin ligt rondom, biedt volop privacy en er is ruimschoots plek voor een kleine sauna.\n5. Ligging, Rust & Omgeving (0/2 pnt): Gelegen in Apeldoorn-Oost (Woudhuis), een standaard Vinex-achtige wijk. Niet de karakteristieke brede lanen met oudbouw in Noord of West die Willem-Jan zoekt.\n\nEindscore: 5/10. Handig voor wie levensloopbestendig wil wonen, maar mist het echte Willem-Jan Woon-DNA.",
+            "buurt": "Woudhuis (Apeldoorn-Oost)",
+            "prijs": 699000,
+            "datum": "2026-09-12 17:46"
+        },
+        "https://www.goos.nl/woning/swiftstraat-20": {
+            "adres": "Swiftstraat 20, 7312 VS Apeldoorn",
+            "score": 7,
+            "motivatie": "Als kritische aankoopmakelaar heb ik Swiftstraat 20 grondig doorgelicht volgens ons puntenraster: 1. Bouwstijl & Vrijheid (1/2 pnt): Het is een luxe uitgebouwde hoekwoning in een rustig woonerf aan de bosrijke westkant, geen vrijstaand jaren '30 herenhuis, maar wel een solide hoekwoning. 2. Authentieke Elementen (1/2 pnt): Geen typische jaren '30 details zoals glas-in-lood of paneeldeuren, maar w\u00e9l een sfeervolle gashaard en een strakke afwerking. 3. Prijs-Kwaliteit (2/2 pnt): Met een vraagprijs van \u20ac 595.000 voor 151 m\u00b2 wonen komen we uit op circa \u20ac 3.940 per m\u00b2, wat zeer scherp is voor deze gewilde westkant van Apeldoorn (marktconform is \u20ac 4.300 - \u20ac 4.700). 4. Buitenruimte & Sauna-potentie (2/2 pnt): Een fijne, zonnige tuin op het zuidwesten met voldoende ruimte om een kleine sauna te plaatsen. 5. Ligging, Rust & Omgeving (1/2 pnt): Gelegen in een rustig woonerf aan de bosrijke westkant nabij het Orderbos, kindvriendelijk en dichtbij alle voorzieningen. Totaalscore: 7/10. Een uitstekende prijs-kwaliteitverhouding op een toplocatie, hoewel we concessies moeten doen op het historische karakter.",
+            "buurt": "West (Apeldoorn)",
+            "prijs": 595000,
+            "datum": "2026-09-12 17:53"
+        },
+        "https://www.goos.nl/woning/korenstraat-26": {
+            "adres": "Korenstraat 26, 7311 LZ Apeldoorn",
+            "score": 1,
+            "motivatie": "Willem-Jan, kerel, wakker worden! Dit is een slap 2-kamerappartement van 60 m\u00b2 midden in het beton van de binnenstad. Geen jaren '30 karakter, geen minimaal 3 slaapkamers, geen diepe tuin, laat staan ruimte voor een sauna op een postzegelbalkon. Met \u20ac 275.000 voor 60 m\u00b2 betaal je ook nog eens de hoofdprijs per vierkante meter (\u20ac 4.583 p/m\u00b2, maar dan zit je wel in een lawaaiig appartementencomplex). Dit is de totale achternaam van jouw Woon-DNA. Direct overslaan! Score: 1/10.",
+            "buurt": "Centrum",
+            "prijs": 275000,
+            "datum": "2026-09-12 17:53"
+        },
+        "https://www.goos.nl/woning/schopenhauerstraat-89-2": {
+            "adres": "Schopenhauerstraat 89, 7323 LT Apeldoorn",
+            "score": 4,
+            "motivatie": "Willem-Jan, laten we eerlijk zijn: dit is een doorsnee tussenwoning uit een latere wijk en mist totaal het door jou zo gewenste historische karakter. Laten we het puntenraster erop loslaten: 1. Bouwstijl & Vrijheid: 0 punten. Het is een standaard tussenwoning in Zevenhuizen, geen herenhuis of helft-van-een-dubbel. 2. Authentieke Elementen: 0 punten. Geen paneeldeuren, geen glas-in-lood, geen en-suite; het is strak gestuct en modern, maar mist ziel. 3. Prijs-Kwaliteit: Met 132 m\u00b2 en een vraagprijs van \u20ac 419.500 komen we uit op circa \u20ac 3.178 per m\u00b2. Dat is qua prijs per vierkante meter heel scherp en levert 2 punten op. 4. Buitenruimte & Sauna-potentie: 1 punt. Er is een achtertuin met stenen berging, maar met een perceel van 180 m\u00b2 en een onderhoudsvrije inrichting grenzend aan een speelveldje is de ruimte voor een priv\u00e9sauna erg beperkt. 5. Ligging, Rust & Omgeving: 1 punt. Rustig gelegen aan een woonerf in Zevenhuizen, maar het mist de grandeur van Apeldoorn Noord of West. Totaal score: 4 punten. Leuk voor een doorsnee gezin, maar dit past simpeleken niet bij jouw Woon-DNA.",
+            "buurt": "Zevenhuizen",
+            "prijs": 419500,
+            "datum": "2026-09-12 17:53"
         }
     },
     "harderwijk_ermelo": {
@@ -2689,6 +2785,54 @@
             "buurt": "Nijkerk",
             "prijs": 525000,
             "datum": "2026-09-11 17:23"
+        },
+        "https://www.bijwillem.nl/aanbod/woningaanbod/harderwijk/koop/huis-10554433-Van-Maerlantlaan-32": {
+            "adres": "Van Maerlantlaan 32, 3842 JD Harderwijk",
+            "score": 3,
+            "motivatie": "Deze hoekwoning scoort slecht op het Woon-DNA van Ida. 1. Levensloopbestendig (0 pnt): Het is een traditionele eengezinswoning met alle slaapkamers en de badkamer op de verdieping, en geen lift aanwezig. 2. Staat van afwerking (1 pnt): De woning is redelijk onderhouden en heeft kunststof kozijnen, maar de inrichting oogt gedateerd en verjaard (met een eenvoudige douche/wastafel en gesloten keuken). 3. Maatvoering (0 pnt): Met slechts 66 m\u00b2 woonoppervlakte valt deze woning ruim onder de eis van 100-150 m\u00b2. 4. Buitenruimte (1 pnt): Er is een fijne, onderhoudsvriendelijke tuin op het zuiden met een garage. 5. Beschikbaarheid (1 pnt): Per 22-12-2026 beschikbaar (geen nieuwbouw-uitsluiter van toepassing). Eindscore: 3 punten. Dit is absoluut geen geschikte woning voor Ida.",
+            "buurt": "Stadsdennen",
+            "prijs": 385000,
+            "datum": "2026-09-12 17:56"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-randweg-52": {
+            "adres": "Randweg 52, Harderwijk",
+            "score": 4,
+            "motivatie": "Deze woning scoort slecht op bijna alle fronten voor het Woon-DNA van Ida. 1. Levensloopbestendig (0/3 pnt): Het is een standaard gezinswoning met alle slaapkamers boven en geen lift. 2. Staat van afwerking (1/3 pnt): De woning is gedateerd, heeft energielabel G en moet volledig gemoderniseerd/verduurzaamd worden, terwijl Ida instapklaar zoekt. 3. Maatvoering (1/2 pnt): Met 88 m\u00b2 zit het onder de gewenste richtlijn van 100-150 m\u00b2. 4. Buitenruimte (0/1 pnt): Er is juist een hele grote tuin van 289 m\u00b2 in plaats van een klein, onderhoudsvriendelijk tuintje. 5. Beschikbaarheid (1/1 pnt): De woning is direct beschikbaar. Eindscore komt uit op 4 punten.",
+            "buurt": "Veldkamp",
+            "prijs": 399000,
+            "datum": "2026-09-12 17:57"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/ermelo-forsythialaan-22": {
+            "adres": "Forsythialaan 22, Ermelo",
+            "score": 4,
+            "motivatie": "1. Levensloopbestendig/Type: 0 punten. Het betreft een standaard vrijstaande gezinswoning met alle slaapkamers op de verdieping en geen lift of slaap-/badkamer beneden. 2. Staat van Afwerking: 1 punt. De woning is netjes onderhouden, maar heeft wel een gedateerde basis (o.a. leistenen vloer, sanitair/keuken) en vraagt om modernisering. 3. Maatvoering: 2 punten. Met 137 m\u00b2 valt de woonoppervlakte netjes binnen de richtlijn van 100-150 m\u00b2 en zijn er voldoende kamers. 4. Buitenruimte: 0 punten. Ida zoekt een klein, onderhoudsvriendelijk tuintje of balkon. Dit huis heeft een kolossale perceeloppervlakte van maar liefst 715 m\u00b2 met een grote tuin rondom, wat veel te onderhoudsintensief is. 5. Beschikbaarheid: 1 punt. Direct beschikbaar in overleg. Daarnaast overschrijdt de vraagprijs van \u20ac 895.000 het maximale budget van \u20ac 800.000 fors. Eindscore: 4.",
+            "buurt": "Ermelo",
+            "prijs": 895000,
+            "datum": "2026-09-12 17:57"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-westrak-58": {
+            "adres": "Westrak 58, Harderwijk",
+            "score": 7,
+            "motivatie": "Als kritische aankoopmakelaar beoordeel ik deze woning als volgt:\\n1. Levensloopbestendig / Type (2 pnt): Het betreft een ruim en luxe appartement (maisonnette), maar het is niet volledig gelijkvloers (geen slaap-/badkamer op de begane grond). Er is wel sprake van een complex/etage-indeling, hoewel een lift niet specifiek wordt genoemd in de tekst (standaard maisonnette over meerdere verdiepingen). We kennen hier 2 punten toe voor het luxe appartement, hoewel het niet optimaal gelijkvloers is.\\n2. Staat van Afwerking & Instapklaar (3 pnt): In 2023 volledig gemoderniseerd, gestript en tot in de puntjes afgewerkt met strakke wanden, moderne keuken en luxe badkamer. Absoluut instapklaar!\\n3. Maatvoering & Indeling (2 pnt): Woonoppervlakte is 108 m\u00b2, wat perfect binnen de richtlijn van 100-150 m\u00b2 valt, inclusief 3 slaapkamers (ruimte voor logees/hobby).\\n4. Buitenruimte (1 pnt): Beschikt over een fraai aangelegd balkon van 11 m\u00b2 op het zuidoosten. Perfect en onderhoudsvriendelijk.\\n5. Beschikbaarheid & Planning (1 pnt): De woning is direct beschikbaar ('in overleg', geen verre nieuwbouw).\\n\\nEindscore komt hiermee op 9 punten, maar omdat het een maisonnette betreft met trappen binnen de woning en geen echte gelijkvloerse levensloopbestendigheid biedt, corrigeren we iets op het type (2 i.p.v. 3). Eindscore: 7 punten. Een keurige optie voor Ida vanwege de strakke afwerking en centrale ligging!",
+            "buurt": "Harderwijk - Westrak",
+            "prijs": 387500,
+            "datum": "2026-09-12 17:57"
+        },
+        "https://www.brandtmakelaars.nl/woning/ermelo-smutslaan-31": {
+            "adres": "Smutslaan 31, 3851 ZA Ermelo",
+            "score": 5,
+            "motivatie": "Als kritische aankoopmakelaar ben ik direct: deze woning scoort punten op het gebied van comfort en modern afwerkingsniveau, maar schiet fundamenteel te kort op het belangrijkste criterium van Ida: de maatvoering. \n\n1. Levensloopbestendig / Type (3/3 punten): Het betreft een driekamer-hoekappartement op de begane grond in een complex met lift. Volledig gelijkvloers en perfect toegankelijk.\n2. Staat van Afwerking & Instapklaar (3/3 punten): Zeer strak en modern. De keuken is vernieuwd in 2022 (inclusief Quooker) en de badkamer in 2020. Volledig instapklaar, geen kluswoning.\n3. Maatvoering & Indeling (0/2 punten): Hier gaat het mis. Ida's Woon-DNA vraagt om 100 - 150 m\u00b2. Dit appartement is slechts 63 m\u00b2! Dat is veel te krap voor haar woonwensen en logees/hobby's. \n4. Buitenruimte (0/1 punt): Er wordt geen noemenswaardige eigen buitenruimte (tuin of royaal balkon) genoemd; het complex heeft wel een gezamenlijke binnentuin, maar dat is niet exclusief priv\u00e9-comfort zoals gewenst.\n5. Beschikbaarheid & Planning (1/1 punt): De woning is direct beschikbaar (bestaande bouw uit 2008).\n\nTotaalscore: 3 + 3 + 0 + 0 + 1 = 5 punten. Hoewel het afwerkingsniveau fantastisch is, valt dit object door de beperkte afmeting (63 m\u00b2) ver buiten de maateisen van Ida.",
+            "buurt": "Centrum / Bosrand Ermelo",
+            "prijs": 395000,
+            "datum": "2026-09-12 17:58"
+        },
+        "https://www.brandtmakelaars.nl/woning/hierden-paaslohof-41": {
+            "adres": "Paaslohof 41, 3849 MW Hierden",
+            "score": 4,
+            "motivatie": "Als meedogenloze aankoopmakelaar ben ik direct: deze woning scoort onvoldoende op het Woon-DNA van Ida. 1. Levensloopbestendig (0 pnt): Het is een vrijstaande woning met alle slaapkamers en de badkamer op de verdieping, en er is geen lift of slaapkamer op de begane grond. 2. Staat van afwerking (1 pnt): De woning is netjes onderhouden en heeft energielabel B, maar de keukeninrichting is expliciet afgeschreven en aan vernieuwing toe, wat niet past bij een volledig instapklaar huis zonder verbouwingsbehoefte. 3. Maatvoering (2 pnt): Met 108 m\u00b2 en meerdere kamers valt het keurig binnen de 100-150 m\u00b2 norm met ruimte voor logees/hobby. 4. Buitenruimte (0 pnt): Ida zoekt juist een klein, onderhoudsvriendelijk tuintje of royaal balkon, terwijl dit perceel maar liefst 501 m\u00b2 groot is (een flinke lap grond met intensiever onderhoud). 5. Beschikbaarheid (1 pnt): De woning is direct beschikbaar. Eindscore: 0 + 1 + 2 + 0 + 1 = 4 punten. Niet doen voor Ida!",
+            "buurt": "Hierden (Paaslohof)",
+            "prijs": 595000,
+            "datum": "2026-09-12 17:58"
         }
     },
     "moeder_harderwijk_ermelo": {
