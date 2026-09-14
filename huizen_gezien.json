@@ -1911,6 +1911,46 @@
             "buurt": "Apeldoorn",
             "prijs": 679500,
             "datum": "2026-09-13 18:01"
+        },
+        "https://www.goos.nl/woning/sartrestraat-44": {
+            "adres": "Sartrestraat 44, 7323 GV Apeldoorn",
+            "score": 4,
+            "motivatie": "Als jouw aankoopmakelaar ben ik direct glashelder: dit is een 'no-go' voor Willem-Jan. Laten we het puntenraster langslopen: 1. Bouwstijl & Vrijheid (0 pnt): Het is een standaard rijtjeshuis/tussenwoning uit 1969 in Zevenhuizen. Geen herenhuis, nul historische vrijheid. 2. Authentieke Elementen & Interieur (0 pnt): Bouwjaar 1969 met een 'cinemawall' en kunststof kozijnen. Dit heeft niets te maken met glas-in-lood, paneeldeuren of jarendertigstijl; het is strak en modern, maar mist elk historisch karakter. 3. Prijs-Kwaliteit & Vierkante Meters (2 pnt): Vraagprijs is \u20ac439.500 voor 133 m\u00b2, wat neerkomt op ca. \u20ac3.305 per m\u00b2. Dat is qua prijs per vierkante meter scherp, maar dat compenseert ons gemis aan DNA niet. 4. Buitenruimte & Sauna-potentie (1 pnt): Perceel van 166 m\u00b2 met een tuin op het zuidoosten inclusief serre. Er is een stenen berging, maar een echte, beschutte plek voor een aparte sauna is op dit krappe perceel erg krap met al dat kunstgras en tegelwerk. 5. Ligging, Rust & Omgeving (1 pnt): Gelegen in Zevenhuizen nabij de Anklaar. Rustige straat, maar past totaal niet bij de wens voor een statige, karakteristieke locatie. Totaalscore: 4/10. Leuk huis voor een doorsnee starter, maar Willem-Jan zoekt karakter, ruimte en historie. Niet doen!",
+            "buurt": "Zevenhuizen",
+            "prijs": 439500,
+            "datum": "2026-09-14 19:54"
+        },
+        "https://www.goos.nl/woning/de-burcht-32": {
+            "adres": "De Burcht 32, 7325 SB Apeldoorn",
+            "score": 3,
+            "motivatie": "Willem-Jan, laten we eerlijk zijn: dit is een vinex-woning uit 2001 in Woudhuis in plaats van het door jou zo gewenste jaren '30 herenhuis met glas-in-lood en paneeldeuren. \n\nLaten we het puntenraster langslopen:\n1. Bouwstijl & Vrijheid (0 pnt): Bouwjaar 2001, een doorsnee eengezinswoning (omgekeerd wonen). Geen historische charme of vrijstaande villa.\n2. Authentieke Elementen & Interieur (0 pnt): Geen enkel hard bewijs van authentieke details; strak, modern en Vinex.\n3. Prijs-Kwaliteit & Vierkante Meters (2 pnt): Vraagprijs is \u20ac 389.500 voor 100 m\u00b2 woonoppervlakte. Dat komt neer op circa \u20ac 3.895 per m\u00b2, wat scherp geprijsd is voor de huidige markt. Hier scoort de woning punten.\n4. Buitenruimte & Sauna-potentie (0 pnt): Er is een volledig betegelde achtertuin en een dakterras op het zuidwesten, maar geen echte groene, diepe tuin met re\u00eble ruimte voor een vrijstaande sauna.\n5. Ligging, Rust & Omgeving (1 pnt): Gelegen aan een rustig hofje in Woudhuis met groen uitzicht aan de achterzijde, maar de indeling (slapen beneden, wonen boven) en de betegelde tuin compenseren het gebrek aan karakter niet voldoende.\n\nTotaalscore: 3 van de 10 punten. Leuk voor een starter, maar totaal niet het Woon-DNA van Willem-Jan!",
+            "buurt": "Woudhuis",
+            "prijs": 389500,
+            "datum": "2026-09-14 19:55"
+        },
+        "https://www.goos.nl/woning/het-kasteel-535": {
+            "adres": "Het Kasteel 535, 7325 PJ Apeldoorn",
+            "score": 4,
+            "motivatie": "Als kritische aankoopmakelaar ben ik kort: dit is absoluut niet wat Willem-Jan zoekt. Laten we de punten langslopen: 1. Bouwstijl & Vrijheid (0 pnt): Het is een doorsnee tussenwoning in een Vinex-achtige wijk, geen historische jaren '30 stijl. 2. Authentieke Elementen (0 pnt): Geen harde bewijzen van glas-in-lood, paneeldeuren of en-suite; slechts een 'moderne open keuken' en 'pvc-vloer'. 3. Prijs-Kwaliteit (1 pnt): 100 m\u00b2 woonoppervlakte voor \u20ac 398.000 komt neer op \u20ac 3.980 per m\u00b2. Dat is qua prijs per vierkante meter op zich redelijk, maar je krijgt er wel een heel klein perceel (112 m\u00b2) en een krappe woning voor terug die ver afstaat van de gewenste 125-175 m\u00b2. 4. Buitenruimte & Sauna-potentie (1 pnt): Er is een tuin op het zuiden, maar met een perceel van 112 m\u00b2 is er fysiek geen ruimte voor een comfortabele buitensauna inclusief de gewenste tuininrichting. 5. Ligging & Omgeving (2 pnt): Woudhuis is op zich rustig en kindvriendelijk, maar past totaal niet bij de herenhuis-ambities van Willem-Jan. Totaalscore: 4/10. Niet doen.",
+            "buurt": "Woudhuis",
+            "prijs": 398000,
+            "datum": "2026-09-14 19:55"
+        },
+        "https://www.goos.nl/woning/titaniumstraat-3": {
+            "adres": "Titaniumstraat 3, 7335 CC Apeldoorn",
+            "score": 4,
+            "motivatie": "Willem-Jan, laten we helder zijn: dit is een modern Vinex-achtig huis uit 2000 en past absoluut niet bij jouw Woon-DNA. 1. Bouwstijl & Vrijheid (0 pnt): Een standaard moderne hoekwoning, geen greintje historische vrijheid of jaren '30 karakter. 2. Authentieke Elementen & Interieur (0 pnt): Geen glas-in-lood, geen paneeldeuren, maar strak stucwerk en moderne kunststof/houten details. 3. Prijs-Kwaliteit & m\u00b2 (1 pnt): Vraagprijs is \u20ac450.000 voor 113 m\u00b2 woonoppervlakte, wat neerkomt op circa \u20ac3.982 per m\u00b2. Dat is qua prijs per vierkante meter scherp, maar compenseert het gebrek aan karakter niet. 4. Buitenruimte (1 pnt): Diepe tuin met veranda en bergingen, maar mist de unieke historische grandeur. 5. Ligging (2 pnt): Rustig gelegen aan een autoluw hofje. Totaalscore: 4/10. Niet doen, Willem-Jan. Dit mist jouw geliefde stijl volledig.",
+            "buurt": "Apeldoorn",
+            "prijs": 450000,
+            "datum": "2026-09-14 19:55"
+        },
+        "https://www.goos.nl/woning/schopenhauerstraat-89": {
+            "adres": "Schopenhauerstraat 89, 7323 LT Apeldoorn",
+            "score": 3,
+            "motivatie": "Als jouw kritische aankoopmakelaar ben ik hier heel kort over, Willem-Jan: dit is een doorsnee tussenwoning in Zevenhuizen en mist volledig het Woon-DNA waar jij naar zoekt. \n\nLaten we het puntenraster erbij pakken:\n1. Bouwstijl & Vrijheid (0 pnt): Het is een standaard tussenwoning en geen vrijstaand herenhuis of historische villa. \n2. Authentieke Elementen & Interieur (0 pnt): Nul harde bewijzen van jaren '30 stijl, paneeldeuren of glas-in-lood. Alles is strak gestuct en modern gemaakt (keuken 2021, badkamer 2014), maar karakterloos voor jouw smaak.\n3. Prijs-Kwaliteit & Vierkante Meters (2 pnt): Met een vraagprijs van \u20ac 419.500 voor 132 m\u00b2 kom je uit op circa \u20ac 3.178 per m\u00b2. Dat is financieel gezien erg scherp en ruim onder de marktprijs in Noord/West, wat punten oplevert.\n4. Buitenruimte & Sauna-potentie (1 pnt): Er is een achtertuin met berging, maar met een perceel van 180 m\u00b2 en een ligging op het noordwesten grenzend aan een speelveldje is de ruimte voor een comfortabele priv\u00e9sauna erg beperkt.\n5. Ligging, Rust & Omgeving (0 pnt): Gelegen aan een woonerf in Zevenhuizen, wat op zich rustig is, maar het mist de unieke historische charme en het besloten karakter dat jij zoekt.\n\nEindscore: 3 punten. Leuk voor een doorsnee gezin, maar niet voor Willem-Jan. Lekker laten voor wat het is en doorspuren naar een echt herenhuis!",
+            "buurt": "Zevenhuizen",
+            "prijs": 419500,
+            "datum": "2026-09-14 19:55"
         }
     },
     "harderwijk_ermelo": {
@@ -2945,6 +2985,14 @@
             "buurt": "Dichtersbuurt",
             "prijs": 1175000,
             "datum": "2026-09-13 18:05"
+        },
+        "https://www.bijwillem.nl/aanbod/woningaanbod/harderwijk/koop/huis-9581704-Kievitmeen-90": {
+            "adres": "Kievitmeen 90",
+            "score": 5,
+            "motivatie": "1. Levensloopbestendig: Standaard gezinswoning (tussenwoning) met alle slaapkamers op de verdieping en geen lift of gelijkvloers programma (0 pnt). 2. Staat van Afwerking: Fraai gerenoveerd, moderne keuken, badkamer en toilet, direct instapklaar (3 pnt). 3. Maatvoering: Woonoppervlakte van 111 m\u00b2 valt netjes binnen de 100-150 m\u00b2 norm en heeft 3 slaapkamers (2 pnt). 4. Buitenruimte: Onderhoudsarme achtertuin op het zuidoosten, geen grote lap grond (1 pnt). 5. Beschikbaarheid: Direct beschikbaar, geen verre nieuwbouw (1 pnt). Omdat Ida echter specifiek zoekt naar levensloopbestendig (gelijkvloers of lift) en dit een traditionele gezinswoning is, valt dit zwaar telt dit zwaar mee in de score, ondanks de perfecte staat van afwerking. Eindscore: 5.",
+            "buurt": "Stadsweiden",
+            "prijs": 465000,
+            "datum": "2026-09-14 19:58"
         }
     },
     "moeder_harderwijk_ermelo": {
