@@ -2167,6 +2167,30 @@
             "buurt": "Matenbroek / De Maten",
             "prijs": 435000,
             "datum": "2026-09-17 19:04"
+        },
+        "https://www.goos.nl/woning/oude-beekbergerweg-272": {
+            "adres": "Oude Beekbergerweg 272, 7333 AN Apeldoorn",
+            "score": 5,
+            "motivatie": "Deze uitgebouwde hoekwoning aan de Oude Beekbergerweg scoort op punten als ligging bij het Zuiderpark, duurzaamheid en een fijne tuin op het zuiden met garage. Met een woonoppervlakte van 92 m\u00b2 zit deze woning echter fors onder de gewenste richtlijn van 125-175 m\u00b2. Ook ontbreken de specifieke historische en authentieke elementen zoals glas-in-lood en paneeldeuren, aangezien het bouwjaar 1953 betreft en de afwerking grotendeels modern/standaard is. De vraagprijs van \u20ac350.000 komt neer op circa \u20ac3.804 per m\u00b2, wat scherp is qua prijs, maar qua ruimte en karakter past dit object niet goed bij het Woon-DNA van Willem-Jan.",
+            "buurt": "Zuiderpark / Schubertplein",
+            "prijs": 350000,
+            "datum": "2026-09-18 18:12"
+        },
+        "https://www.koningsstede.nl/woningen/hoofdstraat-47-a-apeldoorn-936649f6a6f1f6ad7a406d9d5ba695ac686922": {
+            "adres": "Hoofdstraat 47 A, Apeldoorn",
+            "score": 1,
+            "motivatie": "Dit appartement aan de Hoofdstraat (49 m\u00b2, 2 kamers) voldoet op geen enkel punt aan de woonwensen van Willem-Jan. Het mist de gewenste ruimte (minimaal 3 slaapkamers, 125-175m2), heeft geen tuin met sauna-potentie en mist de karakteristieke elementen van een herenhuis. Met een score van 1 punt totaal is dit absoluut ongeschikt.",
+            "buurt": "Centrum",
+            "prijs": 250000,
+            "datum": "2026-09-18 18:13"
+        },
+        "https://www.koningsstede.nl/woningen/brinklaan-220-apeldoorn-9366492e31d9b6c99642c6ba2c56a81195a5a3": {
+            "adres": "Brinklaan 220, Apeldoorn",
+            "score": 2,
+            "motivatie": "Dit betreft een galerijflat uit 1985 met een woonoppervlakte van 103 m\u00b2. Het Woon-DNA van Willem-Jan vraagt uitdrukkelijk om een karakteristiek herenhuis, een vrijstaande woning of een helft-van-een-dubbel uit de jaren '30 of ouder, voorzien van authentieke elementen zoals glas-in-lood en paneeldeuren, met een ruime tuin die ruimte biedt voor een sauna. Dit moderne appartement mist alle historische stijlkenmerken, heeft een te klein oppervlak (103 m\u00b2 i.p.v. de richtlijn van 125-175 m\u00b2) en beschikt slechts over een inpandig balkon in plaats van een diepe priv\u00e9tuin. Daarmee sluit deze woning in geen enkel opzicht aan bij de wensen.",
+            "buurt": "Centrum / Catharina Amalia Park",
+            "prijs": 382500,
+            "datum": "2026-09-18 18:13"
         }
     },
     "harderwijk_ermelo": {
@@ -3209,6 +3233,110 @@
             "buurt": "Stadsweiden",
             "prijs": 465000,
             "datum": "2026-09-14 19:58"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/suikerbakker-14-ermelo-485": {
+            "adres": "Suikerbakker 14, Ermelo",
+            "score": 6,
+            "motivatie": "De woning scoort maximaal op levensloopbestendigheid door de slaap- en badkamer op de begingrond (3 punten). Qua afwerking en instapklaarheid scoort het pand zwakker; de omschrijving vermeldt dat het een uitstekende basis vormt om naar eigen smaak te moderniseren ('naar eigen smaak te moderniseren'), wat duidt op een gedateerde staat die modernisering behoeft (1 punt). De maatvoering is met 154 m\u00b2 woonoppervlakte ruim en er zijn voldoende kamers (2 punten). De buitenruimte is met een perceel van 817 m\u00b2 juist te groot en te onderhoudsintensief volgens de wensen (0 punten), hoewel de tuin wel besloten is. De beschikbaarheid is direct in overleg (1 punt). Dit brengt de totaalscore op 6 punten. De woning is interessant vanwege de gelijkvloerse optie, maar vraagt wel om moderniseringswerkzaamheden en heeft een forse lap grond.",
+            "buurt": "Ermelo Centrum / Nabij centrum",
+            "prijs": 800000,
+            "datum": "2026-09-18 18:15"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/tonnenbergerhout-21-harderwijk-460": {
+            "adres": "Tonnenbergerhout 21, Harderwijk",
+            "score": 3,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 3.8 km van het centrum (-1 punten).\n\nHoewel de woning uitstekend is onderhouden, instapklaar is en een fijne maatvoering (120 m\u00b2) heeft, scoort deze op het belangrijkste criterium voor Ida onvoldoende. Het betreft een standaard gezinswoning met alle slaapkamers en de badkamer op de verdiepingen en er is geen lift aanwezig (0 punten voor type). Hiermee is de woning niet levensloopbestendig en past deze niet binnen het gewenste profiel.",
+            "buurt": "Drielanden",
+            "prijs": null,
+            "datum": "2026-09-18 18:15"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/bachdreef-66-harderwijk-459": {
+            "adres": "Bachdreef 66",
+            "score": 4,
+            "motivatie": "De Bachdreef 66 is een keurig onderhouden hoekwoning, maar sluit niet aan bij het Woon-DNA van Ida. Het betreft een standaard gezinswoning met alle slaapkamers op de verdiepingen en er is geen lift aanwezig (0 punten). Hoewel de staat van afwerking modern en netjes is (3 punten) en de maatvoering met 102 m\u00b2 voldoet (2 punten), mist het de specifieke wens voor levensloopbestendigheid. De tuin is overzichtelijk (1 punt) en de woning is reeds verkocht/status onzeker voor snelle beschikbaarheid. Kortom, te veel een traditionele eengezinswoning en niet het gezochte comfort van een gelijkvloerse woning of luxe appartement.",
+            "buurt": "Drielanden",
+            "prijs": null,
+            "datum": "2026-09-18 18:15"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/grote-poortstraat-49-harderwijk-458": {
+            "adres": "Grote Poortstraat 49, Harderwijk",
+            "score": 3,
+            "motivatie": "Deze woning scoort slecht op vrijwel alle onderdelen van het woon-DNA. Het betreft een traditionele eengezinswoning/stadswoning (0 punten voor type) met slaapkamers op de verdieping en geen lift of gelijkvloers programma. Met slechts 75 m\u00b2 woonoppervlakte valt de woning ruim onder de ondergrens van 100 m\u00b2 (0 punten). Daarnaast beschikt de woning over een ongunstig energielabel F en mist het de gewenste moderne, instapklare luxe uitstraling die Ida zoekt. Kortom, deze woning sluit totaal niet aan bij de wensen.",
+            "buurt": "Binnenstad Harderwijk",
+            "prijs": null,
+            "datum": "2026-09-18 18:15"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/dirk-staalweg-6-ermelo-457": {
+            "adres": "Dirk Staalweg 6, Ermelo",
+            "score": 5,
+            "motivatie": "De woning behaalt 0 punten op levensloopbestendigheid omdat het een standaard 2-onder-1-kapwoning betreft met alle slaapkamers op de verdiepingen en geen liftoptie. Wel scoort het huis maximaal op staat van afwerking (3 punten voor de moderne en instapklare staat), maatvoering met 114 m\u00b2 (2 punten) en buitenruimte (1 punt). De beschikbaarheid levert 1 punt op, maar door het ontbreken van een gelijkvloers programma past dit type woning niet optimaal bij het Woon-DNA van Ida.",
+            "buurt": "Centrum Ermelo",
+            "prijs": null,
+            "datum": "2026-09-18 18:15"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/palmbosweg-12-76-ermelo-469": {
+            "adres": "Palmbosweg 12 76, Ermelo",
+            "score": 1,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 5.5 km van het centrum (-3 punten).\n\nDeze woning valt direct af omdat het een recreatiewoning betreft waar permanente bew \uc544\ub2d9 toegestaan is (geen reguliere woning voor Ida). Bovendien is de woonoppervlakte van 54 m\u00b2 veel kleiner dan de gewenste 100 - 150 m\u00b2. De score komt hiermee uit op 1 punt.",
+            "buurt": "Wolderwijd",
+            "prijs": null,
+            "datum": "2026-09-18 18:16"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/hendrik-munniklaan-9-ermelo-467": {
+            "adres": "Hendrik Munniklaan 9, Ermelo",
+            "score": 9,
+            "motivatie": "Deze benedenwoning scoort uitstekend op alle punten voor Ida. Het appartement is volledig gelijkvloers (3 punten), heeft een moderne en nette afwerking met een complete badkamer en open keuken (3 punten), en biedt met 107 m\u00b2 en twee slaapkamers voldoende ruimte voor logees of hobby's (2 punten). Het royale terras van circa 30 m\u00b2 op het zuidoosten sluit perfect aan bij de wens voor een onderhoudsvriendelijke buitenruimte (1 punt). De woning is bovendien direct beschikbaar en reeds gebouwd (1 punt). De vraagprijs valt ruim binnen het budget.",
+            "buurt": "Parc Viventra",
+            "prijs": 575000,
+            "datum": "2026-09-18 18:16"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/tubadreef-72-harderwijk-466": {
+            "adres": "Tubadreef 72, Harderwijk",
+            "score": 5,
+            "motivatie": "De woning heeft een uitstekende staat van afwerking (3 punten), een passend woonoppervlak van 134 m\u00b2 met 4 kamers (2 punten) en een onderhoudsvriendelijke tuin op het zuiden (1 punt). Echter scoort de woning 0 punten op het type, aangezien het een standaard tussenwoning betreft met alle slaapkamers op de verdiepingen en geen lift of gelijkvloers programma (geen levensloopbestendig of luxe appartement). Daarmee komt de totaalscore uit op 6 punten, maar let op: de status in de advertentie geeft reeds aan dat deze woning reeds is verkocht.",
+            "buurt": "Drielanden",
+            "prijs": null,
+            "datum": "2026-09-18 18:16"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/randweg-88-harderwijk-464": {
+            "adres": "Randweg 88, Harderwijk",
+            "score": 5,
+            "motivatie": "De woning is reeds verkocht en betreft een standaard eengezinswoning met alle slaapkamers op de verdieping (0 punten voor levensloopbestendigheid). Hoewel de afwerking modern is en de maatvoering (127 m\u00b2) en buitenruimte goed passen bij de wensen, scoort dit type woning onvoldoende op het belangrijkste criterium van Ida (geen gelijkvloers wonen of lift aanwezig).",
+            "buurt": "Harderwijk",
+            "prijs": null,
+            "datum": "2026-09-18 18:17"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/parklaan-15-ermelo-463": {
+            "adres": "Parklaan 15, Ermelo",
+            "score": 5,
+            "motivatie": "De woning scoort maximaal op levensloopbestendigheid (3 punten) dankzij de slaapkamer en badkamer op de begingrond en valt met 141 m\u00b2 binnen de gewenste maatvoering (2 punten). Echter is de woning inmiddels al verkocht, heeft het een matig energielabel D, en is het perceel met 775 m\u00b2 aan de grote kant ten opzichte van de wens voor een onderhoudsvriendelijk tuintje. Daarbij is de staat van afwerking gedateerd (bouwjaar 1960 met elementen uit 2002 of ouder en geen moderne luxe uitstraling). De eindscore komt hierdoor uit op een onvoldoende match van 5 punten.",
+            "buurt": "Ermelo",
+            "prijs": null,
+            "datum": "2026-09-18 18:17"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/dennenlaan-27-ermelo-462": {
+            "adres": "Dennenlaan 27, Ermelo",
+            "score": 2,
+            "motivatie": "Deze woning scoort laag op het Woon-DNA van Ida. Het betreft een standaard twee-onder-\u00e9\u00e9n-kapgezinswoning met alle slaapkamers op de verdiepingen en geen lift of gelijkvloerse optie (0 punten). Daarnaast is de woonoppervlakte van 174 m\u00b2 groter dan de richtlijn van 100-150 m\u00b2 (1 punt) en is het perceel met 420 m\u00b2 en een vrijstaande garage met oprit aan de grote kant vergeleken met een klein, onderhoudsvriendelijk tuintje of balkon (0 punten). Hoewel de staat van afwerking netjes en modern is (3 punten) en de woning direct beschikbaar is (1 punt), past dit type woning simpelweg niet bij de wens voor een levensloopbestendige woning of luxe appartement.",
+            "buurt": "Ermelo",
+            "prijs": null,
+            "datum": "2026-09-18 18:17"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/westrak-77-harderwijk-461": {
+            "adres": "Westrak 77, Harderwijk",
+            "score": 5,
+            "motivatie": "Deze woning scoort 2 punten voor het type (maisonnette, geen liftoptie vermeld zoals bij een complex), 2 punten voor de staat van afwerking (goed onderhouden, maar niet super-de-luxe modern), 2 punten voor de maatvoering (103 m\u00b2, binnen de marge), 1 punt voor de buitenruimte (geen grote lap grond) en 0 punten voor de beschikbaarheid aangezien de status al 'verkocht' is. Daarmee komt de totaalscore op 5 punten. Omdat de woning bovendien reeds is verkocht, is deze niet meer beschikbaar voor Ida.",
+            "buurt": "Westrak",
+            "prijs": null,
+            "datum": "2026-09-18 18:17"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-nieuwe-grensweg-58": {
+            "adres": "Nieuwe Grensweg 58, 3848 BR Harderwijk",
+            "score": 5,
+            "motivatie": "Deze woning scoort punten op het gebied van instapklare afwerking en moderne staat (3 pnt), goede beschikbaarheid (1 pnt) en een onderhoudsvriendelijke tuin (1 pnt). Echter valt het type woning direct door de mand (0 pnt: het betreft een standaard twee-onder-\u00e9\u00e9n-kapwoning met slaapkamers op de verdieping en geen lift of gelijkvloerse optie) en is de woonoppervlakte van 160 m\u00b2 groter dan de gevraagde richtlijn van 100-150 m\u00b2 (1 pnt). Hiermee voldoet het niet aan het levensloopbestendige Woon-DNA van Ida.",
+            "buurt": "Frankrijk / Walstein",
+            "prijs": 725000,
+            "datum": "2026-09-18 18:19"
         }
     },
     "moeder_harderwijk_ermelo": {
