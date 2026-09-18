@@ -19,16 +19,40 @@ async def scrape_url(url, base_url, is_detail=False):
             # Wacht even op eventuele JavaScript rendering
             await asyncio.sleep(4)
             
-            # Robuuste cookie-afhandeling (wacht tot knop zichtbaar is en klik)
-            for selector_text in ["accepteer", "akkoord", "alles akkoord", "cookies", "toestaan"]:
+           # Robuuste cookie- en overlay-afhandeling (klikt meerdere lagen weg)
+            overlay_termen = [
+                "accepteer", "akkoord", "alles akkoord", "toestaan", 
+                "sluiten", "close", "opslaan", "verder", "begrepen"
+            ]
+            
+            for term in overlay_termen:
                 try:
-                    cookie_btn = page.get_by_role("button", name=re.compile(selector_text, re.IGNORECASE))
-                    if await cookie_btn.count() > 0 and await cookie_btn.first.is_visible():
-                        await cookie_btn.first.click()
-                        await asyncio.sleep(1.5)
-                        break
-                except:
+                    # Zoek naar buttons of elementen met passende tekst/aria-labels
+                    locator = page.locator(
+                        f"button:has-text('{term}'), a:has-text('{term}'), [aria-label*='{term}' i]"
+                    )
+                    if await locator.count() > 0 and await locator.first.is_visible():
+                        await locator.first.click(timeout=1500)
+                        await asyncio.sleep(1)
+                except Exception:
                     pass
+
+            # Vangnet: verwijder eventuele hardnekkige backdrops/overlays uit de DOM
+            try:
+                await page.evaluate("""() => {
+                    const selectors = [
+                        '.modal-backdrop', '.fade.show', '.overlay', 
+                        '[class*="cookie"]', '[id*="cookie"]', 
+                        '[class*="popup"]', '[class*="modal"]'
+                    ];
+                    selectors.forEach(sel => {
+                        document.querySelectorAll(sel).forEach(el => el.remove());
+                    });
+                    document.body.style.overflow = 'auto';
+                    document.documentElement.style.overflow = 'auto';
+                }""")
+            except Exception:
+                pass
 
             # Lichte scroll om eventuele lazy loading te triggeren
             await page.mouse.wheel(0, 1000)

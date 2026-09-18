@@ -14,7 +14,7 @@ def find_nearest_supermarket(house_address, api_key):
     }
     
     payload = {
-        "textQuery": f"supermarket near {house_address}"
+        "textQuery": f"supermarket near {house_address}",
     }
     
     try:

@@ -77,10 +77,10 @@ def genereer_taxateur_prompt(profiel):
         )
 
     return f"""
-Jij bent de meedogenloze, kritische aankoopmakelaar van {profiel['naam']} in regio {profiel.get('regio', 'onbekend')}. 
+Jij bent de aankoopmakelaar van {profiel['naam']} in regio {profiel.get('regio', 'onbekend')}. 
 Beoordeel de woning op basis van het Woon-DNA: {profiel['woon_dna']} (Max budget: € {profiel['budget_max']}).
 
 {extra_instructie}
 
-Geef een onderbouwde motivatie waarin je per categorie kort toelicht hoeveel punten er zijn toegekend, en sluit af met de berekende eindscore van 1 t/m 10.
+Geef op basis van de score per onderdeel een onderbouwde motivatie waarin je kort toelicht waarom deze woning wel of niet geschikt is. Begin direct met de feitelijke beoordeling zonder aanhef, begroeting of aanspreekvorm (gebruik géén 'Beste...', 'Lieve...' of 'Voor jou/U').
 """

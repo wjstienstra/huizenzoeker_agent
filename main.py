@@ -4,9 +4,9 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 # Externe modules & configuratie
-from memory import laad_profielen, laad_geheugen, sla_geheugen_op
+from memory import laad_profielen, laad_geheugen, sla_geheugen_op, is_woning_bekend
 from scraper import scrape_url
-from agents import cascade_run, get_verkenner, get_taxateur
+from agents import cascade_run, get_verkenner, get_taxateur, reset_cascade_state
 from services import stuur_telegram_notificatie, evalueer_en_selecteer_locatie
 from prompts import genereer_verkenner_prompt, genereer_taxateur_prompt
 from makelaars import MAKELAARS
@@ -66,9 +66,8 @@ async def main():
                 print(f"   ✅ Verkenner vond {len(res_verkenner.output.woningen)} woningen.")
                 
                 for woning in res_verkenner.output.woningen:
-                    if not woning.url or woning.url in profiel_geheugen:
-                        if woning.url in profiel_geheugen: 
-                            print(f"⏩ Bekend in geheugen van {profiel['naam']}: {woning.adres}")
+                    if not woning.url or is_woning_bekend(woning.url, woning.adres, profiel_geheugen):
+                        print(f"⏩ Bekend in geheugen van {profiel['naam']}: {woning.adres}")
                         continue
 
                     print(f"🔎 Deep Scan: {woning.adres}")
@@ -89,7 +88,6 @@ async def main():
                             afstand_centrum = 0.0
                             if os.getenv("GOOGLE_MAPS_API_KEY"):
                                 print(f"📍 Locatie verifiëren via Google Maps voor: {woning_data.adres}...")
-                                # Aangenomen dat evalueer_en_selecteer_locatie nu ook de supermarkt meeneemt en teruggeeft:
                                 # (is_valid, afstand_centrum, afstand_supermarkt, locatie_info_telegram)
                                 is_valid, afstand_centrum, afstand_supermarkt, locatie_info_telegram = evalueer_en_selecteer_locatie(woning_data.adres, profiel['id'])
                                 
@@ -154,6 +152,8 @@ async def main():
     if wijzigingen_gemaakt:
         sla_geheugen_op(volledig_geheugen)
         print("\n--- Gecentraliseerd geheugen (huizen_gezien.json) bijgewerkt met nieuwe resultaten. ---")
+
+    reset_cascade_state()
 
 if __name__ == "__main__":
     asyncio.run(main())

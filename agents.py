@@ -17,10 +17,23 @@ CASCADE_MODELS = [
     'gemini-3.5-flash-lite'
 ]
 
+# Module-level set to keep track of models that ran out of quota during the execution
+UITGESCHAKELDE_MODELS = set()
+
+def reset_cascade_state():
+    """Clears the disabled models set so the cascade starts fresh on the next run."""
+    global UITGESCHAKELDE_MODELS
+    UITGESCHAKELDE_MODELS.clear()
+    print("🔄 Cascade-status gereset: alle modellen weer beschikbaar.")
+
 # --- DE CASCADE RUNNER ---
 async def cascade_run(agent_factory, system_prompt, user_prompt):
     last_error = None
     for model_naam in CASCADE_MODELS:
+        # Sla modellen over die eerder in deze run al een quota-fout gaven
+        if model_naam in UITGESCHAKELDE_MODELS:
+            continue
+
         model = GoogleModel(model_naam, provider=provider)
         agent = agent_factory(model, system_prompt)
         retries, max_retries, wachttijd = 0, 2, 2
@@ -37,11 +50,13 @@ async def cascade_run(agent_factory, system_prompt, user_prompt):
                     wachttijd *= 2
                     continue
                 elif "429" in err or "quota" in err:
-                    print(f"   🚫 Quota bereikt voor {model_naam}. Volgende...")
+                    print(f"   🚫 Quota bereikt voor {model_naam}. Model uitgeschakeld voor deze run.")
+                    UITGESCHAKELDE_MODELS.add(model_naam)
                     break 
                 else: 
                     raise e
-        last_error = f"Laatste model {model_naam} faalde."
+        last_error = f"Laatste actieve model {model_naam} faalde."
+
     raise Exception(f"Model Cascade volledig uitgeput. {last_error}")
 
 # --- AGENT FACTORIES ---
