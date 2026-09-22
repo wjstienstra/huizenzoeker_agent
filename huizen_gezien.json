@@ -2199,6 +2199,14 @@
             "buurt": "Noord",
             "prijs": 695000,
             "datum": "2026-09-19 17:58"
+        },
+        "https://www.iqmakelaarsapeldoorn.nl/koopwoning/apeldoorn-huygenslaan-376-1": {
+            "adres": "Huygenslaan 27, 7314 LV Apeldoorn",
+            "score": 9,
+            "motivatie": "Deze karakteristieke vrijstaande jaren '30 woning in de geliefde wijk Sprengenbos sluit naadloos aan bij het Woon-DNA van Willem-Jan. Met 144 m\u00b2 woonoppervlakte, 4 slaapkamers en een royaal perceel van 437 m\u00b2 biedt het pand volop ruimte. De woning blinkt uit in authentieke elementen zoals glas-in-lood, paneeldeuren, vaste kasten, een erker en een open haard. De vraagprijs van \u20ac 850.000 brengt de m\u00b2-prijs op circa \u20ac 5.903, wat aan de forse kant is, maar dit wordt ruimschoots goedgemaakt door de unieke vrijstaande bouwstijl, de schitterende staat van onderhoud (buitenschilderwerk 2024) en de diepe, zonnige tuin rondom met uitstekende mogelijkheden voor een sauna. Een absolute topmatch ondanks de stevigere vierkante meterprijs.",
+            "buurt": "Sprengenbos",
+            "prijs": 850000,
+            "datum": "2026-09-22 18:42"
         }
     },
     "harderwijk_ermelo": {
@@ -3353,6 +3361,30 @@
             "buurt": "Drielanden",
             "prijs": 950000,
             "datum": "2026-09-19 17:59"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-van-maerlanthof-5": {
+            "adres": "Van Maerlanthof 5, Harderwijk",
+            "score": 3,
+            "motivatie": "De woning is een standaard gezinswoning (tussenwoning) met alle slaapkamers en de badkamer op de verdiepingen en beschikt niet over een lift of slaap-/badkamer op de begane grond (0 punten). De staat van afwerking is netjes en goed onderhouden, maar niet uitgesproken luxueus of modern ingericht naar de wensen van Ida (1 punt). Met 128 m\u00b2 valt de maatvoering binnen de gewenste marge en is er ruimte genoeg (2 punten). De tuin is echter aan de forse kant (177 m\u00b2 perceel, achtertuin van 12x6,5 meter) en daarmee geen klein, onderhoudsvriendelijk tuintje (0 punten). De woning is direct beschikbaar (1 punt). Totaalscore: 3 punten. Dit is een gezinswoning en sluit daarmee niet aan bij het levensloopbestendige profiel dat Ida zoekt.",
+            "buurt": "Stadsdennen",
+            "prijs": 449500,
+            "datum": "2026-09-22 18:52"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-herman-de-manstraat-32": {
+            "adres": "Herman de Manstraat 32, Harderwijk",
+            "score": 6,
+            "motivatie": "De woning behaalt 6 punten volgens het puntenraster. 1. Levensloopbestendig / Type (0 pnt): Het betreft een standaard tussenwoning met alle slaapkamers op de verdiepingen en geen lift of slaap-/badkamer op de begane grond. 2. Staat van Afwerking & Instapklaar (3 pnt): De woning is gemoderniseerd met een strakke afwerking, een moderne keuken met kookeiland en een nette badkamer; direct instapklaar. 3. Maatvoering & Indeling (2 pnt): Met 140 m\u00b2 woonoppervlakte valt het binnen de richtlijn van 100-150 m\u00b2 en biedt het voldoende ruimte met 5 slaapkamers. 4. Buitenruimte (0 pnt): De woning heeft een diepe achtertuin van ruim 16 meter, wat neerkomt op een grotere lap grond in plaats van een klein, onderhoudsvriendelijk tuintje of royaal balkon. 5. Beschikbaarheid & Planning (1 pnt): De woning is direct beschikbaar. Hoewel de woning mooi is afgewerkt en ruim is, past het type (tussenwoning met diepe tuin in plaats van levensloopbestendig/appartement) minder goed bij de specifieke woonwensen van Ida.",
+            "buurt": "Stadsdennen",
+            "prijs": 495000,
+            "datum": "2026-09-22 18:52"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-karel-doormanlaan-10": {
+            "adres": "Karel Doormanlaan 10, 3843 EA Harderwijk",
+            "score": 2,
+            "motivatie": "Deze woning scoort slecht op alle fronten voor Ida. Het betreft een standaard eengezinswoning (0 pnt) met een gedateerd interieur dat grondig gemoderniseerd moet worden (0 pnt - expliciet een klushuis), heeft met 79 m\u00b2 een te kleine woonoppervlakte die niet voldoet aan de 100-150 m\u00b2 eis (0 pnt), en beschikt over een reguliere achtertuin in plaats van een klein tuintje of royaal balkon (0 pnt). Wel is de woning direct beschikbaar (1 pnt). Totaalscore: 2 punten.",
+            "buurt": "de Wittenhagen",
+            "prijs": 375000,
+            "datum": "2026-09-22 18:53"
         }
     },
     "moeder_harderwijk_ermelo": {
