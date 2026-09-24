@@ -2263,6 +2263,30 @@
             "buurt": "Apeldoorn (Matendreef/Zuidbroek e.o.)",
             "prijs": 475000,
             "datum": "2026-09-23 19:10"
+        },
+        "https://opendeur.nl/woningaanbod/piet-joubertstraat-4-k-apeldoorn": {
+            "adres": "Piet Joubertstraat 4 -K, 7315 AV Apeldoorn",
+            "score": 4,
+            "motivatie": "Deze maisonnette aan de Piet Joubertstraat scoort punten op het historische bouwjaar (1898), de aanwezigheid van authentieke glas-in-loodramen en hoge plafonds, en de fantastische locatie nabij Paleis Het Loo. Echter valt de woning op meerdere fronten flink buiten Willem-Jans Woon-DNA: met slechts 64 m\u00b2 woonoppervlakte en 2 slaapkamers voldoet het absoluut niet aan de ruime criteria (125-175 m\u00b2, min. 3 slaapkamers). Bovendien is er geen eigen tuin aanwezig met sauna-potentie (slechts een balkon). Met een vraagprijs van \u20ac 425.000 komt de m\u00b2-prijs uit op ruim \u20ac 6.600, wat fors boven de marktconformiteit ligt. Onvoldoende ruimte en buitenverblijf voor Willem-Jan.",
+            "buurt": "Het Loo / Loolaan gebied",
+            "prijs": 425000,
+            "datum": "2026-09-24 18:55"
+        },
+        "https://www.reindersmakelaars.nl/woningen/borneolaan-2-apeldoorn-906419f429c77ee0f24f27977b8bc2ca4bfe9f": {
+            "adres": "Borneolaan 2, Apeldoorn",
+            "score": 6,
+            "motivatie": "De woning aan de Borneolaan 2 is een karakteristieke 20-er jaren vrijstaande woning gelegen in de beschermde Indische buurt (2 pnt voor bouwstijl). Er zijn authentieke elementen aanwezig zoals een open haard en suite deuren (2 pnt). Met een vraagprijs van \u20ac 575.000 en 117 m\u00b2 woonoppervlakte komt de m\u00b2-prijs uit op ca. \u20ac 4.915, wat marktconform is voor deze gewilde locatie (2 pnt). De woonoppervlakte (117 m\u00b2) zit echter onder het gewenste ideaal van 125-175m2, en energielabel G vraagt om verduurzaming. De buitenruimte betreft een zijtuin op het zuiden van 65 m\u00b2, maar de totale perceeloppervlakte van 252 m\u00b2 is vrij compact voor het plaatsen van een sauna in combinatie met maximale privacy (0 pnt). De ligging in een rustig laantje dat uitkomt op de Soerenseweg is gunstig (1 pnt). Totaalscore: 7 punten. Een sfeervol object, maar qua ruimte en perceel wat compacter dan gewenst.",
+            "buurt": "Indische buurt",
+            "prijs": 575000,
+            "datum": "2026-09-24 19:02"
+        },
+        "https://www.goos.nl/woning/snipweg-36": {
+            "adres": "Snipweg 36, 7331 LV Apeldoorn",
+            "score": 7,
+            "motivatie": "De Snipweg 36 is een sfeervol, fors uitgebouwd vrijstaand jaren '30 woonhuis in Apeldoorn-Zuid. Met een vraagprijs van \u20ac 525.000 en 118 m\u00b2 woonoppervlakte komt de m\u00b2-prijs uit op circa \u20ac 4.449, wat scherp en marktconform is. Het huis biedt 3 slaapkamers, een moderne afwerking met behoud van jaren '30 sfeer, en beschikt over een fraaie veranda, zonnige zuidtuin \u00e9n een reeds aanwezige sauna. Het woonoppervlakte is iets compacter dan de richtlijn van 125-175 m\u00b2, maar de vrijstaande garage met zolder en de uitstekende staat van onderhoud compenseren dit ruimschoots. Een uitstekende match binnen het budget.",
+            "buurt": "Apeldoorn-Zuid",
+            "prijs": 525000,
+            "datum": "2026-09-24 19:03"
         }
     },
     "harderwijk_ermelo": {
