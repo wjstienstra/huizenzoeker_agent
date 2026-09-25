@@ -2287,6 +2287,70 @@
             "buurt": "Apeldoorn-Zuid",
             "prijs": 525000,
             "datum": "2026-09-24 19:03"
+        },
+        "https://www.iqmakelaarsapeldoorn.nl/koopwoning/apeldoorn-sonatestraat-377-1": {
+            "adres": "Sonatestraat 4, Apeldoorn",
+            "score": 5,
+            "motivatie": "De Sonatestraat 4 is een verrassend ruime en strak gemoderniseerde tussenwoning van 141 m\u00b2 in de wijk Anklaar, aangeboden voor \u20ac 485.000 (\u20ac 3.440 p/m\u00b2). Hoewel de vierkante meterprijs zeer gunstig is en de diepe achtertuin (circa 18 meter) met overkapping en garage uitstekende mogelijkheden biedt voor een sauna, past dit huis qua Woon-DNA niet bij Willem-Jans voorkeur. Het betreft een standaard tussenwoning uit 1968 in plaats van een karakteristiek jaren '30 herenhuis of oudere stijl, en er zijn geen authentieke elementen zoals glas-in-lood of paneeldeuren aanwezig (de houtkachel daargelaten). Daarmee scoort dit object onvoldoende op het gewenste historische karakter en de bouwstijl.",
+            "buurt": "Anklaar",
+            "prijs": 485000,
+            "datum": "2026-09-25 19:11"
+        },
+        "https://opendeur.nl/woningaanbod/chamavenlaan-258-apeldoorn": {
+            "adres": "Chamavenlaan 258",
+            "score": 3,
+            "motivatie": "Deze woning scoort een 3 uit 10 en sluit vrijwel niet aan op het Woon-DNA.\n\n1. Bouwstijl & Vrijheid (0/2 pnt): Het betreft een modern appartementencomplex uit 2009 (portiekflat op de 4e verdieping); er is geen sprake van een karakteristiek herenhuis, helft-van-een-dubbel of vrijstaande bouw.\n2. Authentieke Elementen & Interieur (0/2 pnt): Geen enkel historisch of authentiek element aanwezig (geen glas-in-lood, en-suite of paneeldeuren).\n3. Prijs-Kwaliteit & Vierkante Meters (2/2 pnt): Met een vraagprijs van \u20ac 325.000 voor 84 m\u00b2 bedraagt de vierkantemeterprijs circa \u20ac 3.869,- p/m\u00b2. Dit is ruim onder de \u20ac 4.700,- p/m\u00b2 en marktconform, maar de woning is met 84 m\u00b2 en slechts 2 slaapkamers aanzienlijk te klein ten opzichte van het gezochte profiel (minimaal 3 slaapkamers, 125-175 m\u00b2).\n4. Buitenruimte & Sauna-potentie (0/2 pnt): Als appartement op de vierde verdieping ontbreekt een priv\u00e9tuin volledig, waardoor er geen sauna-mogelijkheid is.\n5. Ligging, Rust & Omgeving (1/2 pnt): De ligging nabij het Orderbos en Park Berg & Bos is gunstig en groen, maar biedt niet de gewenste privacy van een eigen omsloten kavel.\n\nConclusie: Ondanks de gunstige vierkantemeterprijs en energielabel A+ is dit appartement een fundamentele mismatch qua woningtype, oppervlakte, karakter en buitenruimte.",
+            "buurt": "Orden",
+            "prijs": 325000,
+            "datum": "2026-09-25 19:13"
+        },
+        "https://opendeur.nl/woningaanbod/jacqueline-van-der-waalssingel-89-apeldoorn": {
+            "adres": "Jacqueline van der Waalssingel 89, 7321 JN Apeldoorn",
+            "score": 6,
+            "motivatie": "De woning betreft een ruime helft-van-een-dubbel uit 1991 (1 pnt voor bouwstijl). Er is sprake van harde bewijzen voor een open haard, maar de specifieke jaren '30 stijlkenmerken ontbreken gezien het bouwjaar (1 pnt voor authentieke elementen). Met een vraagprijs van \u20ac 600.000 voor 134 m\u00b2 komt dit neer op ca. \u20ac 4.478 per m\u00b2, wat keurig binnen de marktconforme bandbreedte van Apeldoorn valt (2 pnt voor prijs-kwaliteit). De tuin op het zuidwesten is met 211 m\u00b2 ruim bemeten, biedt veel privacy en heeft uitstekende potentie voor een sauna (2 pnt). De ligging aan het water en groen compenseert de nabijheid van de singel ruimschoots door de beschutte achterzijde (1 pnt). Totaalscore: 6 punten.",
+            "buurt": "Osseveld-Oost",
+            "prijs": 600000,
+            "datum": "2026-09-25 19:13"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/molenstraat-centrum-349-apeldoorn-9349844b99031370a947e4b22e84f512fa6896": {
+            "adres": "Molenstraat-Centrum 349",
+            "score": 4,
+            "motivatie": "Deze moderne maisonnette uit 2003 past op vrijwel geen enkel belangrijk punt bij Willem-Jans Woon-DNA. Het betreft een appartement in plaats van een herenhuis of helft-van-een-dubbel (0 pnt bouwstijl), heeft geen authentieke jaren '30 elementen (0 pnt), en valt met 82 m\u00b2 ruim onder de richtlijn van 125-175 m\u00b2 (wat de m\u00b2-prijs van ruim \u20ac5.350 erg hoog maakt). Wel scoort de woning punten op de afwerking, een zonnig dakterras en een eigen parkeerplaats, maar vanwege het ontbreken van de gewenste ruimte en karakter is dit object ongeschikt.",
+            "buurt": "Centrum",
+            "prijs": 439500,
+            "datum": "2026-09-25 19:19"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/valkenweg-136-apeldoorn-93498406d24d685cc842abb49e454808c8a300": {
+            "adres": "Valkenweg 136",
+            "score": 1,
+            "motivatie": "Dit appartement wijkt volledig af van het Woon-DNA van Willem-Jan. Met een woonoppervlakte van slechts 59 m\u00b2, 1 slaapkamer en een bouwjaar uit 1979 mist het volledig de gewenste jaren '30 stijl, het karakter en de ruime opzet (125-175 m\u00b2). Ook is er geen sprake van een volwaardige tuin met sauna-potentie (slechts een klein galerijbalkon van 4 m\u00b2). De vierkante meterprijs van ruim \u20ac 4.491 past weliswaar binnen de markt, maar het object sluit in geen enkel opzicht aan bij de woonwensen.",
+            "buurt": "'t Hart van Zuid",
+            "prijs": 265000,
+            "datum": "2026-09-25 19:19"
+        },
+        "https://www.goos.nl/woning/1e-wormenseweg-228": {
+            "adres": "1e Wormenseweg 228, 7331 MT Apeldoorn",
+            "score": 5,
+            "motivatie": "De woning heeft een prachtig bouwjaar (1939) en beschikt over een erker en een eiken parketvloer, wat past bij Willem-Jans karakterwensen. De diepe tuin op het westen met overkapping biedt volop ruimte en sauna-potentie. Echter, met slechts 81 m\u00b2 woonoppervlakte en 2 slaapkamers schiet het ruimtelijk tekort ten opzichte van de richtlijn van 125-175m\u00b2 en minimaal 3 slaapkamers. De m\u00b2-prijs bedraagt ca. \u20ac5.247 op basis van het woonoppervlak, wat fors is. Desondanks maakt het riante perceel (345 m\u00b2) en de charmante staat veel goed voor wie kleiner wil wonen met beh karakter.",
+            "buurt": "Wormen",
+            "prijs": 425000,
+            "datum": "2026-09-25 19:20"
+        },
+        "https://advies.alpina.nl/makelaardij/woningaanbod/doetinchem-brasem-140": {
+            "adres": "Brasem 140",
+            "score": 3,
+            "motivatie": "Dit betreft een modern appartement (bouwjaar 2008) in Doetinchem, wat fundamenteel afwijkt van de specifieke woonwensen van Willem-Jan. Zijn Woon-DNA vraagt uitdrukkelijk om een karakteristiek herenhuis, helft-van-een-dubbel of unieke hoekwoning in de regio Apeldoorn, bij voorkeur in de 'jaren '30 stijl' met authentieke elementen zoals glas-in-lood en paneeldeuren. Hoewel dit appartement met 166 m\u00b2 ruim is opgezet en een fraai uitzicht biedt over de Oude IJssel, scoort het op bouwstijl (0 punten voor appartement) en authentieke elementen (0 punten) zeer laag binnen het puntenraster. De vierkante meterprijs is gunstig en de ligging aan het water is prettig, maar het type woning past simpelweg niet bij het gezochte profiel.",
+            "buurt": "De IJsseltuinen, Doetinchem",
+            "prijs": 689000,
+            "datum": "2026-09-25 19:21"
+        },
+        "https://www.koningsstede.nl/woningen/arnhemseweg-203-a-apeldoorn-93664978b9300fa83a490894f56ce7ec56cc19": {
+            "adres": "Arnhemseweg 203 A, Apeldoorn",
+            "score": 2,
+            "motivatie": "Dit appartement sluit in absoluut op geen enkele manier aan bij het Woon-DNA van Willem-Jan. Het betreft een portiekflat uit 1997 met een woonoppervlakte van slechts 89 m\u00b2 (richtlijn is 125-175 m\u00b2). Er is geen sprake van historische bouwstijl zoals een jaren '30 herenhuis, noch van authentieke elementen zoals glas-in-lood of paneeldeuren. De buitenruimte betreft een balkon van 6 m\u00b2 in plaats van een diepe tuin met sauna-potentie. Kortom, dit object is volstrekt ongeschikt.",
+            "buurt": "Centrum / Woonwijk",
+            "prijs": 350000,
+            "datum": "2026-09-25 19:24"
         }
     },
     "harderwijk_ermelo": {
@@ -3481,6 +3545,22 @@
             "buurt": "Stadsweiden",
             "prijs": 415000,
             "datum": "2026-09-23 19:13"
+        },
+        "https://www.janvandenberg-makelaar.nl/woningen/de-la-reystraat-42-ermelo-939492e970a8a845cb4e2aaf4ab1cdf0d85773": {
+            "adres": "De la Reystraat 42, Ermelo",
+            "score": 4,
+            "motivatie": "Dit betreft een standaard tussenwoning en geen levensloopbestendige woning of luxe appartement met lift (0 punten). De afwerking is grotendeels netjes met een vernieuwde badkamer en pui, maar de keuken is gedateerd met een originele Bruynzeelkeuken (1 punt). De woonoppervlakte is met 105 m\u00b2 passend en biedt ruimte voor hobby of logees (2 punten). De tuin op het zuidoosten is onderhoudsvriendelijk (1 punt). De woning is per direct beschikbaar in overleg, waardoor de harde uitsluiter voor nieuwbouw niet van toepassing is (1 punt). De woning past echter niet optimaal bij de wens voor gelijkvloers wonen en maximale moderniteit.",
+            "buurt": "Ermelo",
+            "prijs": 459000,
+            "datum": "2026-09-25 19:25"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-doornekamp-26": {
+            "adres": "Doornekamp 26, 3848 CX Harderwijk",
+            "score": 4,
+            "motivatie": "De vraagprijs van \u20ac 845.000 overschrijdt het maximale budget van \u20ac 800.000. Daarnaast is het een vrijstaande gezinswoning met een woonoppervlakte van 177 m\u00b2, wat boven de richtlijn van 100-150 m\u00b2 valt, en beschikt het niet direct over een slaap- en badkamer op de begane grond (hoewel de garage verbouwd zou kunnen worden). Wel is de staat van afwerking netjes en is de woning direct beschikbaar.",
+            "buurt": "Frankrijk",
+            "prijs": 845000,
+            "datum": "2026-09-25 19:27"
         }
     },
     "moeder_harderwijk_ermelo": {
