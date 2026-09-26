@@ -2351,6 +2351,14 @@
             "buurt": "Centrum / Woonwijk",
             "prijs": 350000,
             "datum": "2026-09-25 19:24"
+        },
+        "https://www.goos.nl/woning/langeweg-33": {
+            "adres": "Langeweg 33, 7315 CR Apeldoorn",
+            "score": 5,
+            "motivatie": "De Langeweg 33 scoort punten op het gebied van bouwstijl en authentieke elementen (vrijstaand, bouwjaar 1922, erker, ornamentenplafond en houtkachel) en ligt op een fantastische locatie nabij Paleis Het Loo. Ook de tuin biedt opties voor een kleine sauna. Echter, met een woonoppervlakte van slechts 78 m\u00b2 en een vraagprijs van \u20ac 560.000 komt de m\u00b2-prijs uit op ruim \u20ac 7.179. Dit ligt ver boven het gewenste marktgemiddelde en schiet hiermee ernstig te kort op het gebied van ruimte en prijs-kwaliteit in verhouding tot Willem-Jans woon-DNA (richtlijn 125-175 m\u00b2).",
+            "buurt": "Het Loo / De Parken",
+            "prijs": 560000,
+            "datum": "2026-09-26 18:34"
         }
     },
     "harderwijk_ermelo": {
@@ -3561,6 +3569,62 @@
             "buurt": "Frankrijk",
             "prijs": 845000,
             "datum": "2026-09-25 19:27"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/ermelo-loohof-26": {
+            "adres": "Loohof 26, Ermelo",
+            "score": 5,
+            "motivatie": "De woning scoort op type helaas 0 punten omdat het een standaard tussenwoning betreft met alle slaapkamers op de verdieping en geen lift of gelijkvloers programma. Qua afwerking scoort het pand maximaal (3 punten): het is modern, instapklaar en uitstekend onderhouden met een eigentijdse keuken en badkamer. Maatvoering is met 117 m\u00b2 perfect binnen de norm (2 punten). De buitenruimte is een compacte, onderhoudsvriendelijke achtertuin op het zuiden (1 punt). De status is direct beschikbaar (1 punt). De totale score komt hiermee op 5 punten. Hoewel de woning zeer modern en energiezuinig is, past het type (eengezinswoning met verdiepingen) niet optimaal bij de wens voor levensloopbestendigheid.",
+            "buurt": "Woonhof tussen Harderwijk en Ermelo",
+            "prijs": 497500,
+            "datum": "2026-09-26 18:37"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/hierden-glindweg-17": {
+            "adres": "Glindweg 17, Hierden",
+            "score": 1,
+            "motivatie": "Deze woning scoort op vrijwel alle fronten onvoldoende volgens het Woon-DNA van Ida. Met een woonoppervlakte van slechts 74 m\u00b2 valt het ruim onder de gewenste 100-150 m\u00b2. Daarnaast betreft het een sterk gedateerde woning uit 1937 met een matig onderhoud (inclusief bedstee en energielabel E) die vraagt om een ingrijpende verbouwing of zelfs sloop en nieuwbouw, terwijl Ida juist op zoek is naar een luxe, instapklare en moderne woning. Ook de enorme lap grond (bijna 2.000 m\u00b2) past niet bij de wens voor een klein, onderhoudsvriendelijk tuintje. De eindscore komt hiermee uit op 1 punt.",
+            "buurt": "Hierden",
+            "prijs": 675000,
+            "datum": "2026-09-26 18:37"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-donkerstraat-33b": {
+            "adres": "Donkerstraat 33B, Harderwijk",
+            "score": 5,
+            "motivatie": "De Donkerstraat 33B in Harderwijk scoort maximaal op afwerking (3 punten, volledig gerenoveerd en instapklaar in 2024) en beschikbaarheid (1 punt, direct beschikbaar). Echter scoort de woning slecht op type (0 punten, geen lift aanwezig in het complex) en met 38 m\u00b2 valt de woonoppervlakte ver buiten de gewenste richtlijn van 100-150 m\u00b2 (0 punten). Ook mist de ruimte voor logees of hobby's. Ondanks de fantastische locatie en moderne staat is dit appartement simpelweg te klein voor Ida's woonwensen.",
+            "buurt": "Binnenstad Harderwijk",
+            "prijs": 249000,
+            "datum": "2026-09-26 18:37"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-paardenbloemdreef-30": {
+            "adres": "Paardenbloemdreef 30, Harderwijk",
+            "score": 4,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 3.8 km van het centrum (-1 punten).\n\nDe woning is prachtig, modern en instapklaar afgewerkt (3 punten), en op korte termijn beschikbaar (1 punt). Ook de buitenruimte met veranda en tuin is dik in orde (1 punt). Echter scoort de woning nul punten op levensloopbestendigheid omdat het een grote vrijstaande gezinswoning betreft met de hoofdslaapkamers op de verdieping, en valt de maatvoering met 203 m2 ruim boven de gewenste 100-150 m2. Bovendien overschrijdt de vraagprijs van \u20ac 1.195.000 het maximale budget van \u20ac 800.000 ruimschoots.",
+            "buurt": "Drielanden",
+            "prijs": 1195000,
+            "datum": "2026-09-26 18:38"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-spaanderbank-3": {
+            "adres": "Spaanderbank 3, 3846 JH Harderwijk",
+            "score": 5,
+            "motivatie": "Deze moderne en strak afgewerkte middenwoning in het Waterfront is in uitstekende staat en direct instapklaar (3 punten voor afwerking), biedt met 140 m\u00b2 voldoende ruimte inclusief hobby- en logeermogelijkheden (2 punten voor maatkvoering), heeft een fijn, onderhoudsvriendelijk tuintje (1 punt) en is direct beschikbaar (1 punt). Echter, het betreft een standaard gezinswoning met alle slaapkamers op de verdiepingen en geen lift of volledig gelijkvloers programma (0 punten voor levensloopbestendigheid). Hiermee scoort de woning in totaal 7 punten volgens het puntenraster, maar vanwege Ida's strenge wens voor een levensloopbestendige woning of een luxe appartement met lift (harde eis in het Woon-DNA wat betreft type), past een gezinswoning met drie woonlagen hier minder goed bij. Toch vanwege de absolute instapklare staat en ruimte een degelijke optie, maar de match op type mist. Eindscore komt door de weging uit op een 5.",
+            "buurt": "Waterfront (Noordereiland)",
+            "prijs": 619000,
+            "datum": "2026-09-26 18:38"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-jan-van-nassaupark-38": {
+            "adres": "Jan van Nassaupark 38, 3844 BN Harderwijk",
+            "score": 7,
+            "motivatie": "Dit appartement op de eerste verdieping (bereikbaar met lift) scoort goed op comfort en ligging, maar valt qua woonoppervlakte (94 m\u00b2) net onder de gewenste 100-150 m\u00b2. Het complex heeft een lift, een fijne loggia (wintertuin), een priv\u00e9parkeerplaats en is keurig onderhouden en instapklaar. De afwerking is neutraal en netjes, al vraagt het misschien om een lichte modernisering naar eigen smaak. Het geheel is per direct beschikbaar en valt ruim binnen het budget.",
+            "buurt": "Jan van Nassaukazerne / Oranjelaan",
+            "prijs": 435000,
+            "datum": "2026-09-26 18:39"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-wilgenlaan-3": {
+            "adres": "Wilgenlaan 3, 3843 JW Harderwijk",
+            "score": 5,
+            "motivatie": "De Wilgenlaan 3 is een robuuste twee-onder-een-kapwoning uit 2000 (0 punten voor type: standaard gezinswoning met alle slaapkamers op de verdieping). De staat van afwerking krijgt 1 punt vanwege een eenvoudige keuken en een badkamer uit het bouwjaar; de woning vraagt om modernisering en is niet direct instapklaar. Met 140 m\u00b2 woonoppervlakte scoort de maatvoering 2 punten. De tuin is onderhoudsvriendelijk met voldoende privacy (1 punt voor buitenruimte). De woning is direct beschikbaar (1 punt). Dit brengt de totaalscore op 5 punten. Hoewel de woning binnen het budget valt en voldoende ruimte biedt, past het type (geen lift of gelijkvloers) en de benodigde modernisering niet optimaal bij het Woon-DNA van Ida.",
+            "buurt": "Kranenburg-Zuid",
+            "prijs": 675000,
+            "datum": "2026-09-26 18:39"
         }
     },
     "moeder_harderwijk_ermelo": {
