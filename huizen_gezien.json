@@ -2375,6 +2375,30 @@
             "buurt": "Vogelkwartier (Apeldoorn Zuid)",
             "prijs": 475000,
             "datum": "2026-09-28 21:26"
+        },
+        "https://www.reindersmakelaars.nl/woningen/de-hovenlaan-171-apeldoorn-906419e06baf620f3140278d11442cad50a00e": {
+            "adres": "De Hovenlaan 171",
+            "score": 3,
+            "motivatie": "De Hovenlaan 171 is een eengezinstussenwoning uit 1998 in de wijk Woudhuis, wat resulteert in 0 punten voor de bouwstijl (standaard rijtjeshuis/massabouw in plaats van een jaren '30 herenhuis). Er zijn geen authentieke elementen of historische stijlkenmerken aanwezig (0 punten). Met een woonoppervlakte van 105 m\u00b2 en een vraagprijs van \u20ac 400.000 komt de vierkante meterprijs uit op circa \u20ac 3.810, omschreven als marktconform en scherp (2 punten). De buitenruimte betreft een klein perceel van 123 m\u00b2 met een compacte achtertuin en een houten tuinhuis, wat onvoldoende re\u00eble ruimte biedt voor een kleine sauna (0 punten). De ligging in een rustige woonwijk scoort redelijk, maar weegt niet op tegen het ontbreken van het gewenste Woon-DNA (1 punt). De totale match score komt hiermee uit op 3 van de 10 punten. Dit object sluit niet aan bij de woonwensen van Willem-Jan.",
+            "buurt": "Woudhuis",
+            "prijs": 400000,
+            "datum": "2026-09-29 19:56"
+        },
+        "https://www.goos.nl/woning/de-tol-55": {
+            "adres": "De Tol 55, 7321 KG Apeldoorn",
+            "score": 5,
+            "motivatie": "De Tol 55 in Osseveld-West is een nette, uitgebouwde hoekwoning uit 1991 met 4 slaapkamers, een stenen garage en een fijne tuin met veranda. Qua Woon-DNA schiet deze woning echter tekort op het verlanglijstje van Willem-Jan: het is een moderne bouw (1991) in plaats van een jaren '30 stijl, en er zijn geen authentieke elementen zoals glas-in-lood of paneeldeuren aanwezig. Met 115 m\u00b2 wonen zit het onder de gewenste ondergrens van 125 m\u00b2. De vierkante meterprijs komt op ca. \u20ac 4.304,- (exclusief de 25 m\u00b2 overige inpandige ruimte zoals de garage), wat marktconform is voor Apeldoorn, maar gezien het ontbreken van het specifieke karakter en de kleinere woonoppervlakte is dit niet de ideale match.",
+            "buurt": "Osseveld-West",
+            "prijs": 495000,
+            "datum": "2026-09-29 19:57"
+        },
+        "https://vanvlietmakelaardij.nl/woning/apeldoorn-soerenseweg-86": {
+            "adres": "Soerenseweg 86, 7314 JH Apeldoorn",
+            "score": 5,
+            "motivatie": "Deze schitterende, historische vrijstaande villa aan de Soerenseweg scoort maximaal op het gebied van bouwstijl (vrijstaand herenhuis uit 1907), authentieke elementen (glas-in-lood, paneeldeuren, hoge plafonds, en-suite) en buitenruimte (parkachtig perceel van 1.389 m2 met enorm veel potentie voor een sauna). Ook qua vierkante meters (240 m2) en afwerking overtreft het ruimschoots de wensen. Er zijn echter twee gigantische minpunten: met een vraagprijs van \u20ac 1.250.000 overschrijdt deze woning het maximale budget van Willem-Jan (\u20ac 900.000) aanzienlijk. Bovendien ligt de prijs per vierkante meter rond de \u20ac 5.208, wat boven de gewenste marktwaarde ligt. Helaas financieel onhaalbaar.",
+            "buurt": "Apeldoorn West",
+            "prijs": 1250000,
+            "datum": "2026-09-29 19:58"
         }
     },
     "harderwijk_ermelo": {
