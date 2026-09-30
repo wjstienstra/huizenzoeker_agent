@@ -2399,6 +2399,46 @@
             "buurt": "Apeldoorn West",
             "prijs": 1250000,
             "datum": "2026-09-29 19:58"
+        },
+        "https://www.deheusmakelaardij.nl/woning/apeldoorn-balilaan-10-AN102014": {
+            "adres": "Balilaan 10, 7314 BE Apeldoorn",
+            "score": 5,
+            "motivatie": "Hoewel deze vrijstaande woning uit 1905 in de Indische Buurt veel karakter bezit (zoals glas-in-lood en plafondornamenten) en een fijne zonnige tuin heeft met een stenen tuinhuis, schiet de woning op twee belangrijke punten van Willem-Jans Woon-DNA tekort. Met een woonoppervlakte van 107 m\u00b2 zit het ruim onder de gewenste richtlijn van 125-175 m\u00b2. Daarnaast bedraagt de vierkante meterprijs ca. \u20ac 5.130,-, wat aan de hoge kant is voor wat je krijgt. Hierdoor scoort het object onvoldoende op de criteria voor ruimte en prijs-kwaliteit.",
+            "buurt": "Indische Buurt",
+            "prijs": 549500,
+            "datum": "2026-09-30 19:56"
+        },
+        "https://opendeur.nl/woningaanbod/leidekkersdreef-18-apeldoorn": {
+            "adres": "Leidekkersdreef 18, 7328 AV Apeldoorn",
+            "score": 4,
+            "motivatie": "Deze woning aan de Leidekkersdreef 18 scoort goed op prijs-kwaliteitverhouding met een zeer scherpe vierkante meterprijs (ca. \u20ac 3.055 p/m\u00b2) en biedt met 126 m\u00b2 en 4 slaapkamers voldoende ruimte. Ook de zonnige achtertuin met veel privacy biedt mogelijkheden. Echter sluit het huis absoluut niet aan bij het Woon-DNA van Willem-Jan: het betreft een eengezinswoning uit 1971 (jaren '70 bouw) in plaats van een karakteristiek jaren '30 herenhuis, en er zijn geen authentieke elementen zoals glas-in-lood of paneeldeuren aanwezig. Daarmee ontbreekt het historische karakter volledig.",
+            "buurt": "De Maten",
+            "prijs": 385000,
+            "datum": "2026-09-30 19:56"
+        },
+        "https://www.reindersmakelaars.nl/woningen/koning-lodewijklaan-57-apeldoorn-90641967ca451a79e5487db2ac16f2043c9cd5": {
+            "adres": "Koning Lodewijklaan 57",
+            "score": 7,
+            "motivatie": "Deze vrijstaande jarendertigwoning aan de Koning Lodewijklaan 57 scoort uitstekend op het gebied van karakter (granito vloer, kamer-en-suite, erker) en verkeert in een instapklare staat met parkeergelegenheid op eigen terrein. Het woonoppervlak van 108 m\u00b2 zit echter wel wat onder de gewenste richtlijn van 125-175 m\u00b2, wat de vierkante meterprijs op ca. \u20ac 6.481 brengt (fors hoger dan het Apeldoornse gemiddelde). Desondanks is de tuin rondom ruim genoeg voor de wensen, en biedt de woning met 4 kamers, authentieke details en een geliefde ligging in West Apeldoorn een geweldige match met het Woon-DNA.",
+            "buurt": "Indische buurt / Spainkbos",
+            "prijs": 700000,
+            "datum": "2026-09-30 20:01"
+        },
+        "https://www.reindersmakelaars.nl/woningen/baron-sloetkade-325-apeldoorn-906419c696df6bbd144f1d8a73c58af0502b3f": {
+            "adres": "Baron Sloetkade 325",
+            "score": 4,
+            "motivatie": "Dit moderne appartement (bouwjaar 2007, 121 m\u00b2) scoort punten op het schitterende uitzicht en de centrale ligging, maar sluit fundamenteel niet aan bij Willem-Jans Woon-DNA. Het betreft een portiekflat in plaats van een karakteristiek herenhuis, er zijn slechts 2 slaapkamers (in plaats van minimaal 3) en authentieke jaren '30 elementen ontbreken volledig. Bovendien is er geen eigen grondgebonden tuin met sauna-potentie aanwezig, maar slechts een inpandig balkon. De prijs per vierkante meter bedraagt circa \u20ac5.372, wat aan de hoge kant is voor een appartement dat qua stijl en type buiten de wensen valt.",
+            "buurt": "Apeldoorn Centrum / Kanaalzone",
+            "prijs": 650000,
+            "datum": "2026-09-30 20:02"
+        },
+        "https://www.goos.nl/woning/zuiderlaan-65": {
+            "adres": "Zuiderlaan 65, 7322 HL Apeldoorn",
+            "score": 7,
+            "motivatie": "De Zuiderlaan 65 is een modern, instapklaar en uitstekend verduurzaamd vrijstaand woonhuis (bouwjaar 1990, energielabel A++) met een royaal perceel van 586 m\u00b2 en 147 m\u00b2 woonoppervlakte. De woning scoort sterk op ruimte (4 slaapkamers, waarvan \u00e9\u00e9n op de begane grond) en biedt met een perceeloppervlakte en een indrukwekkende overkapping van 63 m\u00b2 volop mogelijkheden voor het plaatsen van een sauna in de tuin. Omdat het een bouwjaar uit 1990 betreft, ontbreken de klassieke jaren '30 elementen zoals glas-in-lood en paneeldeuren, en met een m\u00b2-prijs van circa \u20ac5.782 zit de woning aan de bovenkant van de markt (wat een punt kost op prijs-kwaliteit). Daartegenover staat een ongekende mate van comfort, toekomstbestendigheid en privacy. Totaalscore: 7 van de 10 punten.",
+            "buurt": "Apeldoorn (Zuiderlaan)",
+            "prijs": 850000,
+            "datum": "2026-09-30 20:02"
         }
     },
     "harderwijk_ermelo": {
@@ -3665,6 +3705,14 @@
             "buurt": "Kranenburg-Zuid",
             "prijs": 675000,
             "datum": "2026-09-26 18:39"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/stortemelk-60-harderwijk-486": {
+            "adres": "Stortemelk 60, Harderwijk",
+            "score": 5,
+            "motivatie": "De woning scoort punten op de vernieuwde badkamer, de twee balkons en de centrale ligging in Harderwijk, en is direct beschikbaar. Echter valt het type af als levensloopbestendig of luxe appartement met lift (het betreft een maisonnette over meerdere verdiepingen zonder lift, 0 punten). Ook de woonoppervlakte van 98 m\u00b2 zit net onder de richtlijn van 100-150 m\u00b2 (1 punt). De staat van afwerking is degelijk, maar niet ultraluxueus (1 punt). Dit leidt tot een totale matchscore van 5.",
+            "buurt": "Stadsweiden",
+            "prijs": 350000,
+            "datum": "2026-09-30 20:04"
         }
     },
     "moeder_harderwijk_ermelo": {
