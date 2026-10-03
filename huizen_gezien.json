@@ -2495,6 +2495,22 @@
             "buurt": "Apeldoorn Kanaal / Centrum",
             "prijs": 375000,
             "datum": "2026-10-01 20:22"
+        },
+        "https://www.iqmakelaarsapeldoorn.nl/koopwoning/apeldoorn-geelgorsweg-381-1": {
+            "adres": "Geelgorsweg 16",
+            "score": 3,
+            "motivatie": "Deze tussenwoning uit 1992 sluit nauwelijks aan bij het gewenste Woon-DNA. De woning mist elk historisch karakter en heeft geen authentieke elementen zoals glas-in-lood of paneeldeuren. Het woonoppervlak van 103 m\u00b2 blijft aanzienlijk achter bij de gewenste 125 tot 175 m\u00b2. De vierkante meterprijs is met circa \u20ac 4.126,- per m\u00b2 weliswaar marktconform en scherp, maar de bescheiden achtertuin (62 m\u00b2) is al intensief benut met een overkapping, berging en zitjes, waardoor er geen re\u00eble ruimte overblijft voor een sauna. De ligging in een rustige gezinswijk in het Vogelkwartier is praktisch en kindvriendelijk, maar biedt niet de sfeer of uitstraling van Apeldoorn Noord/West. Een keurige starterswoning, maar geen match.",
+            "buurt": "Vogelkwartier",
+            "prijs": 425000,
+            "datum": "2026-10-03 18:38"
+        },
+        "https://www.reindersmakelaars.nl/woningen/schubertlaan-34-a-apeldoorn-906419a77e61dcd9d94f64a99dcd1d6931368a": {
+            "adres": "Schubertlaan 34 A, Apeldoorn",
+            "score": 3,
+            "motivatie": "De woning aan de Schubertlaan 34 A is een twee-onder-een-kapwoning uit 1955 met een vraagprijs van \u20ac 400.000. Met een woonoppervlakte van 81 m\u00b2 (en 31 m\u00b2 overige inpandige ruimte) valt deze woning ruim onder het gewenste oppervlak van 125-175 m\u00b2. Bouwstijl en vrijheid scoren 1 punt (twee-onder-een-kap). Authentieke elementen ontbreken in de beschrijving, wat leidt tot 0 punten. De vierkante meterprijs komt op ca. \u20ac 4.938 op basis van het woonoppervlak, wat fors is voor een woning met energielabel G die volledig gemoderniseerd moet worden (1 punt). De tuin op het westen biedt wel ruimte voor buitenactiviteiten (1 punt), en de ligging in een woonwijk is rustig (1 punt). Totaalscore komt hiermee op 4 punten. Niet optimaal passend bij Willem-Jans Woon-DNA vanwege het gebrek aan ruimte en authentieke details.",
+            "buurt": "Apeldoorn",
+            "prijs": 400000,
+            "datum": "2026-10-03 18:44"
         }
     },
     "harderwijk_ermelo": {
@@ -3793,6 +3809,38 @@
             "buurt": "Ermelo",
             "prijs": 549000,
             "datum": "2026-10-02 20:00"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/havenspoor-159-harderwijk-487": {
+            "adres": "Havenspoor 159, Harderwijk",
+            "score": 5,
+            "motivatie": "Dit moderne appartement in Harderwijk is uitstekend afgewerkt, instapklaar en voorzien van een lift, energielabel A en een zonnig balkon. Het complex is recent gebouwd (2020) en direct beschikbaar. Het enige minpunt is de maatvoering: met circa 72 m\u00b2 valt het onder de gewenste ondergrens van 100 m\u00b2 uit het woon-DNA, waardoor het wat krap is voor logees of hobby's. Hierdoor scoort het op maatvoering 0 punten, wat de totaalscore brengt op 5 punten.",
+            "buurt": "Wij Havenspoor",
+            "prijs": 395000,
+            "datum": "2026-10-03 18:49"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-kranenburglaan-2": {
+            "adres": "Kranenburglaan 2, Harderwijk",
+            "score": 7,
+            "motivatie": "Deze woning scoort goed op levensloopbestendigheid doordat er zowel een slaapkamer als een badkamer op de begijn grond aanwezig is (3 punten). De staat van afwerking is goed en netjes (2 punten). De maatvoering valt met precies 100 m\u00b2 binnen de ondergrens en biedt extra ruimte door de garage (2 punten). De tuin is beheersbaar (1 punt) en de woning is per direct beschikbaar (1 punt), wat resulteert in een totaalscore van 9 punten. Echter, let op het energielabel F, wat niet direct past bij een moderne, energiezuinige wensenlijst, maar de indeling sluit wel uitstekend aan bij Ida's profiel.",
+            "buurt": "Veldkamp",
+            "prijs": 485000,
+            "datum": "2026-10-03 18:50"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-kortekamp-51": {
+            "adres": "Kortekamp 51, Harderwijk",
+            "score": 5,
+            "motivatie": "Deze 2-onder-1-kapwoning scoort punten op de moderne en strakke afwerking (begane grond is in 2021 vernieuwd) en valt binnen het budget en de maatvoering met 157 m\u00b2. Echter betreft dit een standaard gezinswoning met alle slaapkamers en de badkamer op de verdiepingen, en is er geen sprake van een lift of een volledig gelijkvloers programma (0 punten voor type). Hierdoor sluit de woning onvoldoende aan bij het levensloopbestendige profiel van Ida.",
+            "buurt": "Frankrijk",
+            "prijs": 725000,
+            "datum": "2026-10-03 18:50"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-kuyperlaan-1": {
+            "adres": "Kuyperlaan 1, Harderwijk",
+            "score": 5,
+            "motivatie": "De woning is een standaard 2-onder-1-kapwoning met alle slaapkamers op de verdiepingen en mist een lift of volledige gelijkvloersheid (0 punten voor type). De staat van afwerking is goed en netjes onderhouden, al is het geen ultra-luxe moderne staat (2 punten). Met 126 m\u00b2 valt het binnen de maatvoering en biedt het ruimte voor hobby of logees (2 punten). De tuin is echter met 320 m\u00b2 perceeloppervlakte (en een achtertuin van ca. 18x9 meter) een vrij grote lap grond in plaats van een klein, onderhoudsvriendelijk tuintje (0 punten). De beschikbaarheid is op korte termijn in overleg (1 punt). Dit brengt de totaalscore op 5 punten. Het is een keurige gezinswoning, maar sluit niet optimaal aan bij het levensloopbestendige en onderhoudsarme Woon-DNA van Ida.",
+            "buurt": "Harderwijk",
+            "prijs": 570000,
+            "datum": "2026-10-03 18:50"
         }
     },
     "moeder_harderwijk_ermelo": {
