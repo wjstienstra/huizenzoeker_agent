@@ -3841,6 +3841,14 @@
             "buurt": "Harderwijk",
             "prijs": 570000,
             "datum": "2026-10-03 18:50"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-verkeersweg-5": {
+            "adres": "Verkeersweg 5, 3842 LD Harderwijk",
+            "score": 3,
+            "motivatie": "Deze woning overschrijdt ruimschoots het maximumbudget van \u20ac 800.000 met een vraagprijs van \u20ac 1.100.000. Daarnaast is de woonoppervlakte van circa 291 m\u00b2 veel groter dan de gewenste 100 - 150 m\u00b2, is het geen levensloopbestendige woning of appartement met lift, en betreft het een grote, onderhoudsintensieve kavel van 903 m\u00b2 in plaats van een klein tuintje of balkon. Hiermee voldoet het pand in nagenoeg geen enkel opzicht aan het woon-DNA van Ida.",
+            "buurt": "Harderwijk",
+            "prijs": 1100000,
+            "datum": "2026-10-04 18:46"
         }
     },
     "moeder_harderwijk_ermelo": {
