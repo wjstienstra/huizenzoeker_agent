@@ -2519,6 +2519,22 @@
             "buurt": "De Maten (Matensorsten)",
             "prijs": 400000,
             "datum": "2026-10-05 22:03"
+        },
+        "https://www.goos.nl/woning/bosweg-31": {
+            "adres": "Bosweg 31, 7314 HA Apeldoorn",
+            "score": 9,
+            "motivatie": "De Bosweg 31 is een prachtig, karakteristiek jaren '30 helft-van-een-dubbel herenhuis op een absolute toplocatie in Apeldoorn West. Met een vraagprijs van \u20ac 700.000,- en 124 m\u00b2 woonoppervlakte komt de m\u00b2-prijs uit op circa \u20ac 5.645,-, wat aan de stevige kant is. Echter, dit wordt ruimschoots gecompenseerd door het zeldzame energielabel A+ (dankzij o.a. een warmtepomp en 14 zonnepanelen), de uitstekende staat van onderhoud en de aanwezigheid van vele authentieke details zoals glas-in-loodramen, een granitovloer en een hardstenen schouw. Het perceel van 322 m\u00b2 biedt een diepe, fraai aangelegde achtertuin op het zuiden met een veranda en ruime schuren, wat volop potentie biedt voor een sauna. De ligging aan een laan met bomen nabij de bossen en Paleis het Loo maakt dit een fantastische match met Willem-Jans wensen.",
+            "buurt": "Apeldoorn West",
+            "prijs": 700000,
+            "datum": "2026-10-06 20:07"
+        },
+        "https://www.koningsstede.nl/woningen/carrouselweg-101-apeldoorn-936649f9288640ebc3441abf8665a7ffa1769c": {
+            "adres": "Carrouselweg 101, Apeldoorn",
+            "score": 5,
+            "motivatie": "De Carrouselweg 101 is een ruime, uitgebouwde hoekwoning met 4 slaapkamers, een garage en een zonnige tuin op het zuidoosten. Met een woonoppervlakte van 120 m\u00b2 en een vraagprijs van \u20ac 498.500 komt dit neer op ca. \u20ac 4.154 per m\u00b2, wat zeer scherp is qua prijs-kwaliteit. De woning scoort echter laag op de hoofdwensen van het Woon-DNA: het betreft een bouwjaar uit 1982 (geen jaren '30 stijl) en er zijn geen authentieke elementen zoals glas-in-lood of paneeldeuren aanwezig. De buitenruimte heeft een goede ligging, maar biedt door het perceel van 192 m\u00b2 beperkte re\u00eble ruimte voor een sauna in combinatie met de garage. Daarmee is dit object een keurige, moderne gezinswoning, maar sluit het onvoldoende aan bij de specifieke karakterwensen.",
+            "buurt": "Apeldoorn (kindvriendelijke woonwijk)",
+            "prijs": 498500,
+            "datum": "2026-10-06 20:09"
         }
     },
     "harderwijk_ermelo": {
@@ -3857,6 +3873,22 @@
             "buurt": "Harderwijk",
             "prijs": 1100000,
             "datum": "2026-10-04 18:46"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/pc-hooftplein-51-harderwijk-489": {
+            "adres": "P.C. Hooftplein 51, Harderwijk",
+            "score": 6,
+            "motivatie": "Dit appartement bevindt zich op de tweede verdieping en uit de omschrijving blijkt niet of er een lift aanwezig is (1 punt voor type). De staat van afwerking is netjes en modern gerenoveerd (3 punten). Met een woonoppervlakte van 105 m\u00b2 en drie slaapkamers voldoet het ruim aan de maatstaf voor ruimte en hobby/logees (2 punten). Er zijn twee balkons op het zuiden aanwezig (1 punt). De woning is direct beschikbaar (1 punt). Echter, het ontbreken van een expliciete vermelding van een lift bij een appartement op de tweede etage is een nadeel voor het levensloopbestendige karakter.",
+            "buurt": "Harderwijk",
+            "prijs": 325000,
+            "datum": "2026-10-06 20:10"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/de-enk-117-ermelo-488": {
+            "adres": "De Enk 117, Ermelo",
+            "score": 5,
+            "motivatie": "Deze maisonnette scoort punten op het moderne afwerkingsniveau en het royale dakterras. Echter voldoet de woning niet volledig aan het Woon-DNA: het is een maisonnette over meerdere woonlagen met slaapkamers op de verdieping (geen lift of volledig gelijkvloers) en de woonoppervlakte van 86 m\u00b2 valt onder de ondergrens van 100 m\u00b2. Hierdoor blijft de score steken op een matige 5.",
+            "buurt": "Centrum Ermelo",
+            "prijs": 400000,
+            "datum": "2026-10-06 20:10"
         }
     },
     "moeder_harderwijk_ermelo": {
