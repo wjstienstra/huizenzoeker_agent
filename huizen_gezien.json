@@ -2535,6 +2535,38 @@
             "buurt": "Apeldoorn (kindvriendelijke woonwijk)",
             "prijs": 498500,
             "datum": "2026-10-06 20:09"
+        },
+        "https://opendeur.nl/woningaanbod/talingweg-86-apeldoorn": {
+            "adres": "Talingweg 86, Apeldoorn",
+            "score": 4,
+            "motivatie": "De woning aan de Talingweg 86 is een uitgebouwde tussenwoning uit 1959 met drie slaapkamers en een woonoppervlakte van 94 m\u00b2, wat onder de richtlijn van 125-175 m\u00b2 valt. Met een vraagprijs van \u20ac 375.000 komt de m\u00b2-prijs uit op ongeveer \u20ac 3.989, wat financieel erg scherp is. De tuin ligt op het zuiden, heeft een strakke indeling en een vrijstaande stenen berging (12,8 m\u00b2), al is de ruimte voor een sauna beperkt. Het grootste minpunt ten opzichte van Willem-Jans Woon-DNA is het ontbreken van het gewenste historische karakter: het is een standaard tussenwoning uit de jaren '50 in plaats van een jaren '30 herenhuis, en authentieke elementen ontbreken. Wel scoort de ligging met groen voor de deur en een vrije achterzijde pluspunt op het gebied van rust.",
+            "buurt": "Hart van Zuid (Apeldoorn Zuid)",
+            "prijs": 375000,
+            "datum": "2026-10-07 20:31"
+        },
+        "https://www.goos.nl/woning/steenhouwersdonk-137": {
+            "adres": "Steenhouwersdonk 137, 7326 MG Apeldoorn",
+            "score": 5,
+            "motivatie": "De Steenhouwersdonk 137 is een ruime bungalow (170 m\u00b2 woonoppervlakte, 4 slaapkamers) op een riant perceel van 615 m\u00b2 met volop privacy en sauna-potentie in de tuin. De vierkante meterprijs is scherp te noemen (\u20ac 599.500 / 170 m\u00b2 = ca. \u20ac 3.526 p/m\u00b2). Echter, qua bouwstijl (bouwjaar 1976, bungalow in plaats van een jaren '30 herenhuis) en het ontbreken van typische historische elementen (zoals glas-in-lood of paneeldeuren) sluit het niet aan bij het gewenste Woon-DNA van Willem-Jan. Wel scoort het goed op ruimte, rust en prijs-kwaliteit.",
+            "buurt": "De Maten",
+            "prijs": 599500,
+            "datum": "2026-10-07 20:35"
+        },
+        "https://www.goos.nl/woning/nijbroekseweg-28b-2": {
+            "adres": "Nijbroekseweg 28B",
+            "score": 7,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.2 km van het centrum (-1 punten).\n\nDe Nijbroekseweg 28B is een zeer royale en uitstekend afgewerkte helft van een dubbel (bouwjaar 2021, energielabel A++) met 180 m\u00b2 woonoppervlakte. De woning scoort sterk op ruimte, luxe en afwerkingsniveau, inclusief een slaap- en badkamer op de begane grond (levensloopbestendig) en een sfeervolle gashaard. De prijs per vierkante meter ligt op ca. \u20ac 4.972 (gebaseerd op het woonoppervlak), wat binnen het budget van \u20ac 900.000 past, al is de m\u00b2-prijs aan de bovenkant van de markt. De tuin op het zuiden biedt volop privacy en ruimte voor een sauna onder de overkapping. Enige minpunt is de modernere bouwstijl van 2021 i.p.v. traditionele jaren '30, maar het comfort en de ruimte compenseren dit ruimschoots.",
+            "buurt": "Zuidbroek",
+            "prijs": 895000,
+            "datum": "2026-10-07 20:35"
+        },
+        "https://vanvlietmakelaardij.nl/woning/apeldoorn-1e-wormenseweg-507": {
+            "adres": "1e Wormenseweg 507, 7333 GW Apeldoorn",
+            "score": 5,
+            "motivatie": "Bouwstijl & Vrijheid (1/2): Het betreft een hoekwoning uit 1964, wat valt onder degelijke naoorlogse bouw maar niet onder de gewenste jaren '30 stijl. Authentieke Elementen & Interieur (0/2): Geen harde tekstuele bewijzen van authentieke elementen zoals glas-in-lood of paneeldeuren; de woning is juist modern en strak afgewerkt (keuken en badkamer uit 2024). Prijs-Kwaliteit & Vierkante Meters (2/2): Met een vraagprijs van \u20ac 449.000 voor 113 m\u00b2 komt dit neer op ca. \u20ac 3.973 per m\u00b2, wat zeer scherp geprijsd is en ruim onder de marktnorm van Apeldoorn ligt. Buitenruimte & Sauna-potentie (1/2): Er is een zonnige tuin op het oosten met een stenen berging en overkapping, maar de perceeloppervlakte van 225 m\u00b2 is aan de compacte kant voor een comfortabele buitensauna. Ligging, Rust & Omgeving (1/2): Gelegen in een woonwijk met diverse voorzieningen nabij, maar mist de specifieke landelijke rust of het karakter van de favoriete noordelijke/westelijke wijken. De woning biedt veel leefruimte en is uiterst energiezuinig, maar sluit qua bouwperiode en estletiek niet optimaal aan bij het specifieke Woon-DNA van Willem-Jan.",
+            "buurt": "Wormen",
+            "prijs": 449000,
+            "datum": "2026-10-07 20:37"
         }
     },
     "harderwijk_ermelo": {
@@ -3889,6 +3921,22 @@
             "buurt": "Centrum Ermelo",
             "prijs": 400000,
             "datum": "2026-10-06 20:10"
+        },
+        "https://www.janvandenberg-makelaar.nl/woningen/ericalaan-25-ermelo-93949239487de4520c42368e529da7b2849031": {
+            "adres": "Ericalaan 25, Ermelo",
+            "score": 5,
+            "motivatie": "Deze semi-bungalow beschikt over een slaapkamer op de begane grond (2 punten) en een nette staat van afwerking (3 punten). Echter overschrijdt de vraagprijs van \u20ac 855.000 het maximale budget van \u20ac 800.000, en is het perceel met 815 m\u00b2 veel groter dan het gewenste onderhoudsvriendelijke tuintje of balkon. Maatvoering en beschikbaarheid zijn op orde, wat leidt tot een eindscore van 5.",
+            "buurt": "Ermelo Oost",
+            "prijs": 855000,
+            "datum": "2026-10-07 20:38"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-broeklaan-24": {
+            "adres": "Broeklaan 24, 3848 CJ Harderwijk",
+            "score": 7,
+            "motivatie": "Dit appartement scoort goed op het profiel van Ida dankzij het gelijkvloerse comfort, de aanwezigheid van een lift, een moderne badkamer uit 2016 en een heerlijke, onderhoudsvriendelijke priv\u00e9tuin op de zonzijde. Het enige minpunt is dat de woonoppervlakte van 88 m\u00b2 net onder de richtlijn van 100-150 m\u00b2 valt. Het object is volledig instapklaar en direct beschikbaar binnen het budget.",
+            "buurt": "Frankrijk",
+            "prijs": 425000,
+            "datum": "2026-10-07 20:39"
         }
     },
     "moeder_harderwijk_ermelo": {
