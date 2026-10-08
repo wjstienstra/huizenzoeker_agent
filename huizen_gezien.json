@@ -2567,6 +2567,22 @@
             "buurt": "Wormen",
             "prijs": 449000,
             "datum": "2026-10-07 20:37"
+        },
+        "https://www.reindersmakelaars.nl/woningen/stationsstraat-118-a-apeldoorn-90641959350b94fc8e4978b7c68812b6c304f7": {
+            "adres": "Stationsstraat 118 A, Apeldoorn",
+            "score": 3,
+            "motivatie": "Dit moderne penthouse in het centrum van Apeldoorn biedt met 147 m\u00b2 en 3 slaapkamers weliswaar de gewenste ruimte en heeft een gunstige vierkante meterprijs (\u20ac 3.400 per m\u00b2), maar het mist volledig de historische charme van het gewenste Woon-DNA. Het betreft een moderne bouw uit 2006 (0 punten voor bouwstijl en authentieke elementen). Hoewel er een riant dakterras op het zuiden is, ontbreekt een traditionele grondtuin met re\u00eble opties voor een buitensauna, en het ontbreken van een eigen parkeerplaats is een groot minpunt. De centrale ligging in het stadscentrum past bovendien niet bij de gezochte rust en privacy.",
+            "buurt": "Centrum",
+            "prijs": 500000,
+            "datum": "2026-10-08 20:41"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/aalscholverweg-2-apeldoorn-934984bd0f89d4c03c449684825eb33a56e88b": {
+            "adres": "Aalscholverweg 2, Apeldoorn",
+            "score": 3,
+            "motivatie": "De Aalscholverweg 2 is een vrijstaande woning uit 1937, wat aansluit bij de gewenste bouwstijl. Echter schiet deze woning op een aantal essenti\u00eble punten tekort in vergelijking met Willem-Jans Woon-DNA. Met een woonoppervlakte van slechts 77 m\u00b2 en slechts 1 kamer voldoet de woning volstrekt niet aan de eis van minimaal 3 slaapkamers en 125-175 m\u00b2. De m\u00b2-prijs kan niet gunstig worden beoordeeld vanwege het gebrek aan bewoonbare ruimte en het feit dat de woning inmiddels de status 'verkocht onder voorbehoud' heeft. De perceeloppervlakte van 367 m\u00b2 biedt weliswaar enige buitenruimte, maar dit weegt niet op tegen de te kleine leefruimte binnen. De score komt hiermee uit op 3 van de 10 punten.",
+            "buurt": "Apeldoorn",
+            "prijs": null,
+            "datum": "2026-10-08 20:42"
         }
     },
     "harderwijk_ermelo": {
