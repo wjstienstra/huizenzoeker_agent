@@ -2647,6 +2647,14 @@
             "buurt": "Apeldoorn",
             "prijs": 275000,
             "datum": "2026-10-09 20:23"
+        },
+        "https://www.goos.nl/woning/paslaan-28": {
+            "adres": "Paslaan 28, 7311 AL Apeldoorn",
+            "score": 5,
+            "motivatie": "Deze statige en recent grotendeels gemoderniseerde villa in 'De Parken' biedt enorm veel ruimte (256 m\u00b2) en prachtige authentieke stijlelementen zoals paneeldeuren en en-suite deuren. Hoewel de woning qua stijl, afwerking en buitenruimte zeer goed past bij het Woon-DNA, valt de vraagprijs van \u20ac 995.000 buiten het maximale budget van Willem-Jan (\u20ac 900.000). Daarmee is de woning helaas niet haalbaar binnen de gestelde financi\u00eble kaders.",
+            "buurt": "De Parken",
+            "prijs": 995000,
+            "datum": "2026-10-10 19:31"
         }
     },
     "harderwijk_ermelo": {
@@ -4025,6 +4033,22 @@
             "buurt": "Recreatiepark De Zonnehof",
             "prijs": 165000,
             "datum": "2026-10-09 20:24"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-staverenmeen-1": {
+            "adres": "Staverenmeen 1, Harderwijk",
+            "score": 4,
+            "motivatie": "Dit betreft een standaard gezinswoning waarbij alle slaapkamers zich op de verdieping bevinden en er geen liftoptie of gelijkvloers programma is (0 punten). De staat van afwerking is degelijk, maar niet luxueus of direct instapklaar; de keuken en indeling vragen om modernisering (1 punt). De woonoppervlakte van 118 m\u00b2 valt netjes binnen de norm van 100-150 m\u00b2 met voldoende kamers (2 punten). De tuin is onderhoudsvriendelijk en compact (1 punt). De woning is per direct beschikbaar (1 punt). Totaalscore: 5 punten, wat neerkomt op een match score van 4 op de schaal van 10. Niet geschikt gezien Ida's eis voor levensloopbestendigheid.",
+            "buurt": "Harderwijk",
+            "prijs": 450000,
+            "datum": "2026-10-10 19:34"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-bebopdreef-8": {
+            "adres": "Bebopdreef 8",
+            "score": 5,
+            "motivatie": "Deze geschakelde watervilla biedt veel ruimte en een moderne afwerking met recent vernieuwd sanitair en keukenapparatuur (score 2 voor staat van afwerking). Echter betreft dit een standaard eengezinswoning met alle slaapkamers op de verdieping en ontbreken een gelijkvloers woonprogramma of een lift, wat resulteert in 0 punten voor levensloopbestendigheid. De maatvoering (165 m\u00b2) en de buitenruimte (tuin op het zuiden aan het water) passen goed binnen de wensen, en de woning is direct beschikbaar. Door het ontbreken van de slaap- en badkamer op de begingrond scoort het huis echter onvoldoende op het belangrijkste criterium van het Woon-DNA.",
+            "buurt": "Drielanden",
+            "prijs": 595000,
+            "datum": "2026-10-10 19:35"
         }
     },
     "moeder_harderwijk_ermelo": {
