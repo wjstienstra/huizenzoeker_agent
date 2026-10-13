@@ -2663,6 +2663,38 @@
             "buurt": "De Maten",
             "prijs": 425000,
             "datum": "2026-10-12 22:54"
+        },
+        "https://www.deheusmakelaardij.nl/woning/apeldoorn-kooikersdreef-76-AN101789": {
+            "adres": "Kooikersdreef 76",
+            "score": 3,
+            "motivatie": "Deze woning mist volledig het gewenste Woon-DNA van Willem-Jan. Het betreft een standaard tussenwoning uit 1972 in De Maten in plaats van een jaren '30 herenhuis of villa. Met 92 m\u00b2 woonoppervlakte zit het fors onder de richtlijn van 125-175 m\u00b2, en authentieke elementen ontbreken. Hoewel de vierkante meterprijs gunstig is en de woning netjes is onderhouden en verduurzaamd, sluit dit type massa-bouw simpelweg niet aan bij de woonwensen.",
+            "buurt": "De Maten",
+            "prijs": 345000,
+            "datum": "2026-10-13 20:34"
+        },
+        "https://www.goos.nl/woning/kruizemuntstraat-867": {
+            "adres": "Kruizemuntstraat 867, 7322 MK Apeldoorn",
+            "score": 5,
+            "motivatie": "De Kruizemuntstraat 867 betreft een nette hoekwoning uit 1970 met een woonoppervlakte van 119 m\u00b2 en een vraagprijs van \u20ac 400.000 (ca. \u20ac 3.361 per m\u00b2). Dit is qua prijs-kwaliteit verhouding zeer gunstig en de woning is sterk verduurzaamd met energielabel A en 10 zonnepanelen. Echter past het qua bouwstijl (jaren '70 massa-bouw in plaats van jaren '30 stijl) en het ontbreken van harde authentieke elementen zoals glas-in-lood of paneeldeuren totaal niet bij Willem-Jans Woon-DNA. Ook is de perceeloppervlakte met 151 m\u00b2 en een noordoostelijke ligging beperkt voor een sauna-wens. Score: 5/10.",
+            "buurt": "De Mheen",
+            "prijs": 400000,
+            "datum": "2026-10-13 20:41"
+        },
+        "https://www.goos.nl/woning/amstelstraat-1-g-4-ong": {
+            "adres": "Amstelstraat 1 G 4, 7333 LW Apeldoorn",
+            "score": 1,
+            "motivatie": "Dit betreft een losse garagebox van 14 m\u00b2 en geen woonhuis. Het voldoet op geen enkele manier aan Willem-Jans woonwensen (minimaal 3 slaapkamers, 125-175m2, karakteristieke stijl en ruimte voor een sauna). Onbruikbaar als woning.",
+            "buurt": "Apeldoorn-Zuid",
+            "prijs": 29500,
+            "datum": "2026-10-13 20:41"
+        },
+        "https://www.koningsstede.nl/woningen/germanenlaan-16-apeldoorn-9366497bbb644a0fca443289ba4abc6b7481ca": {
+            "adres": "Germanenlaan 16, Apeldoorn",
+            "score": 6,
+            "motivatie": "De Germanenlaan 16 is een karakteristieke twee-onder-een-kapwoning uit 1934 gelegen op een geliefde locatie in Apeldoorn West. Met een vraagprijs van \u20ac 525.000 en een woonoppervlakte van 104 m\u00b2 komt de m\u00b2-prijs uit op ongeveer \u20ac 5.048, wat net boven de marktconforme grens van \u20ac 5.000 valt. Hoewel de woning sfeervolle jaren '30 details bezit (zoals een erker), ontbreken harde tekstuele bewijzen van specifieke interieurelementen zoals paneeldeuren of en-suite deuren. Qua ruimte zit de woning met 104 m\u00b2 net onder de wenselijke richtlijn van 125-175 m\u00b2, al biedt de diepe achtertuin (179 m\u00b2) met overkapping en schuur volop buitenruimte en re\u00eble potentie voor een kleine sauna. De ligging aan de westkant nabij bossen en het centrum is uitstekend. Eindscore: 6 punten.",
+            "buurt": "Apeldoorn West",
+            "prijs": 525000,
+            "datum": "2026-10-13 20:42"
         }
     },
     "harderwijk_ermelo": {
@@ -4057,6 +4089,14 @@
             "buurt": "Drielanden",
             "prijs": 595000,
             "datum": "2026-10-10 19:35"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-stortemelk-45": {
+            "adres": "Stortemelk 45, 3844 LL Harderwijk",
+            "score": 5,
+            "motivatie": "Dit appartement scoort op levensloopbestendigheid 2 punten (complex met lift ontbreekt of wordt niet genoemd; het betreft een maisonnette over meerdere verdiepingen). Voor staat van afwerking krijgt het 1 punt vanwege de eenvoudige keukeninrichting en gedateerde aspecten. De maatvoering is met 95 m\u00b2 net onder de ondergrens van 100 m\u00b2 (1 punt). De buitenruimte (2 balkons) scoort 1 punt en de beschikbaarheid op korte termijn scoort ook 1 punt. Totaal komt dit op 6 punten. Echter, door het ontbreken van een lift in combinatie met meerdere verdiepingen en een woonoppervlakte onder de 100m2 sluit dit niet optimaal aan bij het verlangde comfort, waardoor de eindscore op 5 punten uitkomt.",
+            "buurt": "Stadsweiden",
+            "prijs": 325000,
+            "datum": "2026-10-13 20:45"
         }
     },
     "moeder_harderwijk_ermelo": {
