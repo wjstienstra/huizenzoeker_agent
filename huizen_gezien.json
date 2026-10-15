@@ -2695,6 +2695,54 @@
             "buurt": "Apeldoorn West",
             "prijs": 525000,
             "datum": "2026-10-13 20:42"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/herderweg-8": {
+            "adres": "Herderweg 8, Apeldoorn",
+            "score": 4,
+            "motivatie": "De Herderweg 8 betreft een twee-onder-een-kapwoning uit 1966 (0 punten voor bouwstijl, aangezien het geen jaren '30 stijl betreft). Er zijn geen authentieke elementen vermeld zoals paneeldeuren of en-suite (0 punten). Met een woonoppervlakte van slechts 70 m\u00b2 en een vraagprijs van \u20ac 425.000 komt dit neer op ca. \u20ac 6.071 per m\u00b2, wat fors boven de marktprijs ligt (0 punten). De achtertuin van 8,5 bij 6,5 meter biedt weliswaar enige ruimte en er is een oprit, maar door de beperkte perceelgrootte is de sauna-potentie minimaal (1 punt). De ligging is functioneel voor een gezinswoning, maar de woning past simpelweg niet bij Willem-Jans Woon-DNA qua karakter, ruimte en vierkante meterprijs (1 punt voor ligging). Totaalscore: 4/10.",
+            "buurt": "Apeldoorn",
+            "prijs": 425000,
+            "datum": "2026-10-15 19:01"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/kruizemuntstraat-148": {
+            "adres": "Kruizemuntstraat 148",
+            "score": 4,
+            "motivatie": "Deze woning scoort een 4 uit 10 op basis van het gewenste Woon-DNA:\n\n1. Bouwstijl & Vrijheid (0/2 pnt): Het betreft een standaard tussenwoning/rijtjeshuis uit 1971 (massa-bouw), zonder karakteristieke of historische elementen.\n2. Authentieke Elementen & Interieur (0/2 pnt): Geen enkel historisch detail aanwezig; geen glas-in-lood, en-suite of paneeldeuren.\n3. Prijs-Kwaliteit & Vierkante Meters (2/2 pnt): Met een vraagprijs van \u20ac 425.000 voor 122 m\u00b2 bedraagt de m\u00b2-prijs circa \u20ac 3.484 p/m\u00b2, ruim onder de norm van \u20ac 4.700. Tevens beschikt de woning over 5 slaapkamers en een goed energielabel B.\n4. Buitenruimte & Sauna-potentie (1/2 pnt): De tuin is circa 77 m\u00b2 en noordwestelijk gelegen, maar staat grotendeels vol met een stenen berging en carport/parkeerplaats, waardoor echte saunaruimte en privacy beperkt zijn.\n5. Ligging, Rust & Omgeving (1/2 pnt): Rustige, kindvriendelijke woonwijk (De Mheen), maar een typische naoorlogse nieuwbouwwijk zonder het gewenste lommerrijke of statige gevoel van Apeldoorn Noord/West.\n\nConclusie: Hoewel de prijs-kwaliteitverhouding gunstig is en het huis functioneel en ruim is (5 slaapkamers), mist het elk spoortje van het gewenste jaren '30/herenhuis-karakter.",
+            "buurt": "De Mheen (Zevenhuizen)",
+            "prijs": 425000,
+            "datum": "2026-10-15 19:02"
+        },
+        "https://www.goos.nl/woning/aristotelesstraat-49": {
+            "adres": "Aristotelesstraat 49, 7323 MJ Apeldoorn",
+            "score": 4,
+            "motivatie": "De Aristotelesstraat 49 betreft een moderne, energiezuinige gezinswoning met energielabel A+ en 4 slaapkamers. Met een woonoppervlakte van 121 m\u00b2 zit het net onder de gewenste richtlijn (125-175 m\u00b2). Het grootste minpunt voor Willem-Jans Woon-DNA is het ontbreken van de specifieke jaren '30 stijlkenmerken en authentieke elementen; het betreft hier een moderne bouwstijl (0 punten voor bouwstijl en authentieke elementen). Wel is de prijs-kwaliteitverhouding met circa \u20ac3.512 per m\u00b2 scherp (+2 punten), scoort de buitenruimte met een stenen schuur, overkapping en tuin op het zuidoosten goed (+2 punten), en is de ligging aan een groenstrook rustig (+1 punt). Dit brengt de totaalscore op 5 punten. Gezien het ontbreken van het gewenste historische karakter en iets te weinig vierkante meters, is dit niet de ideale match.",
+            "buurt": "Apeldoorn",
+            "prijs": 425000,
+            "datum": "2026-10-15 19:20"
+        },
+        "https://www.goos.nl/woning/bartelsweg-79": {
+            "adres": "Bartelsweg 79, 7311 DJ Apeldoorn",
+            "score": 6,
+            "motivatie": "De Bartelsweg 79 is een sfeervolle, vrijstaande jaren '30 woning (bouwjaar 1931) op een centrale locatie met prachtige authentieke elementen zoals een granito vloer, glas-in-lood ramen, een erker en een woonkamer en suite. Met een koopsom van \u20ac 450.000 en 107 m\u00b2 woonoppervlakte komt de prijs neer op circa \u20ac 4.205 per m\u00b2, wat zeer scherp en marktconform is voor deze regio. De woning scoort sterk op bouwstijl (vrijstaand herenhuis/woning, 2 pnt) en prijs-kwaliteit (2 pnt). Ook de buitenruimte op het zuidwesten met overkapping en stenen berging biedt mogelijkheden. Er zijn echter wel kanttekeningen: met 107 m\u00b2 zit de woning onder de wenselijke richtlijn van 125-175 m\u00b2, de energieklasse is G (ondanks HR++ glas en 9 zonnepanelen), en de ruimte voor een vrijstaande sauna in de tuin van 238 m\u00b2 totaalperceel is wat krap. Desondanks een charmante optie binnen het budget.",
+            "buurt": "Centrum / Oud Apeldoorn",
+            "prijs": 450000,
+            "datum": "2026-10-15 19:20"
+        },
+        "https://www.koningsstede.nl/woningen/kruizemuntstraat-175-apeldoorn-936649f88ccf5fff584876b41434d9fe1f0a53": {
+            "adres": "Kruizemuntstraat 175",
+            "score": 4,
+            "motivatie": "De Kruizemuntstraat 175 is een ruime tussenwoning (122 m\u00b2) in De Mheen met een scherpe m\u00b2-prijs en moderne verduurzaming zoals zonnepanelen en energielabel A+. Echter, de woning scoort nul punten op de bouwstijl en authentieke elementen: het betreft een standaard eengezinswoning uit 1971 in plaats van het door Willem-Jan gewenste karakteristieke herenhuis of jaren '30 stijlpand met glas-in-lood en paneeldeuren. Ook de noordoostelijke tuinligging en beperkte ruimte voor een sauna sluiten niet aan bij het gewenste woon-DNA. Derhalve ongeschikt.",
+            "buurt": "De Mheen",
+            "prijs": 417500,
+            "datum": "2026-10-15 19:23"
+        },
+        "https://www.koningsstede.nl/woningen/billitonlaan-30-apeldoorn-936649ca9804177d14483a9f0a3f7fa86d71ed": {
+            "adres": "Billitonlaan 30, Apeldoorn",
+            "score": 6,
+            "motivatie": "De Billitonlaan 30 is een karakteristiek vrijstaand herenhuis uit 1929 met prachtige authentieke elementen zoals een erker met glas-in-loodramen. Met een perceel van 400 m\u00b2 biedt de tuin volop mogelijkheden voor een buitensauna. De ligging aan een rustige weg in een fijne wijk is gunstig. Wel schiet de woning met 90 m\u00b2 woonoppervlakte en slechts 2 slaapkamers tekort op de richtlijn van 125-175 m\u00b2 en minimaal 3 slaapkamers. Bovendien ligt de vierkante meterprijs op basis van de woonoppervlakte rond de \u20ac7.722, wat fors boven het gemiddelde in Apeldoorn ligt. Ondanks de charme en de vrijstaande status drukt dit de matchscore naar een ruime voldoende.",
+            "buurt": "Apeldoorn",
+            "prijs": 695000,
+            "datum": "2026-10-15 19:24"
         }
     },
     "harderwijk_ermelo": {
@@ -4097,6 +4145,14 @@
             "buurt": "Stadsweiden",
             "prijs": 325000,
             "datum": "2026-10-13 20:45"
+        },
+        "https://www.bwmakelaardij.nl/woningaanbod/liesbergerhout-37": {
+            "adres": "Liesbergerhout 37, 3845 HS Harderwijk",
+            "score": 5,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 3.7 km van het centrum (-1 punten).\n\nDe woning behaalt 0 punten voor levensloopbestendigheid omdat het een standaard hoekwoning is met alle slaapkamers op de verdiepingen en geen lift of slaap-/badkamer beneden. Wel scoort de woning maximaal op afwerking en instapklare staat (3 punten), maatvoering met 126 m\u00b2 en voldoende kamers (2 punten), een klein en onderhoudsvriendelijk tuintje (1 punt), en reguliere korte-termijn beschikbaarheid (1 punt). Dit brengt de totaalscore op 6 punten. Het is een keurige, moderne en instapklare woning, maar mist de specifieke gelijkvloerse wens van Ida.",
+            "buurt": "Drielanden",
+            "prijs": 550000,
+            "datum": "2026-10-15 19:26"
         }
     },
     "moeder_harderwijk_ermelo": {
