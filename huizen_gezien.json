@@ -2807,6 +2807,22 @@
             "buurt": "Apeldoorn",
             "prijs": 339500,
             "datum": "2026-10-16 19:04"
+        },
+        "https://www.goos.nl/woning/linie-597": {
+            "adres": "Linie 597",
+            "score": 4,
+            "motivatie": "Deze maisonnette uit 2001 mist het gezochte historische Woon-DNA volledig. Er zijn geen authentieke jaren '30 stijlelementen zoals glas-in-lood, paneeldeuren of hoge plafonds aanwezig. Met 101 m\u00b2 gebruiksoppervlakte is de woning ook compacter dan de gewenste 125-175 m\u00b2, al zijn er wel 3 slaapkamers. De prijs per m\u00b2 is met ca. \u20ac 3.658,- gunstig en marktconform (< \u20ac 4.700/m\u00b2), maar de bescheiden achtertuin van ca. 40 m\u00b2 biedt weinig re\u00eble ruimte voor een sauna en er is sprake van een VvE. Osseveld-Oost is praktisch en voorzieningenrijk, maar mist de lommerrijke sfeer van Apeldoorn Noord/West. Een keurige woning, maar geen match.",
+            "buurt": "Osseveld-Oost",
+            "prijs": 369500,
+            "datum": "2026-10-17 18:17"
+        },
+        "https://vanvlietmakelaardij.nl/woning/ugchelen-klein-hattem-56": {
+            "adres": "Klein Hattem 56",
+            "score": 4,
+            "motivatie": "De woning aan de Klein Hattem 56 sluit nauwelijks aan bij het gewenste Woon-DNA. Met het bouwjaar 1980 ontbreken de gezochte vooroorlogse stijlkenmerken zoals glas-in-lood, paneeldeuren of een karakteristieke jaren '30 uitstraling volledig (0/2 voor bouwstijl en 0/2 voor authentieke elementen, ondanks de open haard). Met 122 m\u00b2 woonoppervlakte blijft de woning net onder de bandbreedte van 125-175 m\u00b2, al zijn er wel 4 slaapkamers aanwezig. De vierkantemeterprijs van circa \u20ac 4.795,- m\u00b2 is aan de stevige kant voor dit type bouw (1/2). De ligging in Ugchelen aan een rustige weg met vrij uitzicht is daarentegen een sterk pluspunt (2/2 voor ligging, 1/2 voor buitenruimte). Vanwege het complete gebrek aan historisch karakter en charme scoort dit pand een onvoldoende.",
+            "buurt": "Ugchelen",
+            "prijs": 585000,
+            "datum": "2026-10-17 18:24"
         }
     },
     "harderwijk_ermelo": {
@@ -4217,6 +4233,14 @@
             "buurt": "Drielanden",
             "prijs": 550000,
             "datum": "2026-10-15 19:26"
+        },
+        "https://www.bartjansenmakelaars.nl/woning/harderwijk-kievitmeen-95": {
+            "adres": "Kievitmeen 95",
+            "score": 5,
+            "motivatie": "De woning is een nette, goed onderhouden tussenwoning met een moderne keuken uit 2022 en een strakke afwerking op de begande grond, waardoor deze direct instapklaar is (3 punten). Met een woonoppervlakte van 112 m\u00b2 valt deze binnen de gewenste maatstaf van 100-150 m\u00b2 en biedt ruimte voor logees of hobby's (2 punten). De achtertuin met veranda is klein en onderhoudsvriendelijk (1 punt). Echter scoort de woning 0 punten op het type: het betreft een standaard gezinswoning met alle slaapkamers op de verdieping en geen gelijkvloerse slaap- en badkamer of liftoptie. De beschikbaarheid is op korte termijn in overleg (1 punt). Totaalscore: 5 punten. Dit is een comfortabele woning, maar mist het specifieke levensloopbestendige karakter dat in het Woon-DNA wordt vereist.",
+            "buurt": "Kievitmeen, Harderwijk",
+            "prijs": 475000,
+            "datum": "2026-10-17 18:26"
         }
     },
     "moeder_harderwijk_ermelo": {
