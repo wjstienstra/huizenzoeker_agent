@@ -2823,6 +2823,14 @@
             "buurt": "Ugchelen",
             "prijs": 585000,
             "datum": "2026-10-17 18:24"
+        },
+        "https://vanvlietmakelaardij.nl/woning/apeldoorn-soerenseweg-125-93": {
+            "adres": "Soerenseweg 125-93, 7313 EK Apeldoorn",
+            "score": 1,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.0 km van het centrum (-1 punten).\n\nDit appartement op de 9e woonlaag aan de Soerenseweg voldoet op geen enkel punt aan het Woon-DNA van Willem-Jan. Het betreft een portiekflat van 68 m\u00b2 met slechts 1 slaapkamer, in plaats van een herenhuis of karakteristieke helft-van-een-dubbel met minimaal 125 m\u00b2 en 3 slaapkamers. Ook ontbreken de specifieke jaren '30 stijlkenmerken en is er geen eigen grondgebonden tuin met ruimte voor een sauna. Bovendien geldt er een leeftijdsindicatie van 55+ en zijn de servicekosten fors (\u20ac 462,35 p/m). Volledige mismatch.",
+            "buurt": "Berg & Bos",
+            "prijs": 295000,
+            "datum": "2026-10-19 20:45"
         }
     },
     "harderwijk_ermelo": {
