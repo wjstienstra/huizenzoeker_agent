@@ -2831,6 +2831,38 @@
             "buurt": "Berg & Bos",
             "prijs": 295000,
             "datum": "2026-10-19 20:45"
+        },
+        "https://www.reindersmakelaars.nl/woningen/sarabandeplein-58-apeldoorn-9064190ca35ee370f34835bb0346e847aaed14": {
+            "adres": "Sarabandeplein 58, Apeldoorn",
+            "score": 3,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 3.7 km van het centrum (-1 punten).\n\nHet betreft een moderne eengezinswoning (bouwjaar 2009) in de wijk Zuidbroek en sluit daarmee qua bouwstijl (standaard rijtjeshuis/tussenwoning) en ontbreken van historische elementen (zoals glas-in-lood of paneeldeuren) totaal niet aan bij Willem-Jans Woon-DNA. Hoewel de woning qua vierkante meters (122 m2) en prijs (\u20ac 480.000) gunstig is en beschikt over een fijne ligging met uitzicht op een park, is dit absoluut niet het type woning waar hij naar op zoek is.",
+            "buurt": "Zuidbroek",
+            "prijs": 480000,
+            "datum": "2026-10-20 19:18"
+        },
+        "https://www.koningsstede.nl/woningen/woudhuizerweg-59-apeldoorn-9366493aaed0dbe8d84c09bbb66ea57be47b0f": {
+            "adres": "Woudhuizerweg 59",
+            "score": 2,
+            "motivatie": "Deze woning overschrijdt het maximumbudget van Willem-Jan (\u20ac 900.000) aanzienlijk met een vraagprijs van \u20ac 1.395.000. Bovendien betreft het een bouwjaar uit 1994 (geen jaren '30 stijl) en is de woning ingericht als landelijk object met paardenvoorzieningen en een minicamping, wat totaal niet aansluit bij het gewenste Woon-DNA.",
+            "buurt": "Het Woldhuis",
+            "prijs": 1395000,
+            "datum": "2026-10-20 19:22"
+        },
+        "https://www.koningsstede.nl/woningen/snijdersplaats-203-apeldoorn-9366490f46aef3451a4686aba29d2939dc2f01": {
+            "adres": "Snijdersplaats 203",
+            "score": 1,
+            "motivatie": "Dit tweekamerappartement past op geen enkele manier bij Willem-Jans Woon-DNA. Met een woonoppervlakte van slechts 55 m\u00b2, 1 slaapkamer, bouwjaar 1978 en een totaal ontbreken van historische kenmerken of een eigen grondtuin met sauna-potentie is dit een volstrekte misser. Het is bovendien een portiekflat in plaats van een karakteristiek herenhuis.",
+            "buurt": "Matenhorst",
+            "prijs": 250000,
+            "datum": "2026-10-20 19:23"
+        },
+        "https://www.koningsstede.nl/woningen/elzenlaan-13-apeldoorn-9366496a39416b6ec7426a9f7c52db296bf4a9": {
+            "adres": "Elzenlaan 13, Apeldoorn",
+            "score": 5,
+            "motivatie": "Deze schitterende vrijstaande villa in Berg en Bos scoort uitstekend op het gebied van vrijheid, buitenruimte met sauna-potentie (eiken tuinhuis) en ligging in het groen. Ook de sfeervolle gashaard is aanwezig. Echter, met een vraagprijs van \u20ac 1.695.000 en 259 m\u00b2 woonoppervlakte komt de m\u00b2-prijs uit op ca. \u20ac 6.544, overschrijdt het maximale budget van \u20ac 900.000 ruimschoots en betreft het een bouwjaar uit 2017 in plaats van de gewenste jaren '30 stijl. Daardoor valt deze woning ver buiten de financi\u00eble en stijlcriteria van Willem-Jan.",
+            "buurt": "Berg en Bos",
+            "prijs": 1695000,
+            "datum": "2026-10-20 19:23"
         }
     },
     "harderwijk_ermelo": {
@@ -4249,6 +4281,14 @@
             "buurt": "Kievitmeen, Harderwijk",
             "prijs": 475000,
             "datum": "2026-10-17 18:26"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-simon-vestdijkstraat-6": {
+            "adres": "Simon Vestdijkstraat 6, 3842 LL Harderwijk",
+            "score": 5,
+            "motivatie": "De woning scoort goed op het gebied van instapklare afwerking, woonoppervlakte (131 m\u00b2) en de gunstige, onderhoudsvriendelijke buitenruimte met serre. Ook de beschikbaarheid is direct in orde en de prijs valt ruim binnen het budget (\u20ac 525.000). Echter betreft dit een standaardtussenwoning met slaapkamers op de verdiepingen en ontbreekt een lift of volledige levensloopbestendige indeling (0 punten voor type), waardoor de totaalscore uitkomt op 5 punten.",
+            "buurt": "Het Dichterskwartier",
+            "prijs": 525000,
+            "datum": "2026-10-20 19:29"
         }
     },
     "moeder_harderwijk_ermelo": {
