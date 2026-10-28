@@ -2983,6 +2983,14 @@
             "buurt": "Beekbergen",
             "prijs": 409000,
             "datum": "2026-10-27 20:51"
+        },
+        "https://www.wittewoningmakelaars.nl/woningaanbod/koop/apeldoorn/warenargaarde/532": {
+            "adres": "Warenargaarde 532, 7329 GL Apeldoorn",
+            "score": 5,
+            "motivatie": "Deze woning uit 1984 mist het specifieke jaren '30 karakter en de historische elementen die Willem-Jan zoekt (0 punten). Ook qua woonoppervlakte (111 m\u00b2) zit het onder de gewenste richtlijn van 125-175 m2 (0 punten voor m2-prijs van ca. \u20ac 4.054 p/m\u00b2 hoewel deze qua budget en prijs wel gunstig is). De ligging aan het Matenpark en de aanwezigheid van een achtertuin scoren wel punten voor de omgeving en buitenruimte. Al met al past deze moderne eengezinswoning qua stijl onvoldoende bij het gewenste Woon-DNA.",
+            "buurt": "De Maten",
+            "prijs": 450000,
+            "datum": "2026-10-28 20:51"
         }
     },
     "harderwijk_ermelo": {
@@ -4633,6 +4641,22 @@
             "buurt": "Harderwijk",
             "prijs": null,
             "datum": "2026-10-24 18:54"
+        },
+        "https://www.bwmakelaardij.nl/woningaanbod/eikenlaan-13": {
+            "adres": "Eikenlaan 13, 3851 PS Ermelo",
+            "score": 5,
+            "motivatie": "De woning scoort positief op het levensloopbestendige aspect dankzij de slaap- en badkamer op de begane grond (3 punten). De buitenruimte met een verzorgde tuin is eveneens passend (1 punt). Wat betreft de beschikbaarheid is deze op korte termijn te aanvaarden (1 punt). Echter scoort de woning zwaar onvoldoende op het gebied van maatvoering met een woonoppervlakte van 99 m\u00b2 (valt net onder de ondergrens van 100 m\u00b2) en de staat van afwerking, aangezien het pand gedateerd is, een F-label heeft en verkocht wordt met een 'as-is-where-is' en niet-zelfbewoningsclausule (0 punten). Dit vraagt om ingrijpende modernisering, wat niet past bij de wens voor een instapklare woning. Totaalscore komt hiermee op 5 punten.",
+            "buurt": "Centrum / Branderskamp",
+            "prijs": 745000,
+            "datum": "2026-10-28 20:53"
+        },
+        "https://www.bartjansenmakelaars.nl/woningen/j-p-heyelaan-21-harderwijk-44104bfb8ee651ac044699dacb230b6c5d0f1": {
+            "adres": "J.P. Heyelaan 21, Harderwijk",
+            "score": 5,
+            "motivatie": "Deze woning scoort op een aantal punten goed: de afwerking is modern en instapklaar (3 punten) en de beschikbaarheid is op korte termijn (1 punt). Echter betreft het een standaard gezinswoning met alle slaapkamers op de verdieping zonder liftoptie (0 punten), valt de woonoppervlakte van 90 m\u00b2 (exclusief 13 m\u00b2 overige inpandige ruimte) net onder de gewenste richtlijn van 100-150 m\u00b2 (1 punt), en heeft de woning een achtertuin in plaats van een klein onderhoudsvriendelijk tuintje of royaal balkon (0 punten). Dit brengt de totaalscore op 5 punten. Het is geen levensloopbestendige woning of appartement zoals Ida zoekt, maar een traditionele eengezinswoning.",
+            "buurt": "Stadsdennen",
+            "prijs": 450000,
+            "datum": "2026-10-28 20:53"
         }
     },
     "moeder_harderwijk_ermelo": {
