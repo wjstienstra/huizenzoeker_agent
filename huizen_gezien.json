@@ -2991,6 +2991,22 @@
             "buurt": "De Maten",
             "prijs": 450000,
             "datum": "2026-10-28 20:51"
+        },
+        "https://www.goos.nl/woning/beiaardiershoeve-426": {
+            "adres": "Beiaardiershoeve 426",
+            "score": 2,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.1 km van het centrum (-1 punten).\n\nDeze woning scoort een 3 uit 10 en sluit niet aan bij het gezochte Woon-DNA:\n\n1. Bouwstijl & Vrijheid (0/2 pnt): Een standaard tussenwoning/rijtjeshuis in een typische jaren '70/'80 woonerfwijk (De Maten). Geen vrijheid of historisch karakter.\n2. Authentieke Elementen & Interieur (0/2 pnt): Volledig afwezig; geen glas-in-lood, paneeldeuren, en-suite of jaren '30 uitstraling. Het interieur is modern en strak afgewerkt.\n3. Prijs-Kwaliteit & Vierkante Meters (2/2 pnt): De vraagprijs bedraagt \u20ac 395.000,- voor 110 m\u00b2, wat neerkomt op ca. \u20ac 3.590,- per m\u00b2. Dit is ruim onder de \u20ac 4.700,- per m\u00b2, dus qua prijsstelling scherp/marktconform. De oppervlakte (110 m\u00b2) ligt echter onder de gewenste bandbreedte (125-175 m\u00b2), al zijn er wel 4 slaapkamers aanwezig.\n4. Buitenruimte & Sauna-potentie (0/2 pnt): Het perceel is met 159 m\u00b2 compact. De achtertuin op het zuidwesten biedt weinig privacy en amper re\u00eble fysieke ruimte voor een sauna zonder de tuin volledig vol te bouwen.\n5. Ligging, Rust & Omgeving (1/2 pnt): Rustig gelegen aan een autoluw woonerf met groen en voorzieningen nabij, maar het betreft Apeldoorn Zuidoost (De Maten) in plaats van de gewilde historische en lommerrijke wijken in Apeldoorn Noord of West.",
+            "buurt": "De Maten (Hoeven)",
+            "prijs": 395000,
+            "datum": "2026-10-29 20:58"
+        },
+        "https://advies.alpina.nl/makelaardij/woningaanbod/anna-paulowna-molengang-170": {
+            "adres": "Molengang 170",
+            "score": 1,
+            "motivatie": "Dit betreft een appartement in Anna Paulowna (buiten de regio Apeldoorn) en voldoet in niets aan het Woon-DNA van Willem-Jan. Het is geen karakteristiek herenhuis of jaren '30 woning, heeft een woonoppervlakte van slechts 76 m\u00b2 (in plaats van 125-175 m\u00b2) en mist de gewenste ruimte en historische elementen. Bovendien is de vierkante meterprijs fors (\u20ac 4.605,- per m\u00b2). Dit object is volstrekt ongeschikt.",
+            "buurt": "Centrum Anna Paulowna",
+            "prijs": 350000,
+            "datum": "2026-10-29 21:00"
         }
     },
     "harderwijk_ermelo": {
@@ -4657,6 +4673,14 @@
             "buurt": "Stadsdennen",
             "prijs": 450000,
             "datum": "2026-10-28 20:53"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/tijmlaan-78-ermelo-18640": {
+            "adres": "Tijmlaan 78, Ermelo",
+            "score": 5,
+            "motivatie": "De woning scoort op type 3 punten dankzij de reeds aanwezige extra kamer op de begane grond (mogelijkheid voor slaap/badkamer). Voor maatvoering scoort het 2 punten (137 m\u00b2 woonoppervlak) en voor buitenruimte 1 punt (onderhoudsvriendelijke U-vormige tuin/terrasruimte). Ook de beschikbaarheid levert 1 punt op. Echter, op staat van afwerking scoort dit huis 0 punten: de omschrijving vermeldt expliciet dat de woning 'naar eigen wens te moderniseren' is en een gedateerde inrichting of moderniseringsbehoefte kent, wat niet past bij de instapklare wens van Ida. Dit brengt de totaalscore op 5 punten.",
+            "buurt": "Ermelo",
+            "prijs": 719500,
+            "datum": "2026-10-29 21:03"
         }
     },
     "moeder_harderwijk_ermelo": {
