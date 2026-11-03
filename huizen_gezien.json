@@ -3095,6 +3095,38 @@
             "buurt": "Berg & Bos",
             "prijs": 1195000,
             "datum": "2026-11-02 23:32"
+        },
+        "https://www.goos.nl/woning/molendwarsstraat-76": {
+            "adres": "Molendwarsstraat 76, 7311 PV Apeldoorn",
+            "score": 2,
+            "motivatie": "Dit moderne appartement uit 2004 past op geen enkele manier bij het Woon-DNA van Willem-Jan. Het mist elk historisch karakter (geen glas-in-lood of hoge plafonds), heeft slechts 82 m\u00b2 woonoppervlakte (ver beneden de richtlijn van 125-175 m\u00b2), telt maar 2 slaapkamers en mist een eigen tuin met sauna-potentie volledig. Weliswaar keurig met een energielabel A+, maar volstrekt ongeschikt voor de specifieke woonwensen.",
+            "buurt": "Centrum",
+            "prijs": 375000,
+            "datum": "2026-11-03 21:15"
+        },
+        "https://www.goos.nl/woning/woudhuizerallee-14": {
+            "adres": "Woudhuizerallee 14, 7325 ZP Apeldoorn",
+            "score": 5,
+            "motivatie": "Woudhuizerallee 14 betreft een moderne en zeer energiezuinige (label A+) 2-onder-1-kapwoning in de wijk Woudhuis met een woonoppervlakte van 135 m\u00b2 en een perceel van 255 m\u00b2. De vraagprijs bedraagt \u20ac 629.500, wat neerkomt op ca. \u20ac 4.663 per m\u00b2 woonoppervlakte \u2013 keurig marktconform voor Apeldoorn. De puntenverdeling is als volgt: 1. Bouwstijl & Vrijheid (1 pnt): het betreft een moderne helft-van-een-dubbel met oprit en garage. 2. Authentieke Elementen (0 pnt): de woning is modern en strak afgewerkt, er is sprake van een houtkachel maar geen klassieke jaren '30 stijlkenmerken of paneeldeuren. 3. Prijs-Kwaliteit (2 pnt): scherpe prijs per m\u00b2 gecombineerd met uitstekende verduurzaming (zonnepanelen, warmtepomp, label A+). 4. Buitenruimte (1 pnt): zonnige achtertuin op het zuidwesten met serre, hoewel de ruimte voor een sauna beperkt is door de perceelgrootte van 255 m\u00b2. 5. Ligging (1 pnt): gelegen aan een allee in een kindvriendelijke wijk met goede voorzieningen nabij, maar mist de specifieke historische beslotenheid van Apeldoorn Noord/West. Dit brengt de totaalscore op 5 van de 10 punten. Hoewel het een comfortabel en toekomstbestendig gezinshuis is, sluit het qua bouwstijl en uitstraling minder aan bij het specifieke klassieke Woon-DNA van Willem-Jan.",
+            "buurt": "Woudhuis",
+            "prijs": 629500,
+            "datum": "2026-11-03 21:15"
+        },
+        "https://www.goos.nl/woning/wolwevershorst-119": {
+            "adres": "Wolwevershorst 119, 7328 NW Apeldoorn",
+            "score": 5,
+            "motivatie": "Deze woning in De Maten scoort punten op ruimte (144 m\u00b2, 5 slaapkamers) en een gunstige prijs-kwaliteitverhouding (ca. \u20ac3.816 per m\u00b2, ruim onder het Apeldoornse gemiddelde). Ook de diepe, zonnige achtertuin grenzend aan een groenstrook met ruimte voor een sauna is een pluspunt. Echter, de woning mist volledig de historische kenmerken uit Willem-Jans Woon-DNA: het is een halfvrijstaande woning uit een latere bouwperiode (geen jaren '30 stijl, geen glas-in-lood of paneeldeuren) en de ligging in De Maten past minder bij zijn voorkeur voor Noord of West. Qua sfeer sluit het onvoldoende aan.",
+            "buurt": "De Maten",
+            "prijs": 549500,
+            "datum": "2026-11-03 21:15"
+        },
+        "https://advies.alpina.nl/makelaardij/woningaanbod/emmeloord-klaproos-2-10-ong": {
+            "adres": "Klaproos 2-10 ong",
+            "score": 1,
+            "motivatie": "Dit betreft een nieuwbouwappartement in Emmeloord in plaats van een karakteristiek herenhuis of jaren '30 woning in Apeldoorn. Met slechts 78m2 woonoppervlakte, 2 slaapkamers en een totaal gebrek aan historische elementen of ruimte voor een sauna, past dit op geen enkele manier bij het Woon-DNA van Willem-Jan. Bovendien valt het buiten de regio Apeldoorn.",
+            "buurt": "Emmeloord ('t Rozenhof)",
+            "prijs": 367500,
+            "datum": "2026-11-03 21:17"
         }
     },
     "harderwijk_ermelo": {
