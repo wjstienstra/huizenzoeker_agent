@@ -3127,6 +3127,46 @@
             "buurt": "Emmeloord ('t Rozenhof)",
             "prijs": 367500,
             "datum": "2026-11-03 21:17"
+        },
+        "https://www.reindersmakelaars.nl/woningen/stadskade-256-apeldoorn-906419c1440c7a1f414d01acc28b688eba0468": {
+            "adres": "Stadskade 256",
+            "score": 2,
+            "motivatie": "Dit appartement (Stadskade 256) wijkt in vrijwel alle opzichten af van Willem-Jans Woon-DNA. Het betreft een portiekflat uit 2003 in plaats van een karakteristiek jaren '30 herenhuis, hoekwoning of helft-van-een-dubbel (0 pnt). Er zijn geen authentieke elementen zoals glas-in-lood of paneeldeuren aanwezig (0 pnt). Met 101 m\u00b2 woonoppervlakte en een vraagprijs van \u20ac 425.000 komt dit neer op ca. \u20ac 4.208 per m\u00b2, wat qua prijs per vierkante meter netjes is, maar de woning is te klein en mist de gewenste ruimte (1 pnt). Er is geen eigen tuin met ruimte voor een sauna, slechts een inpandig balkon van 11 m\u00b2 (0 pnt). De ligging aan het kanaal in het centrum is praktisch, maar past niet bij de gezochte rust en vrijheid (1 pnt). Totaalscore: 2 punten. Niet geschikt.",
+            "buurt": "Centrum / Apeldoorns Kanaal",
+            "prijs": 425000,
+            "datum": "2026-11-04 21:19"
+        },
+        "https://www.goos.nl/woning/hoenderparkweg-78-2": {
+            "adres": "Hoenderparkweg 78, 7335 GV Apeldoorn",
+            "score": 5,
+            "motivatie": "De Hoenderparkweg 78 is een karakteristieke 2-onder-1-kapwoning uit 1914 in de wijk Westenenk met een sfeervolle open haard en een prachtig bijgebouw met zolder dat perfect is voor een sauna of hobbyruimte. Met een woonoppervlakte van 78 m\u00b2 zit deze woning echter fors onder de richtlijn van Willem-Jan (125-175 m\u00b2), wat resulteert in een hoge vierkante meterprijs (ruim \u20ac5.100 p/m\u00b2 op basis van de woonoppervlakte). Ondanks de charmante afwerking en de fijne tuin op het zuidwesten, is het woonoppervlak voor dit budget te beperkt.",
+            "buurt": "Westenenk",
+            "prijs": 400000,
+            "datum": "2026-11-04 21:19"
+        },
+        "https://www.goos.nl/woning/raadsherenveld-203": {
+            "adres": "Raadsherenveld 203, 7327 EV Apeldoorn",
+            "score": 2,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.0 km van het centrum (-1 punten).\n\nDe woning aan het Raadsherenveld 203 is een moderne en goed onderhouden tussenwoning in De Maten, maar past totaal niet bij het Woon-DNA van Willem-Jan. Met een bouwjaar uit 1976 mist het volledig het gewenste karakter (jaren '30 stijl, glas-in-lood, paneeldeuren). Daarnaast valt het woonoppervlak van 90 m\u00b2 ruim onder de richtlijn van 125-175 m\u00b2, en is de perceeloppervlakte van 115 m\u00b2 te krap voor de wenselijke ruimte rondom en een sauna. De vraagprijs van \u20ac 385.000 komt neer op ruim \u20ac 4.277 per m\u00b2, wat qua prijs per vierkante meter marktconform is, maar de woning biedt simpelweg niet de historische charme en ruimte waar naar gezocht wordt.",
+            "buurt": "De Maten",
+            "prijs": 385000,
+            "datum": "2026-11-04 21:19"
+        },
+        "https://advies.alpina.nl/makelaardij/woningaanbod/emmeloord-klaproos-2-14-ong": {
+            "adres": "Klaproos 2-14 ong",
+            "score": 2,
+            "motivatie": "Deze woning past op geen enkel belangrijk punt bij het Woon-DNA van Willem-Jan. Het betreft een nieuwbouw tussenwoning in Emmeloord (buiten de regio Apeldoorn) met slechts 104 m2 woonoppervlakte, ver onder de gewenste richtlijn van 125-175 m2. Bovendien ontbreken alle authentieke elementen zoals glas-in-lood of paneeldeuren volledig vanwege het moderne nieuwbouwkarakter. Hoewel de prijs per m2 scherp is en er een tuin op het zuiden aanwezig is, is de match nihil.",
+            "buurt": "\u2019t Rozenhof, Emmeloord",
+            "prijs": 390000,
+            "datum": "2026-11-04 21:21"
+        },
+        "https://www.wittewoningmakelaars.nl/woningaanbog/koop/apeldoorn/leidekkersdreef/13": {
+            "adres": "Onbekend (Pagina niet gevonden / Foutieve invoer)",
+            "score": 1,
+            "motivatie": "De opgegeven tekst betreft een foutmelding ('Pagina niet gevonden') van een website in plaats van een specifieke woningbeschrijving. Er kan op basis hiervan geen enkele woning worden beoordeeld of gekoppeld aan het Woon-DNA van Willem-Jan.",
+            "buurt": "Onbekend",
+            "prijs": null,
+            "datum": "2026-11-04 21:23"
         }
     },
     "harderwijk_ermelo": {
