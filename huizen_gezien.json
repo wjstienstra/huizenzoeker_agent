@@ -3167,6 +3167,30 @@
             "buurt": "Onbekend",
             "prijs": null,
             "datum": "2026-11-04 21:23"
+        },
+        "https://www.reindersmakelaars.nl/woningen/het-sparrenbos-53-apeldoorn-906419e4ec2e44b912467e8f798cd75fa5ad69": {
+            "adres": "Het Sparrenbos 53",
+            "score": 5,
+            "motivatie": "Het Sparrenbos 53 is een moderne, zeer energiezuinige hoekwoning (2011) met 139 m\u00b2 woonruimte en 5 slaapkamers in de wijk Zonnehoeve. Qua ruimte en duurzaamheid (energielabel A++, grondwarmtepomp, 20 zonnepanelen) scoort de woning uitstekend en met een vraagprijs van \u20ac 550.000 ligt de m\u00b2-prijs rond de \u20ac 3.956, wat zeer scherp is. Echter, de woning mist volledig de authentieke elementen en de specifieke jaren '30 bouwstijl (geen glas-in-lood of paneeldeuren) die Willem-Jan zoekt; het betreft hier moderne stadsbouw in plaats van historisch karakter. De tuin en ligging zijn prima, maar door het ontbreken van het gewenste Woon-DNA op het gebied van bouwstijl en karakter blijft de match steken op een gemiddelde score.",
+            "buurt": "Zonnehoeve",
+            "prijs": 550000,
+            "datum": "2026-11-05 21:39"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/zadelmakersdonk-435-apeldoorn-93498455db9c1cef5e4349a73b13888c458845": {
+            "adres": "Zadelmakersdonk 435",
+            "score": 1,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 3.9 km van het centrum (-1 punten).\n\nDeze woning is een tussenwoning uit 1974 met een woonoppervlakte van slechts 1 m\u00b2 (statistiekregistratie of onvolledige data, maar voldoet in geen enkel opzicht aan het Woon-DNA van Willem-Jan). Geen jaren '30 stijl, geen ruimte en reeds verkocht onder voorbehoud. Absoluut ongeschikt.",
+            "buurt": "Apeldoorn",
+            "prijs": null,
+            "datum": "2026-11-05 21:40"
+        },
+        "https://www.koningsstede.nl/woningen/jonaserf-17-wenum-wiesel-9366499e1becd1903b43f6bda76e6dabff0939": {
+            "adres": "Jonaserf 17",
+            "score": 1,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 8.9 km van het centrum (-8 punten).\n\nDe vraagprijs van \u20ac 995.000 overschrijdt het maximale budget van \u20ac 900.000. Daarnaast betreft het een moderne bouw uit 2017 in plaats van de gewenste historische jaren '30 stijl, waardoor authentieke elementen ontbreken. Hoewel de ruimte (158 m2) en de royale tuin met sauna-potentie goed aansluiten, zorgen het budgetoverschrijding en het ontbreken van het Woon-DNA voor een lage match.",
+            "buurt": "Wenum Wiesel",
+            "prijs": 995000,
+            "datum": "2026-11-05 21:42"
         }
     },
     "harderwijk_ermelo": {
