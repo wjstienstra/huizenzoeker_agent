@@ -3191,6 +3191,62 @@
             "buurt": "Wenum Wiesel",
             "prijs": 995000,
             "datum": "2026-11-05 21:42"
+        },
+        "https://www.reindersmakelaars.nl/woningen/boswachtersveld-403-apeldoorn-9064198a2a482e3df445ff8aa115e513c8288b": {
+            "adres": "Boswachtersveld 403",
+            "score": 2,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.4 km van het centrum (-2 punten).\n\nDe woning aan de Boswachtersveld 403 scoort onvoldoende op het Woon-DNA van Willem-Jan. Het betreft een geschakelde hoekwoning uit 1979 in De Matenvelden, wat betekent dat het karakteristieke jaren '30 elementen zoals glas-in-lood en paneeldeuren volledig ontbreken (Bouwstijl & Vrijheid: 0 pnt; Authentieke Elementen: 0 pnt). Hoewel de prijs-kwaliteitverhouding met 126 m\u00b2 woonoppervlakte en een vraagprijs van \u20ac 425.000 (\u20ac 3.373 p/m\u00b2) zeer scherp is en de achtertuin op het zuidwesten op zich voldoende ruimte biedt (Prijs-Kwaliteit: 2 pnt; Buitenruimte: 1 pnt), past de standaard massa-bouw en het ontbreken van historische charme simpelweg niet bij de woonspecificaties. De ligging in een rustig hofje is prettig (Ligging: 1 pnt), maar de totaalscore blijft steken op een teleurstellende 4.",
+            "buurt": "De Matenvelden",
+            "prijs": 425000,
+            "datum": "2026-11-11 22:34"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/jan-van-goyenlaan-2-apeldoorn-934984863892a5848f44969fdb2816856bdaf8": {
+            "adres": "Jan van Goyenlaan 2, Apeldoorn",
+            "score": 5,
+            "motivatie": "De woning is prachtig gemoderniseerd vanaf 2023 en biedt vrijstaande charme in de wijk Orden nabij het bos. Met een vraagprijs van \u20ac 450.000 voor 89 m\u00b2 komt de m\u00b2-prijs op ca. \u20ac 5.056, oordeel: fors aan de prijs per vierkante meter en met 89 m\u00b2 beduidend kleiner dan de gewenste richtlijn van 125-175 m\u00b2. Hoewel de afwerking en de besloten tuin met garage pluspunten zijn, schiet het qua woonoppervlakte en authenticiteit (bouwjaar 1955, geen echte jaren '30 stijl of harde bewijzen van klassieke elementen) flink te kort op het Woon-DNA.",
+            "buurt": "Orden",
+            "prijs": 450000,
+            "datum": "2026-11-11 22:35"
+        },
+        "https://www.goos.nl/woning/vlietweg-29": {
+            "adres": "Vlietweg 29, 7335 JE Apeldoorn",
+            "score": 5,
+            "motivatie": "De Vlietweg 29 is een ruime hoekwoning met een royaal perceel (384 m\u00b2) en een diepe tuin met overkapping die voldoende ruimte biedt voor een sauna. Ook de 5 slaapkamers voldoen aan de wensen. Echter, met een bouwjaar uit 1983 mist de woning het specifieke 'jaren '30' karakter (geen glas-in-lood of paneeldeuren) en valt het met 113 m\u00b2 woonoppervlakte onder de gewenste richtlijn van 125-175 m\u00b2. De vierkante meterprijs bedraagt circa \u20ac 4.155,- wat scherp is, maar door het ontbreken van authentieke elementen en de beperktere woonoppervlakte scoort dit pand onvoldoende op Willem-Jans Woon-DNA.",
+            "buurt": "Groene woonomgeving nabij bossen",
+            "prijs": 469500,
+            "datum": "2026-11-11 22:35"
+        },
+        "https://www.goos.nl/woning/pinksterbloem-67": {
+            "adres": "Pinksterbloem 67, 7322 GS Apeldoorn",
+            "score": 4,
+            "motivatie": "De woning in Zevenhuizen biedt met 126 m\u00b2 woonoppervlakte en 4 slaapkamers voldoende ruimte en heeft een scherpe m\u00b2-prijs van circa \u20ac3.571 (exclusief garage), wat ruim onder het Apeldoornse gemiddelde ligt. Toch past deze woning onvoldoende bij het Woon-DNA van Willem-Jan. Het betreft een geschakelde twee-onder-een-kapwoning uit 1984 (standaard massa-bouw, 0 punten voor bouwstijl) en er is geen sprake van authentieke historische elementen zoals jaren '30 stijl, glas-in-lood of paneeldeuren (0 punten). De houtkachel is een plus, maar compacter het gemis aan karakter niet. Hoewel de tuin op het westen ligt, is de totale score door het ontbreken van het gewenste historische karakter te laag voor een serieuze aankoop.",
+            "buurt": "Zevenhuizen",
+            "prijs": 450000,
+            "datum": "2026-11-11 22:36"
+        },
+        "https://www.goos.nl/woning/sartrestraat-48-2": {
+            "adres": "Sartrestraat 48, 7323 GV Apeldoorn",
+            "score": 4,
+            "motivatie": "De woning is uitstekend gemoderniseerd, heeft voldoende slaapkamers (4) en valt binnen het oppervlaktebereik (132 m\u00b2 wonen), maar mist volledig het historische karakter van Willem-Jans Woon-DNA (bouwjaar 1968, tussenwoning zonder glas-in-lood of paneeldeuren). De prijs per vierkante meter bedraagt circa \u20ac 3.330, wat zeer scherp is, maar het ontbreken van de specifieke stijlkenmerken en de beperkte perceelgrootte (166 m\u00b2) voor een sauna maken dit geen ideale match.",
+            "buurt": "Zevenhuizen",
+            "prijs": 439500,
+            "datum": "2026-11-11 22:36"
+        },
+        "https://www.koningsstede.nl/woningen/honingzwam-17-apeldoorn-93664990bb1482c49448928f2197fb4f100478": {
+            "adres": "Honingzwam 17, Apeldoorn",
+            "score": 3,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.5 km van het centrum (-2 punten).\n\nHoningzwam 17 is een moderne eengezinswoning uit 2013 in de wijk Zuidbroek met een woonoppervlakte van 145 m\u00b2 en vijf slaapkamers, wat ruimoldoet aan de wooneisen qua ruimte. De prijs per vierkante meter bedraagt circa \u20ac 3.928, wat zeer gunstig is ten opzichte van het gemiddelde in Apeldoorn. De woning scoort echter nul punten op de bouwstijl (standaard rijtjeshuis/massa-bouw uit 2013) en mist de gewenste historische, authentieke elementen zoals glas-in-lood of paneeldeuren uit de jaren '30 stijl. Hoewel de tuin op het zuidwesten zonnig is en ruimte biedt voor een berging, sluit dit moderne nieuwbouwtype fundamenteel niet aan bij het specifieke Woon-DNA van Willem-Jan.",
+            "buurt": "Zuidbroek",
+            "prijs": 569500,
+            "datum": "2026-11-11 22:37"
+        },
+        "https://www.koningsstede.nl/woningen/barnewinkel-720-apeldoorn-936649c0d421f1baf04504b92be92e54d42897": {
+            "adres": "Barnewinkel 720",
+            "score": 3,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.3 km van het centrum (-1 punten).\n\nDe woning aan de Barnewinkel 720 betreft een standaard tussenwoning uit 1977 (0 punten voor bouwstijl) en mist de specifieke historische jaren '30 elementen zoals glas-in-lood en paneeldeuren (0 punten voor authentieke elementen). Met een woonoppervlakte van 117 m\u00b2 en een vraagprijs van \u20ac 425.000 komt dit neer op ca. \u20ac 3.632 per m\u00b2, wat prijstechnisch erg gunstig is (+2 punten). De tuin is voorzien van een overkapping en biedt mogelijkheden, al is de perceeloppervlakte met 165 m\u00b2 wat beperkt voor een royale sauna (+1 punt). De ligging in een groene woonwijk aan een rustige weg scoort redelijk (+1 punt). Dit brengt de totaalscore op 4 van de 10 punten. Hoewel de prijs-kwaliteitverhouding aantrekkelijk is, sluit deze typische jaren '70 tussenwoning onvoldoende aan bij het karakteristieke Woon-DNA van Willem-Jan.",
+            "buurt": "Apeldoorn",
+            "prijs": 425000,
+            "datum": "2026-11-11 22:37"
         }
     },
     "harderwijk_ermelo": {
@@ -4897,6 +4953,94 @@
             "buurt": "Veldkamp / Centrum-gebied",
             "prijs": 525000,
             "datum": "2026-10-30 20:46"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/palmbosweg-12-66-ermelo-19891": {
+            "adres": "Palmbosweg 12 66, Ermelo",
+            "score": 2,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 5.5 km van het centrum (-3 punten).\n\nDe woning is gelijkvloers (bungalow, 3 punten) en modern afgerond en instapklaar (3 punten), wat goed aansluit bij de wensen. Echter scoort de woning op maatvoering slechts 0 punten, aangezien het woonoppervlak met 60 m\u00b2 ver onder de richtlijn van 100-150 m\u00b2 ligt. Daarnaast betreft het een recreatiewoning, wat niet volledig past bij een reguliere permanente woonwens voor Ida. De buitenruimte (1 punt) en beschikbaarheid (1 punt) zijn wel in orde. Totaalscore komt hiermee op 5 punten.",
+            "buurt": "Ermelo",
+            "prijs": 250000,
+            "datum": "2026-11-11 22:38"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/chansondreef-25-harderwijk-20389": {
+            "adres": "Chansondreef 25, Harderwijk",
+            "score": 4,
+            "motivatie": "Deze woning scoort punten op het gebied van instapklare afwerking (gemoderniseerd in 2025 met pvc-vloeren en stucwerk), de woonoppervlakte van 125 m\u00b2 en de onderhoudsvriendelijke tuin van 40 m\u00b2 op het zuiden. Echter, het betreft een eengezinswoning (tussenwoning) met maar liefst 4 woonlagen en slaapkamers op de verdiepingen, wat niet past bij de levensloopbestendige wensen (geen slaap-/badkamer beneden en geen lift). Hierdoor valt dit type woning buiten het primaire profiel voor Ida.",
+            "buurt": "Drielanden",
+            "prijs": 496500,
+            "datum": "2026-11-11 22:38"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/dotterbloempad-6-harderwijk-19892": {
+            "adres": "Dotterbloempad 6, Harderwijk",
+            "score": 4,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.0 km van het centrum (-1 punten).\n\nDe woning scoort maximaal op afwerking (bouwjaar 2020, modern en instapklaar), maatvoering (122 m\u00b2) en beschikbaarheid. Echter valt het type woning tegen: het betreft een standaard tussenwoning met alle slaapkamers op de verdieping en geen lift of gelijkvloerse slaap- en badkamer (0 punten voor type). De buitenruimte is een achtertuin, maar het ontbreken van levensloopbestendigheid maakt dat dit object niet volledig aansluit op het woondna.",
+            "buurt": "Drielanden",
+            "prijs": 549500,
+            "datum": "2026-11-11 22:38"
+        },
+        "https://www.janvandenberg-makelaar.nl/woningen/de-la-reystraat-146-ermelo-93949231ed490cadaa44d18b82caf444fe4b90": {
+            "adres": "De la Reystraat 146, Ermelo",
+            "score": 5,
+            "motivatie": "Deze woning scoort op een aantal punten niet optimaal volgens het Woon-DNA van Ida. Het betreft een standaard eengezinswoning (tussenwoning) met alle slaapkamers op de verdiepingen en geen lift of gelijkvloerse slaap- en badkamer (0 punten). Daarnaast is de badkamer gedateerd (1 punt). De woonoppervlakte van 151 m\u00b2 valt net buiten de ideale bandbreedte van 100-150 m\u00b2 (1 punt), al is er wel ruimte genoeg. De buitenruimte (zonnige tuin op het zuiden) en de beschikbaarheid zijn wel in orde (samen 2 punten). De totaalscore komt hiermee uit op 5 punten.",
+            "buurt": "Ermelo",
+            "prijs": 479000,
+            "datum": "2026-11-11 22:39"
+        },
+        "https://www.janvandenberg-makelaar.nl/woningen/torenlaan-20-ermelo-939492629ac4b9159048f9868f5e1dc7afe8fe": {
+            "adres": "Torenlaan 20, Ermelo",
+            "score": 5,
+            "motivatie": "Deze vrijstaande jaren 30-woning scoort punten op het gebied van maatvoering (134 m\u00b2), de moderne afwerking en het uitstekende energielabel (A+ met warmtepomp). Echter sluit de woning niet aan op de belangrijkste criteria van het Woon-DNA: het betreft een standaard gezinswoning met alle slaapkamers op de verdieping en zonder slaap/badkamer beneden of een lift, en de tuin rondom van 422 m\u00b2 is te groot en onderhoudsintensief voor de wensen van Ida. Hiermee mist het de specifieke levensloopbestendige eigenschappen.",
+            "buurt": "Centrum Ermelo",
+            "prijs": 794000,
+            "datum": "2026-11-11 22:39"
+        },
+        "https://www.bijwillem.nl/aanbod/woningaanbod/ermelo/koop/huis-10796713-Lange-Haeg-2": {
+            "adres": "Lange Haeg 2, Ermelo",
+            "score": 4,
+            "motivatie": "Deze woning is ongeschikt voor Ida. Hoewel het woonoppervlak (198 m\u00b2) royaal is en er een slaapkamer op de begagnegrond is, valt de woning met een vraagprijs van \u20ac 875.000 ver buiten het maximale budget van \u20ac 800.000. Daarnaast is de badkamer gedateerd en betreft het een vrijstaande woning met een groot perceel (690 m\u00b2) in plaats van een onderhoudsvriendelijk tuintje of appartement met lift.",
+            "buurt": "Ermelo-West",
+            "prijs": 875000,
+            "datum": "2026-11-11 22:40"
+        },
+        "https://www.bartjansenmakelaars.nl/woningen/de-genestetstraat-27-harderwijk-44104f3478a26847d45a29a4cd09f3b4cc88b": {
+            "adres": "De Genestetstraat 27, Harderwijk",
+            "score": 3,
+            "motivatie": "Deze woning scoort slecht op de criteria van Ida. Het betreft een standaard 2-onder-1-kapwoning met alle slaapkamers op de verdiepingen en geen lift, wat resulteert in 0 punten voor levensloopbestendigheid. De afwerking uit 1968 met een traditionele indeling en badkamer past niet bij de wens voor een moderne, instapklare en luxe woning (0 punten). Hoewel de woonoppervlakte van 118 m\u00b2 binnen de marge valt (2 punten), is de tuin met 309 m\u00b2 juist te groot en onderhoudsintensief in plaats van een klein, onderhoudsvriendelijk tuintje of balkon (0 punten). De woning is wel direct beschikbaar (1 punt). Dit brengt de totale match score op 3.",
+            "buurt": "Harderwijk",
+            "prijs": 547500,
+            "datum": "2026-11-11 22:41"
+        },
+        "https://www.bartjansenmakelaars.nl/woningen/krommekamp-344-harderwijk-441042209954639ac4020a5ae53d6d6f6398f": {
+            "adres": "Krommekamp 344, Harderwijk",
+            "score": 5,
+            "motivatie": "De woning scoort maximaal op staat van afwerking (instapklaar en modern uit 2016) en maatvoering (125 m\u00b2 woonoppervlak), en heeft een keurige, onderhoudsvriendelijke tuin. Echter betreft dit een standaard eengezinswoning met alle slaapkamers op de verdiepingen en geen lift of slaapkamer op de begane grond (0 punten voor type/levensloopbestendigheid), waardoor het niet optimaal aansluit bij het Woon-DNA van Ida.",
+            "buurt": "Frankrijk",
+            "prijs": 517500,
+            "datum": "2026-11-11 22:41"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-vijhestraat-1c": {
+            "adres": "Vijhestraat 1 C, 3841 CW Harderwijk",
+            "score": 5,
+            "motivatie": "De woning is modern, instapklaar (3 punten) en per direct beschikbaar (1 punt), maar scoort op andere punten onvoldoende. Het betreft een appartement op de 1e en 2e verdieping bereikbaar via een trap zonder lift (0 punten), en met een woonoppervlakte van circa 36 m\u00b2 valt het ruimschoots onder de richtlijn van 100 - 150 m\u00b2 (0 punten). Wel is er een onderhoudsvriendelijk medegebruik van de binnentuin (1 punt). De totale score komt hiermee op 5 punten.",
+            "buurt": "Historische Binnenstad",
+            "prijs": 295000,
+            "datum": "2026-11-11 22:41"
+        },
+        "https://www.brandtmakelaars.nl/woning/hierden-jonkheer-sandberglaan-60": {
+            "adres": "Jonkheer Sandberglaan 60, 3849 PX Hierden",
+            "score": 2,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 5.0 km van het centrum (-3 punten).\n\nDeze helft van een dubbel woonhuis scoort maximaal op afwerking (keurig onderhouden, instapklaar), maatvoering (132 m2 woonoppervlakte) en beschikbaarheid (direct beschikbaar binnen budget). Echter, het betreft een standaard gezinswoning met alle slaapkamers op de verdieping en geen slaapkamer op de begane grond (0 punten voor levensloopbestendigheid), en de kavel van 412 m2 is groter dan de wens voor een klein, onderhoudsvriendelijk tuintje (0 punten voor buitenruimte). Hiermee komt de totaalscore op 5 punten.",
+            "buurt": "Hierden",
+            "prijs": 650000,
+            "datum": "2026-11-11 22:42"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-pijlkruidmeen-19": {
+            "adres": "Pijlkruidmeen 19, 3844 PM Harderwijk",
+            "score": 8,
+            "motivatie": "Deze woning scoort goed op het Woon-DNA. Het betreft een levensloopbestendige woning met een slaap- en badkamer op de begingrond (3 punten). De keuken is modern (2019) en het geheel is netjes onderhouden, hoewel de badkamer op de verdieping wat minder modern oogt (2 punten voor afwerking). Met ca. 156 m2 woonoppervlakte valt het net boven de richtlijn van 150 m2, maar de indeling met vele kamers biedt uitstekende opties voor logees/hobby's (1.5 punt). De tuin is fraai aangelegd met een veranda en onderhoudsvriendelijk (1 punt). De woning is direct beschikbaar (1 punt). Totaal komt dit op een score van 8.5 (afgerond 8).",
+            "buurt": "Meene-eiland",
+            "prijs": 550000,
+            "datum": "2026-11-11 22:42"
         }
     },
     "moeder_harderwijk_ermelo": {
