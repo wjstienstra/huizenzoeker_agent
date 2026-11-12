@@ -3247,6 +3247,30 @@
             "buurt": "Apeldoorn",
             "prijs": 425000,
             "datum": "2026-11-11 22:37"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/schubertlaan-48": {
+            "adres": "Schubertlaan 48, Apeldoorn",
+            "score": 5,
+            "motivatie": "De Schubertlaan 48 is een nette twee-onder-een-kapwoning in Apeldoorn-Zuid. Met een vraagprijs van \u20ac 469.500 en een woonoppervlakte van 97 m\u00b2 komt de m\u00b2-prijs uit op ca. \u20ac 4.840, wat marktconform is. Het bouwjaar is echter 1955 (geen jaren '30 stijl) en het woonoppervlakte valt fors onder de richtlijn van 125-175 m\u00b2. Wel zijn er een houtkachel en openslaande deuren aanwezig, en biedt de tuin op het westen voldoende potentie. Door het ontbreken van het specifieke karakter en de benodigde meters scoort deze woning onvoldoende voor de wensen.",
+            "buurt": "Apeldoorn-Zuid",
+            "prijs": 469500,
+            "datum": "2026-11-12 21:50"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/het-karnhuis-41-apeldoorn-934984353574eca0464a608a944645503c7075": {
+            "adres": "Het Karnhuis 41",
+            "score": 5,
+            "motivatie": "Het Karnhuis 41 is een karakteristiek vrijstaand woonhuis uit 1935 gelegen in de wijk de Heeze, wat erg goed past bij het gewenste profiel. De vraagprijs bedraagt \u20ac 350.000 k.k. en met een woonoppervlakte van 73 m\u00b2 komt dit neer op ca. \u20ac 4.795 per m\u00b2, wat redelijk marktconform is voor een te moderniseren object. Echter schiet de woning flink tekort op het gebied van ruimte: met slechts 1 slaapkamer (en optie tot een 2e) en een woonoppervlakte van 73 m\u00b2 wordt de richtlijn van minimaal 3 slaapkamers en 125-175 m\u00b2 bij lange na niet gehaald. De tuin op het zuiden van 200 m\u00b2 biedt daarentegen wel volop potentie voor een sauna en parkeren op eigen terrein is een pluspunt. Gezien de forse moderniseringsslag en met name het ruimtegebrek scoort deze woning gemiddeld.",
+            "buurt": "De Heeze",
+            "prijs": 350000,
+            "datum": "2026-11-12 22:06"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/ridderzwam-98-apeldoorn-9349846fc168ae72c342e08402b03133c9628c": {
+            "adres": "Ridderzwam 98",
+            "score": 3,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.5 km van het centrum (-2 punten).\n\nDe woning aan de Ridderzwam 98 is een moderne tussenwoning gebouwd in jaren '30 stijl (bouwjaar 2014) in de wijk Zuidbroek. Met een woonoppervlakte van 129 m\u00b2 en 3 slaapkamers voldoet het aan de ruimte-eisen. De vierkante meterprijs bedraagt circa \u20ac 4.070, wat gunstig is. Echter, het betreft een standaard tussenwoning in plaats van een vrijstaand of uniek herenhuis, en het mist de specifieke authentieke elementen zoals glas-in-lood en paneeldeuren. Bovendien is de tuin op het noordoosten gelegen en biedt deze beperkte ruimte voor de gewenste sauna. Daarom scoort deze woning gemiddeld voor Willem-Jans specifieke Woon-DNA.",
+            "buurt": "Zuidbroek",
+            "prijs": 525000,
+            "datum": "2026-11-12 22:07"
         }
     },
     "harderwijk_ermelo": {
