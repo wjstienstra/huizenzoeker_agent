@@ -3271,6 +3271,30 @@
             "buurt": "Zuidbroek",
             "prijs": 525000,
             "datum": "2026-11-12 22:07"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/kooikersdreef-708": {
+            "adres": "Kooikersdreef 708, Apeldoorn",
+            "score": 5,
+            "motivatie": "Hoewel deze woning met 159 m\u00b2 en 5 slaapkamers ruimschoots voldoet aan de ruimte-eis en met circa \u20ac2.987 per m\u00b2 zeer scherp is geprijsd, scoort de woning op het Woon-DNA onvoldoende. Het betreft eengezinsbouw uit 1971 in De Maten in plaats van de gewenste jaren '30 stijl, en er zijn geen authentieke elementen zoals glas-in-lood of paneeldeuren aanwezig. Daarmee past deze woning simpelweg niet bij het karakter dat gezocht wordt.",
+            "buurt": "De Maten",
+            "prijs": 475000,
+            "datum": "2026-11-13 21:17"
+        },
+        "https://www.goos.nl/woning/asselsestraat-284": {
+            "adres": "Asselsestraat 284, 7312 DD Apeldoorn",
+            "score": 5,
+            "motivatie": "Deze indrukwekkende vrijstaande jaren '30-villa aan de Asselsestraat 284 in Apeldoorn-West scoort uitstekend op het gebied van bouwstijl, ruimte (7 slaapkamers en 253 m\u00b2 woonoppervlak) en de fantastische, diepe tuin met volop privacy en sauna-potentie (2 punten). Ook de ligging in Apeldoorn-West tussen het centrum en de Veluwse bossen is ideaal, waarbij de diepe achtertuin de drukte van de voorzijde goed opvangt (1.5 punt). Er is echter \u00e9\u00e9n heel groot obstakel: met een vraagprijs van \u20ac 1.150.000 overstijgt deze woning het maximale budget van Willem-Jan (\u20ac 900.000) aanzienlijk. Daardoor valt deze woning helaas buiten bereik.",
+            "buurt": "Apeldoorn-West",
+            "prijs": 1150000,
+            "datum": "2026-11-13 21:32"
+        },
+        "https://www.goos.nl/woning/oosterlaan-27": {
+            "adres": "Oosterlaan 27, 7322 HE Apeldoorn",
+            "score": 4,
+            "motivatie": "Hoewel de woning prachtig karakter heeft (bouwjaar 1910, hoge plafonds) en gunstig is geprijsd (\u20ac375.000 voor 70 m\u00b2 woonoppervlakte), schiet deze woning op een cruciaal onderdeel tekort ten opzichte van het Woon-DNA: het woonoppervlak van 70 m\u00b2 en het aantal van 2 slaapkamers vallen ruim onder de richtlijn van 125-175 m\u00b2 en minimaal 3 slaapkamers. Het grote bijgebouw biedt wel veel potentie, maar compenseert het gebrek aan leefruimte in het hoofdgebouw niet voldoende.",
+            "buurt": "Anklaar / Apeldoorn Noord",
+            "prijs": 375000,
+            "datum": "2026-11-13 21:33"
         }
     },
     "harderwijk_ermelo": {
@@ -5065,6 +5089,14 @@
             "buurt": "Meene-eiland",
             "prijs": 550000,
             "datum": "2026-11-11 22:42"
+        },
+        "https://www.janvandenberg-makelaar.nl/woningen/kozakkenkamp-33-a-ermelo-93949202b9b5877b864a9498bd5c33e3cac070": {
+            "adres": "Kozakkenkamp 33 A, Ermelo",
+            "score": 4,
+            "motivatie": "De woning aan de Kozakkenkamp 33 A in Ermelo scoort onvoldoende op het Woon-DNA van Ida. Het betreft een standaard gezinswoning (tussenwoning) met slaapkamers verdeeld over verdiepingen en geen lift of volledig gelijkvloers programma, wat leidt tot 0 punten in categorie 1. Wel is de staat van afwerking keurig en instapklaar (bouwjaar 2019, 3 punten), valt de maatvoering met 134 m\u00b2 binnen de gewenste marge en is er ruimte voor hobby/logees (2 punten), en beschikt het over een klein, onderhoudsvriendelijk tuintje (1 punt). De woning is direct beschikbaar (1 punt). Omdat dit echter een gezinswoning betreft en geen levensloopbestendige woning of luxe appartement met lift (een harde eis voor comfort en type), komt de totale score uit op 7 punten, maar door de strenge uitsluiting op type valt de match tegen. (Scorecorrectie conform richtlijn voor standaard gezinswoning: Type 0, Afwerking 3, Maatvoering 2, Buitenruimte 1, Beschikbaarheid 1 = Totaal 7 punten, maar vanwege het ontbreken van levensloopbestendigheid is de woning eigenlijk niet passend voor Ida's profiel).",
+            "buurt": "Ermelo",
+            "prijs": 519000,
+            "datum": "2026-11-13 21:37"
         }
     },
     "moeder_harderwijk_ermelo": {
