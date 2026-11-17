@@ -3303,6 +3303,14 @@
             "buurt": "Orden",
             "prijs": 425000,
             "datum": "2026-11-14 20:14"
+        },
+        "https://www.koningsstede.nl/woningen/patrijsweg-26-apeldoorn-93664955c5479ee10043ccad11a3d8bd3028cc": {
+            "adres": "Patrijsweg 26, Apeldoorn",
+            "score": 6,
+            "motivatie": "De Patrijsweg 26 is een charmante twee-onder-een-kapwoning uit 1938 en scoort goed op karakter (erker, glas-in-lood, houtkachel) en buitenruimte met diverse overkappingen en een perceel van 368 m\u00b2. Het woonoppervlak van 106 m\u00b2 zit echter onder de wenselijke richtlijn van 125-175 m\u00b2. Met een vraagprijs van \u20ac 499.950 komt dit neer op ca. \u20ac 4.717 per m\u00b2 woonoppervlak, wat net boven het marktconforme gemiddelde ligt voor deze regio. Gezien de combinatie van authentieke elementen en de fijne tuin biedt dit object zeker potentie, hoewel het qua meters wat compacter is dan gewenst.",
+            "buurt": "Apeldoorn",
+            "prijs": 499950,
+            "datum": "2026-11-17 00:57"
         }
     },
     "harderwijk_ermelo": {
@@ -5105,6 +5113,14 @@
             "buurt": "Ermelo",
             "prijs": 519000,
             "datum": "2026-11-13 21:37"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/de-la-reystraat-60-ermelo-20734": {
+            "adres": "De La Reystraat 60, Ermelo",
+            "score": 3,
+            "motivatie": "De woning is een standaard eengezinswoning (tussenwoning) met alle slaapkamers op de verdieping en geen lift of gelijkvloerse slaap- en badkamer (0 punten). Daarnaast is de binnenzijde gedateerd en vraagt om modernisering, wat niet past bij het instapklare profiel van Ida (0 punten). De woonoppervlakte van 108 m\u00b2 valt wel binnen de norm (2 punten). De achtertuin is klein en onderhoudsvriendelijk (1 punt), en de woning is direct beschikbaar (1 punt). Dit brengt de totaalscore op 4, maar vanwege het ontbreken van levensloopbestendigheid en de benodigde modernisering is deze woning ongeschikt.",
+            "buurt": "Ermelo",
+            "prijs": 442500,
+            "datum": "2026-11-17 00:59"
         }
     },
     "moeder_harderwijk_ermelo": {
