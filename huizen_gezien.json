@@ -5121,6 +5121,14 @@
             "buurt": "Ermelo",
             "prijs": 442500,
             "datum": "2026-11-17 00:59"
+        },
+        "https://www.brandtmakelaars.nl/woning/harderwijk-jantje-boonenstraat-13": {
+            "adres": "Jantje Boonenstraat 13, 3846 GC Harderwijk",
+            "score": 5,
+            "motivatie": "De woning is uitstekend afgeleid en instapklaar (3 punten), heeft een woonoppervlakte van 107 m\u00b2 wat precies binnen de norm valt met ruimte voor hobby/logees (2 punten) en is per direct beschikbaar (1 punt). Echter scoort de woning 0 punten op levensloopbestendigheid omdat het een standaard middenwoning betreft met alle slaapkamers op de verdieping en geen lift of slaap-/badkamer op de begane grond. Ook de buitenruimte is een kleine tuin (1 punt). Dit brengt de totaalscore op 5 punten. Hoewel modern en energiezuinig, voldoet de indeling niet aan Ida's wens voor een gelijkvloerse of levensloopbestendige woning.",
+            "buurt": "Waterfront",
+            "prijs": 519500,
+            "datum": "2026-11-17 23:58"
         }
     },
     "moeder_harderwijk_ermelo": {
