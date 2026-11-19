@@ -3359,6 +3359,70 @@
             "buurt": "Kruizemuntstraat/Deventerstraat",
             "prijs": 895000,
             "datum": "2026-11-19 00:04"
+        },
+        "https://www.iqmakelaarsapeldoorn.nl/koopwoning/apeldoorn-germanenlaan-390-1": {
+            "adres": "Germanenlaan 78",
+            "score": 1,
+            "motivatie": "Deze woning sluit op geen enkel vlak aan bij het gezochte Woon-DNA. Het betreft een tweekamerappartement van slechts 45 m\u00b2 uit 1960, terwijl de wens uitgaat naar een karakteristiek woonhuis (jaren '30 of ouder) van 125 tot 175 m\u00b2 met minimaal 3 slaapkamers. Er zijn geen authentieke stijlelementen aanwezig, er is geen tuin (waardoor een sauna onmogelijk is) en de m\u00b2-prijs ligt met bijna \u20ac 4.900 per m\u00b2 hoog voor een eenvoudig naoorlogs appartement.",
+            "buurt": "Orden",
+            "prijs": 220000,
+            "datum": "2026-11-19 22:51"
+        },
+        "https://www.deheusmakelaardij.nl/woning/apeldoorn-zutphensestraat-45-AN101978": {
+            "adres": "Zutphensestraat 45",
+            "score": 6,
+            "motivatie": "Deze vrijstaande woning scoort sterk op perceelgrootte en de vierkante meterprijs (\u20ac 3.437 per m\u00b2), maar mist het gezochte historische Woon-DNA volledig. Er is geen sprake van een herenhuis of jaren '30 architectuur; het betreft sobere naoorlogse bouw (1956) zonder authentieke stijlelementen zoals glas-in-lood, kamer-en-suite of paneeldeuren. Het royale perceel van 707 m\u00b2 biedt met de vele bijgebouwen en de diepe tuin alle denkbare ruimte voor een sauna en buitenleven. De ligging direct aan de drukke doorgaande Zutphensestraat zorgt voor verkeerslawaai aan de voorzijde, al compenseert de royale achtertuin dit deels qua privacy. Gezien het energielabel F en de sterk gedateerde staat is een forse verbouwing noodzakelijk om hier echt karakter en modern comfort in te brengen.",
+            "buurt": "Osseveld-West",
+            "prijs": 495000,
+            "datum": "2026-11-19 23:09"
+        },
+        "https://www.reindersmakelaars.nl/woningen/de-hegge-6-apeldoorn-906419157ff20f79bf4878a2a3a41b17ddb909": {
+            "adres": "De Hegge 6, Apeldoorn",
+            "score": 6,
+            "motivatie": "De Hegge 6 is een prachtig historisch vrijstaand herenhuis (bouwjaar 1910) gelegen in het gewilde Apeldoorn West, met een fantastisch perceel van 655 m\u00b2 en een maar liefst 40 meter diepe achtertuin op het westen die uitstekende mogelijkheden biedt voor een sauna. Het bijgebouw en de veranda zijn grote plussen. De score per categorie: Bouwstijl & Vrijheid scoort 2 punten (vrijstaand historisch pand met maximale vrijheid). Authentieke Elementen scoort 0 punten, aangezien de tekst geen harde bewijzen geeft van specifieke binnen-elementen zoals paneeldeuren of en-suite (wel modernisering in 2022). Prijs-Kwaliteit & m\u00b2 scoort 0 punten: met een woonoppervlakte van 104 m\u00b2 en een vraagprijs van \u20ac 750.000 komt dit neer op ruim \u20ac 7.200 per m\u00b2, wat fors boven de marktrichtlijn van \u20ac 4.300 - \u20ac 4.700 ligt en compenseert de compacte binnenzuiverheid voor dit budget. Buitenruimte & Sauna-potentie scoort maximaal 2 punten dankzij de gigantische tuin. Ligging & Omgeving scoort 2 punten vanwege de rustige ligging in West en de enorme privacy achterom. Totaalscore: 6 punten. Ondanks de hoge m\u00b2-prijs en het iets krappere woonoppervlak dan de richtlijn (104m\u00b2 i.p.v. 125m\u00b2), maakt de unieke locatie, het historische karakter en de geweldige tuin dit een interessante optie voor Willem-Jan.",
+            "buurt": "West Apeldoorn (nabij Soerenseweg en Jachtlaan)",
+            "prijs": 750000,
+            "datum": "2026-11-19 23:26"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/zwolseweg-383-e-wenum-wiesel-9349849ee760ed1a644fa69fbd44b4b943c810": {
+            "adres": "Zwolseweg 383 E, Wenum Wiesel",
+            "score": 2,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 5.4 km van het centrum (-3 punten).\n\nDit luxe appartement bevindt zich in een prachtig voormalig kerkgebouw ('Wiesel Staete') op een schitterende, bosrijke locatie in Wenum Wiesel. Hoewel het gebouw een historische uitstraling heeft en beschikt over glas-in-lood in de centrale entree en stijlvolle zwarte stalen binnendeuren, betreft het een appartement van 93 m\u00b2 met slechts 1 slaapkamer (flexibel in te delen). Hiermee schiet het tekort op het gewenste woonoppervlak (125-175 m\u00b2) en het aantal slaapkamers (minimaal 3) uit het Woon-DNA. De vierkante meterprijs ligt rond de \u20ac 6.183, o.b.v. de vraagprijs van \u20ac 575.000, wat fors aan de prijs is voor de geboden meters. De terrassen en de schitterende ligging in het groen bieden veel kwaliteit, maar de woning past simpelweg niet bij de ruimtelijke wensen van Willem-Jan.",
+            "buurt": "Wenum Wiesel",
+            "prijs": 575000,
+            "datum": "2026-11-19 23:26"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/voorlandseweg-39-apeldoorn-93498430b31c8d51914e15b29e166324a3e8b0": {
+            "adres": "Voorlandseweg 39, Apeldoorn",
+            "score": 3,
+            "motivatie": "De woning scoort onvoldoende op het Woon-DNA van Willem-Jan. Met een bouwjaar uit 1966 mist het de gewenste jaren '30 stijl en authentieke elementen. Bovendien is het woonoppervlak van 75 m\u00b2 veel te klein ten opzichte van de richtlijn van 125-175 m\u00b2. Hoewel de perceeloppervlakte en tuin groot genoeg zijn voor een sauna, maakt de kleine woonoppervlakte in combinatie met de vraagprijs van \u20ac 400.000 (\u20ac 5.333 per m\u00b2) de prijs-kwaliteitverhouding ongunstig.",
+            "buurt": "Apeldoorn",
+            "prijs": 400000,
+            "datum": "2026-11-19 23:26"
+        },
+        "https://www.goos.nl/woning/pinksterbloem-1-2": {
+            "adres": "Pinksterbloem 1, 7322 GS Apeldoorn",
+            "score": 8,
+            "motivatie": "De woning scoort sterk op bouwstijl en karakter (jaren '30, erkers, glas-in-lood) en biedt met 599 m\u00b2 eigen grond en een riante schuur/garage volop potentie voor een sauna en hobbyruimte. De vierkante meterprijs is op basis van het woonoppervlak wat vertekend door de enorme aangebouwde loods/garage, maar de totale verhouding met het perceel en de verduurzaming (energielabel A) is erg gunstig. De ligging nabij het Mheenpark en winkelcentrum Anklaar is praktisch. Puntenverdeling: Bouwstijl & Vrijheid (1/2), Authentieke Elementen (2/2), Prijs-Kwaliteit (1/2), Buitenruimte & Sauna-potentie (2/2), Ligging & Omgeving (2/2). Totaal: 8 punten.",
+            "buurt": "De Mheen / Anklaar",
+            "prijs": 685000,
+            "datum": "2026-11-19 23:27"
+        },
+        "https://www.goos.nl/woning/beeldhouwershoeve-110": {
+            "adres": "Beeldhouwershoeve 110",
+            "score": 4,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.7 km van het centrum (-2 punten).\n\nDe Beeldhouwershoeve 110 in De Maten is een nagenoeg volledig gemoderniseerde en verduurzaamde vrijstaande woning (143 m\u00b2 wonen, 414 m\u00b2 perceel) met 4 slaapkamers en uitstekende verduurzaming (energielabel A+, warmtepomp, zonnepanelen en thuisbatterij). De vraagprijs bedraagt \u20ac 749.500, wat neerkomt op ca. \u20ac 5.241 per m\u00b2 woonoppervlakte; dit is aan de fortere kant voor Apeldoorn, maar wordt deels gerechtchtvaardigd door de zeer complete en moderne staat van onderhoud en de aanwezigheid van een vrijstaande garage en een heerlijke tuin op het zuiden met tuinhuis (sauna-potentie). \n\nPuntentelling (Totaal: 6/10):\n1. Bouwstijl & Vrijheid (0/2 pnt): Het betreft een vrijstaande woning, maar deze is gebouwd in de jaren '80/wijk De Maten (geen historisch herenhuis of dertiger jaren stijl die past bij het ideale Woon-DNA).\n2. Authentieke Elementen & Interieur (1/2 pnt): Geen typische historische dertigerjaren elementen zoals glas-in-lood of en-suite deuren, maar wel sfeervolle moderne toevoegingen zoals een houtkachel, visgraatvloer, moderne erker en strak stucwerk.\n3. Prijs-Kwaliteit & Vierkante Meters (1/2 pnt): Met ruim \u20ac 5.200 per m\u00b2 is de woning aan de stevige kant qua m\u00b2-prijs voor deze locatie, hoewel de energiezuinigheid (A+) en de jonge modernisering (2024) dit enigszins compenseren.\n4. Buitenruimte & Sauna-potentie (2/2 pnt): Een zonnige, vrije achtertuin op het zuiden met volop privacy, meerdere terrassen en een volledig af te sluiten tuinhuis dat uitstekende mogelijkheden biedt voor een sauna.\n5. Ligging, Rust & Omgeving (2/2 pnt): Gelegen aan een autoluw woonerf met een groenvoorziening aan de achterzijde. De nabijheid van de geplande ondergrondse verplaatsing van de hoogspanningslijn in 2027 is een toekomstig pluspunt voor de wijk.",
+            "buurt": "De Maten",
+            "prijs": 749500,
+            "datum": "2026-11-19 23:27"
+        },
+        "https://www.koningsstede.nl/woningen/imkersplaats-44-apeldoorn-93664931f0b5474acd49dc89a83ce48516c725": {
+            "adres": "Imkersplaats 44",
+            "score": 4,
+            "motivatie": "De woning betreft een standaard tussenwoning in De Maten, wat betekent dat het historische karakter (jaren '30 stijl, glas-in-lood, paneeldeuren) volledig ontbreekt (0 punten voor bouwstijl en authentieke elementen). Qua vierkante meters (130 m2) en prijs (\u20ac375.000, oftewel circa \u20ac2.885 per m2) scoort de woning uitstekend en scherp, ver onder het gemiddelde in Apeldoorn (+2 punten). De tuin ligt gunstig op het zuiden, maar biedt beperkte potentie voor een sauna door de compacte opzet (1 punt). De ligging is rustig in een kindvriendelijke woonwijk zonder doorgaande wegen (+1 punt). Totaal komt dit uit op een match score van 4. Dit is een keurige, betaalbare gezinswoning, maar sluit door het ontbreken van elk authentiek karakter niet aan bij de specifieke woonwensen.",
+            "buurt": "De Maten",
+            "prijs": 375000,
+            "datum": "2026-11-19 23:28"
         }
     },
     "harderwijk_ermelo": {
