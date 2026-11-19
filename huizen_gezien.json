@@ -3311,6 +3311,54 @@
             "buurt": "Apeldoorn",
             "prijs": 499950,
             "datum": "2026-11-17 00:57"
+        },
+        "https://opendeur.nl/woningaanbod/gerrit-kroonstraat-21-apeldoorn": {
+            "adres": "Gerrit Kroonstraat 21, 7334 CZ Apeldoorn",
+            "score": 4,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.0 km van het centrum (-1 punten).\n\nDeze moderne vrijstaande villa uit 2022 scoort punten op vrijheid (vrijstaand) en ruimte (186 m2, 5 slaapkamers, uitstekende buitenruimte met potentie voor ontspanning), maar past qua bouwstijl (strakke nieuwbouw in plaats van karakteristieke jaren '30 stijl of glas-in-lood) en prijs per vierkante meter (\u20ac 1.150.000 voor 186 m2 komt neer op ca. \u20ac 6.183 p/m\u00b2, wat fors boven het gemiddelde van \u20ac 4.300 - \u20ac 4.700 ligt) niet optimaal bij Willem-Jans specifieke wensen. Ook ontbreken authentieke interieurelementen zoals paneeldeuren en en-suite deuren.",
+            "buurt": "Ugchelen-Buiten",
+            "prijs": 1150000,
+            "datum": "2026-11-19 00:02"
+        },
+        "https://www.goos.nl/woning/bartelsweg-73": {
+            "adres": "Bartelsweg 73, 7311 DJ Apeldoorn",
+            "score": 8,
+            "motivatie": "Het betreft een prachtig vrijstaand en karakteristiek woonhuis uit 1912 (2 pnt) met authentieke elementen zoals houten en-suite deuren en een houthaard (2 pnt). Met een vraagprijs van \u20ac 749.500 voor 118 m\u00b2 wonen komt de m\u00b2-prijs uit op ca. \u20ac 6.350, wat fors hoger is dan de marktomvang, maar wordt gecompenseerd door het zeer hoge afwerkingsniveau, de instapklare staat, het royale bijgebouw van 47 m\u00b2 en de slaap-/badkamer op de begane grond (1 pnt). De diepe achtertuin op het westen van ruim 20 meter biedt uitstekende privacy en meer dan genoeg ruimte voor een sauna en veranda (2 pnt). De ligging nabij het centrum is gunstig en de besloten achterkant vangt eventuele drukte ruimschoots op (1 pnt). Totaalscore: 8 uit 10.",
+            "buurt": "Apeldoorn (nabij centrum)",
+            "prijs": 749500,
+            "datum": "2026-11-19 00:03"
+        },
+        "https://www.goos.nl/woning/ptolemaeusstraat-23": {
+            "adres": "Ptolemaeusstraat 23, 7323 GD Apeldoorn",
+            "score": 5,
+            "motivatie": "De Ptolemaeusstraat 23 is een instapklare en zeer energiezuinige hoekwoning (bouwjaar 1968, energielabel A, 100 m\u00b2 woonoppervlakte) met een scherpe vierkante meterprijs van circa \u20ac 4.250. Hoewel de woning modern is afgewerkt, voldoet het qua bouwstijl (jaren '60) en het ontbreken van authentieke jaren '30 elementen niet aan het gewenste Woon-DNA van Willem-Jan. Bovendien valt het woonoppervlak van 100 m\u00b2 onder de richtlijn van 125-175 m\u00b2. De tuin biedt wel ruimte voor een kleine stenen berging en buitenleven, maar de totale match blijft steken op een middenmoot.",
+            "buurt": "De Anklaar",
+            "prijs": 425000,
+            "datum": "2026-11-19 00:03"
+        },
+        "https://www.goos.nl/woning/kruizemuntstraat-nr-1-ong": {
+            "adres": "Kruizemuntstraat 1 (Bouwnummer 1), 7322 MA Apeldoorn",
+            "score": 3,
+            "motivatie": "Bouwnummer 1 overschrijdt met een v.o.n.-prijs van \u20ac945.000 het maximumbudget van \u20ac900.000. Daarnaast betreft het nieuwbouw, waardoor authentieke elementen zoals glas-in-lood en paneeldeuren ontbreken en de bouwstijl niet aansluit bij de gewenste jaren '30 esthetiek. Positieve punten zijn de ruime kavel van 823 m\u00b2 en de uitstekende mogelijkheden voor een tuin en sauna, maar het valt direct af vanwege het budget en het ontbreken van historisch karakter.",
+            "buurt": "Kruizemuntstraat/Deventerstraat",
+            "prijs": 945000,
+            "datum": "2026-11-19 00:03"
+        },
+        "https://www.goos.nl/woning/deventerstraat-209-ong": {
+            "adres": "Deventerstraat 209 (Bouwnummer 6), Apeldoorn",
+            "score": 5,
+            "motivatie": "1. Bouwstijl & Vrijheid (0/2 pnt): Het betreft nieuwbouw op een voormalig kwekerijterrein. Hoewel het een vrijstaand woonhuis betreft, ontbreekt het historische karakter (jaren '30 stijl) volledig. \n2. Authentieke Elementen & Interieur (0/2 pnt): Nieuwbouw heeft geen authentieke elementen zoals glas-in-lood, paneeldeuren of en-suite deuren. \n3. Prijs-Kwaliteit & Vierkante Meters (2/2 pnt): De koopsom is \u20ac895.000 v.o.n. voor 165 m\u00b2 woonoppervlakte. Dit komt neer op circa \u20ac5.424 per m\u00b2 woonoppervlakte, wat fors is. Echter, de woning is volledig energieneutraal (A+++), gloednieuw en naar eigen wens in te richten, wat de hogere m\u00b2-prijs voor een nieuwbouwproject rechtvaardigt binnen dit budget.\n4. Buitenruimte & Sauna-potentie (2/2 pnt): Met een perceel van 540 m\u00b2 en een tuin rondom is er meer dan voldoende ruimte voor een tuininrichting inclusief een kleine sauna.\n5. Ligging, Rust & Omgeving (1/2 pnt): De Deventerstraat is een drukkere doorgaande weg. Hoewel het project 'Buitenhuis' op een eigen terrein wordt ontwikkeld, blijft de ligging aan de Deventerstraat een aandachtspunt qua verkeersdrukte aan de voorzijde. \n\nEindconclusie: Hoewel de woning binnen het budget valt, ruim is en uitstekende verduurzaming biedt (A+++), mist het volledig het door Willem-Jan gewenste historische karakter (jaren '30 stijl, glas-in-lood). Daardoor is dit object minder geschikt.",
+            "buurt": "Kruizemuntstraat/Deventerstraat (Buitenhuis)",
+            "prijs": 895000,
+            "datum": "2026-11-19 00:03"
+        },
+        "https://www.goos.nl/woning/kruizemuntstraat-102a-ong": {
+            "adres": "Kruizemuntstraat 102A",
+            "score": 5,
+            "motivatie": "Bouwstijl & Vrijheid (0 pnt): Het betreft nieuwbouw, wat betekent dat de woning niet beschikt over de gewenste historische jaren '30 stijl, hoewel het wel een vrijstaande woning betreft. Authentieke Elementen & Interieur (0 pnt): Geen harde historische elementen aanwezig aangezien het om een nog te bouwen energieneutrale nieuwbouwwoning gaat. Prijs-Kwaliteit & Vierkante Meters (1 pnt): De koopsom bedraagt \u20ac895.000 voor 165 m\u00b2 woonoppervlakte. Dit komt neer op circa \u20ac5.424 per m\u00b2, wat fors boven de marktrichtlijn van \u20ac4.300 - \u20ac4.700 p/m\u00b2 ligt. Buitenruimte & Sauna-potentie (2 pnt): Het perceel van 440 m\u00b2 met achter-, voor- en zijtuin biedt voldoende ruimte voor een comfortabele buitenruimte en een sauna. Ligging, Rust & Omgeving (2 pnt): De locatie nabij de Deventerstraat is centraal en dichtbij uitvalswegen, maar het nieuwbouwproject op een voormalig kwekerijterrein biedt een gecontroleerde en ruime opzet met goede potentie voor privacy rondom het vrijstaande huis. Totaalscore komt hiermee uit op 5 punten. Boven het maximum budget valt deze woning gelukkig net niet (\u20ac895.000), maar de nieuwwbouwstijl wijkt sterk af van het historische Woon-DNA.",
+            "buurt": "Kruizemuntstraat/Deventerstraat",
+            "prijs": 895000,
+            "datum": "2026-11-19 00:04"
         }
     },
     "harderwijk_ermelo": {
