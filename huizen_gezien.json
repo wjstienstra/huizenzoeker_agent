@@ -3423,6 +3423,78 @@
             "buurt": "De Maten",
             "prijs": 375000,
             "datum": "2026-11-19 23:28"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/kapelmeestershoeve-302": {
+            "adres": "Kapelmeestershoeve 302",
+            "score": 3,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.3 km van het centrum (-1 punten).\n\nDeze woning sluit op de cruciale punten niet aan bij het gezochte Woon-DNA. Het betreft een standaard tussenwoning uit 1981 in De Maten, waardoor de score voor 'Bouwstijl & Vrijheid' op 0/2 uitkomt. Authentieke stijlelementen zoals glas-in-lood, paneeldeuren of een en-suite ontbreken volledig (0/2). Wel is de prijs-kwaliteitverhouding gunstig: met circa \u20ac 3.329,- per m\u00b2 en 126 m\u00b2 woonoppervlakte is de woning zeer scherp geprijsd binnen het budget (2/2). De achtertuin is gunstig gesitueerd op het zuidoosten, maar door het totale perceel van 144 m\u00b2 is de ruimte en privacy voor een buitensauna beperkt (1/2). De wijk is rustig en kindvriendelijk nabij voorzieningen, al ligt het niet in de geliefde vooroorlogse buurten van Apeldoorn (1/2). Eindconclusie: een functionele gezinswoning, maar zonder het vereiste historische karakter.",
+            "buurt": "De Maten",
+            "prijs": 419500,
+            "datum": "2026-11-20 22:12"
+        },
+        "https://www.iqmakelaarsapeldoorn.nl/koopwoning/apeldoorn-oude+apeldoornseweg-393-1": {
+            "adres": "Oude Apeldoornseweg 37 J8",
+            "score": 1,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.2 km van het centrum (-1 punten).\n\nDit object betreft een multifunctionele bedrijfsunit op bedrijventerrein Malkenschoten (FizzionParc) en is geen woonhuis. Er is geen sprake van een woonbestemming, laat staan een karakteristieke jaren '30-stijl of historisch herenhuis. Authentieke elementen, slaapkamers en een tuin met saunamogelijkheid ontbreken volledig. Het pand scoort op alle onderdelen van het Woon-DNA nul punten en is geheel ongeschikt als woonhuis.",
+            "buurt": "Malkenschoten",
+            "prijs": 125000,
+            "datum": "2026-11-20 22:46"
+        },
+        "https://www.iqmakelaarsapeldoorn.nl/koopwoning/apeldoorn-deventerstraat-392-1": {
+            "adres": "Deventerstraat 20 A",
+            "score": 1,
+            "motivatie": "Deze woning scoort een 1 uit 10 en sluit op vrijwel geen enkel punt aan bij het gezochte Woon-DNA.\n\n1. Bouwstijl & Vrijheid (0/2 pnt): Het betreft een compact tweekamerappartement van 40 m\u00b2 in een getransformeerd complex van 28 appartementen, in plaats van een karakteristiek woonhuis met vrijheid rondom en minimaal 3 slaapkamers.\n2. Authentieke Elementen & Interieur (1/2 pnt): Het exterieur van het voormalige monumentale postkantoor en de hoge plafonds met grote raampartijen bieden historisch cachet, maar het interieur is volledig strak gemoderniseerd zonder paneeldeuren, en-suite of glas-in-lood.\n3. Prijs-Kwaliteit & Vierkante Meters (0/2 pnt): Met een vraagprijs van circa \u20ac 6.875 per m\u00b2 ligt dit appartement extreem ver boven de Apeldoornse norm (> \u20ac 5.000 p/m\u00b2). Bovendien wijkt het woonoppervlak (40 m\u00b2 t.o.v. de gewenste 125-175 m\u00b2) drastisch af.\n4. Buitenruimte & Sauna-potentie (0/2 pnt): Er is geen eigen tuin aanwezig, waardoor er geen enkele mogelijkheid is voor het plaatsen van een buitensauna.\n5. Ligging, Rust & Omgeving (0/2 pnt): Gelegen midden in het levendige stadscentrum direct aan de Deventerstraat. Er is geen rustige, diepe achtertuin of privacy om de reuring van de voorzijde te compenseren.",
+            "buurt": "Centrum",
+            "prijs": 275000,
+            "datum": "2026-11-20 22:46"
+        },
+        "https://www.iqmakelaarsapeldoorn.nl/koopwoning/apeldoorn-adriaan+pauwstraat-391-1": {
+            "adres": "Adriaan Pauwstraat 12, Apeldoorn",
+            "score": 4,
+            "motivatie": "Adriaan Pauwstraat 12 is een standaard tussenwoning uit 1965 met een woonoppervlakte van 96 m\u00b2. Dit wijkt sterk af van Willem-Jans woon-DNA, waarin wordt gevraagd om een herenhuis of jaren '30 stijl (of ouder) met een oppervlakte van 125-175 m\u00b2. Hoewel de woning vier slaapkamers heeft, ontbreken authentieke elementen zoals glas-in-lood of paneeldeuren volledig (0 punten voor stijl en authentieke elementen). De vierkante meterprijs bedraagt circa \u20ac3.646, o.b.g. van de vraagprijs van \u20ac350.000, wat op zich scherp is (+2 punten voor prijs-kwaliteit). De tuin is met ruim 16 meter lekker diep en biedt potentie voor een sauna (+2 punten), en de ligging aan een rustig hofje is gunstig (+2 punten). Echter, door het gebrek aan het gewenste karakter, de kleinere woonoppervlakte en het type woning (tussenwoning i.p.v. vrijstaand/twee-onder-een-kap) scoort deze woning in totaal onvoldoende voor de woonwensen van Willem-Jan.",
+            "buurt": "Componistenkwartier",
+            "prijs": 350000,
+            "datum": "2026-11-20 22:47"
+        },
+        "https://www.reindersmakelaars.nl/woningen/industriestraat-11-apeldoorn-90641970dd11ea0fc84786bc6f6c8598836210": {
+            "adres": "Industriestraat 11, Apeldoorn",
+            "score": 4,
+            "motivatie": "Industriestraat 11 is een standaard eengezinswoning (tussenwoning) uit 1984 met 96 m2 woonoppervlakte, wat ruim onder de gewenste 125-175m2 ligt. De bouwstijl (jaren '80) mist het specifieke 'jaren '30' karakter en de authentieke elementen zoals glas-in-lood of paneeldeuren ontbreken volledig in de beschrijving. Met een vraagprijs van \u20ac 400.000 komt de m2-prijs uit op circa \u20ac 4.166, wat qua prijs scherp is, maar de woning past totaal niet bij het Woon-DNA van Willem-Jan qua ruimte en uitstraling. De diepe tuin en de nabijheid van het centrum zijn pluspunten, maar onvoldoende voor een hogere match.",
+            "buurt": "Centrum",
+            "prijs": 400000,
+            "datum": "2026-11-20 22:54"
+        },
+        "https://www.goos.nl/woning/gieterij-15": {
+            "adres": "Gieterij 15, 8171 ZB Vaassen",
+            "score": 1,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 8.9 km van het centrum (-8 punten).\n\nDeze woning scoort punten op het gebied van instapklare luxe, de moderne keuken uit 2025 en het vrije uitzicht aan de voorzijde. Echter past het absoluut niet bij het Woon-DNA van Willem-Jan: het betreft een moderne tussenwoning uit 2008 in plaats van een karakteristiek jaren '30 herenhuis, mist authentieke elementen zoals glas-in-lood of paneeldeuren, en het perceel van 124 m2 is te krap om fatsoenlijk een sauna te plaatsen. De vierkante meterprijs is met circa \u20ac3.515 per m\u00b2 weliswaar scherp, maar de woning mist het historische karakter en de ruimte die Willem-Jan zoekt.",
+            "buurt": "Vulcanus (Vaassen)",
+            "prijs": 450000,
+            "datum": "2026-11-20 22:55"
+        },
+        "https://www.goos.nl/woning/de-waterkamer-72": {
+            "adres": "De Waterkamer 72, 7325 HW Apeldoorn",
+            "score": 4,
+            "motivatie": "De Waterkamer 72 betreft een moderne tussenwoning uit 2000 in Osseveld-Oost met een vraagprijs van \u20ac 399.500. Dit komt neer op circa \u20ac 3.700 per m\u00b2 woonoppervlakte, wat prijstechnisch scherp is (+2 punten). Echter, de woning scoort slecht op Willem-Jans Woon-DNA: het is een standaard tussenwoning in plaats van een jaren '30 herenhuis (0 punten), mist volledig authentieke elementen zoals glas-in-lood of paneeldeuren (0 punten), en heeft met 108 m\u00b2 te weinig woonoppervlakte en een te klein perceel (121 m\u00b2) om comfortabel een sauna in de tuin te plaatsen (0 punten). De ligging aan een speelveldje en de tuin op het zuidwesten zijn aardig (2 punten), maar het totaaltype woning sluit niet aan bij de wensen.",
+            "buurt": "Osseveld-Oost",
+            "prijs": 399500,
+            "datum": "2026-11-20 22:55"
+        },
+        "https://www.koningsstede.nl/woningen/dovenetel-104-apeldoorn-9366492ca8bf15d8614f2eba29793807492c29": {
+            "adres": "Dovenetel 104, Apeldoorn",
+            "score": 5,
+            "motivatie": "Dovenetel 104 betreft een vrijstaande woning (2 punten voor bouwstijl), gebouwd in 1959, met een woonoppervlakte van 84 m\u00b2 en een perceel van 542 m\u00b2. Met een vraagprijs van \u20ac 500.000 komt dit neer op ca. \u20ac 5.952 per m\u00b2, wat fors boven de marktprijs van \u20ac 4.300 - \u20ac 4.700 per m\u00b2 ligt (0 punten voor prijs-kwaliteit). De woning mist harde tekstuele bewijzen van authentieke elementen zoals glas-in-lood of paneeldeuren (0 punten). De buitenruimte is met een perceel van 542 m\u00b2, tuin rondom en een in 2022 geplaatste overkapping wel uitstekend en biedt volop ruimte voor een sauna (2 punten). De ligging in een woonwijk is rustig (1 punt). De totaalscore komt hiermee op 5 van de 10 punten. Hoewel het een keurig en volledig gerenoveerd vrijstaand huis betreft met een riante tuin, valt het qua woonoppervlakte (84 m\u00b2) en prijs per vierkante meter flink buiten het gewenste rijtje van 125-175 m\u00b2 en het Woon-DNA van Willem-Jan.",
+            "buurt": "Apeldoorn",
+            "prijs": 500000,
+            "datum": "2026-11-20 22:58"
+        },
+        "https://www.koningsstede.nl/woningen/houttuinen-noord-40-apeldoorn-936649e33d29a4edc343f7acc30af99cffb4f0": {
+            "adres": "Houttuinen-Noord 40",
+            "score": 5,
+            "motivatie": "Houttuinen-Noord 40 betreft een vrijstaande woning uit 1996 met een woonoppervlakte van 201 m\u00b2 en een vraagprijs van \u20ac 869.500. Dit komt neer op circa \u20ac 4.326 per m\u00b2, wat zeer gunstig is binnen de gestelde bandbreedte. De buitenruimte is royaal met een perceel van 495 m\u00b2, een tuin rondom en een reeds aanwezige sauna, wat uitstekend aansluit bij de wensen. Echter, de woning scoort zwak op de bouwstijl en authentieke elementen: het betreft een reguliere bouw uit 1996 in plaats van een herenhuis of jaren '30 stijl, en er zijn geen harde bewijzen van klassieke stijlelementen zoals paneeldeuren of glas-in-lood aangetroffen. Hiermee mist het de specifieke karakteristieken uit Willem-Jans Woon-DNA, ondanks de uitstekende ruimte en de aanwezige sauna.",
+            "buurt": "Apeldoorn",
+            "prijs": 869500,
+            "datum": "2026-11-20 22:58"
         }
     },
     "harderwijk_ermelo": {
