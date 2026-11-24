@@ -3503,6 +3503,14 @@
             "buurt": "Centrum / Woonwijk",
             "prijs": 435000,
             "datum": "2026-11-21 21:08"
+        },
+        "https://www.goos.nl/woning/molendwarsstraat-94": {
+            "adres": "Molendwarsstraat 94, 7311 PV Apeldoorn",
+            "score": 2,
+            "motivatie": "Dit appartement sluit in absoluut geen enkele zin aan bij het Woon-DNA van Willem-Jan. Het betreft een modern appartement uit 2004 met slechts 83 m\u00b2 woonoppervlakte en 2 slaapkamers, in plaats van een herenhuis van 125-175 m\u00b2 met minstens 3 slaapkamers. Er is geen sprake van historische stijlkenmerken of een eigen tuin met sauna-potentie (slechts een balkon en een gemeenschappelijke binnentuin). Met een prijs van \u20ac 360.000 komt dit neer op circa \u20ac 4.337 per m\u00b2, maar het type woning maakt dit volstrekt irrelevant voor de zoekvraag. Score: 0 uit 2 voor bouwstijl (standaard appartement), 0 uit 2 voor authentieke elementen (geen enkele historische harde tekstuele bewijzing), 1 uit 2 voor m\u00b2-prijs, 0 uit 2 voor buitenruimte (geen eigen tuin/sauna), en 1 uit 2 voor ligging. Totaalscore: 2.",
+            "buurt": "Centrum",
+            "prijs": 360000,
+            "datum": "2026-11-24 02:14"
         }
     },
     "harderwijk_ermelo": {
