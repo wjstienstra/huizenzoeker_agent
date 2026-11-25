@@ -3511,6 +3511,30 @@
             "buurt": "Centrum",
             "prijs": 360000,
             "datum": "2026-11-24 02:14"
+        },
+        "https://www.deheusmakelaardij.nl/woning/apeldoorn-deventerstraat-445-AN102029": {
+            "adres": "Deventerstraat 445",
+            "score": 7,
+            "motivatie": "Deze vrijstaande woning uit 1915 scoort sterk op ruimte, perceel (1.177 m\u00b2) en unieke bijgebouwen met sauna- en hobby-potentie. Met een vraagprijs van \u20ac 750.000 voor 148 m\u00b2 wonen (ca. \u20ac 5.067 p/m\u00b2) zit het net boven de doelgroep-richtlijn per vierkante meter, maar de enorme vrijheid en het karakter (visgraatparket, marmeren schouw) compenseren dit ruimschoots. De ligging aan de Deventerstraat brengt drukte met zich mee, maar het riante diepe perceel biedt achterom volop rust en privacy. Een solide match voor Willem-Jan.",
+            "buurt": "Noordoost / Buitengebied",
+            "prijs": 750000,
+            "datum": "2026-11-25 00:58"
+        },
+        "https://www.reindersmakelaars.nl/woningen/mandenmakershoeve-112-apeldoorn-906419ff494c6d7a404f62ab89b7fce791ef56": {
+            "adres": "Mandenmakershoeve 112",
+            "score": 2,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.2 km van het centrum (-1 punten).\n\nDe Mandenmakershoeve 112 is een standaard eengezinswoning (tussenwoning) uit 1985 in de wijk De Maten, wat betekent dat deze volledig buiten het gewenste Woon-DNA van Willem-Jan valt (geen jaren '30 stijl, geen glas-in-lood of herenhuis-karakter). Ook qua woonoppervlakte (110 m\u00b2) zit de woning onder de gewenste richtlijn van 125-175 m\u00b2. Hoewel de woning keurig is onderhouden, energiezuinig is (energielabel A) en voorzien is van een leuke veranda en een stenen berging, past dit type massa-bouw simpelweg niet bij de zoekcriteria. Score per onderdeel: Bouwstijl & Vrijheid: 0 pnt (standaard tussenwoning), Authentieke Elementen: 0 pnt (geen historische kenmerken), Prijs-Kwaliteit: 1 pnt (ca. \u20ac3.809 per m\u00b2, scherp geprijsd maar verkeerd type woning), Buitenruimte: 1 pnt (tuin aanwezig met veranda, maar beperkte ruimte voor sauna), Ligging: 1 pnt (rustige wijk, maar niet de gewenste karakteristieke omgeving in Noord/West). Eindscore: 3/10.",
+            "buurt": "De Maten (Matenhoeve)",
+            "prijs": 419000,
+            "datum": "2026-11-25 01:19"
+        },
+        "https://www.goos.nl/woning/molenstraat-170": {
+            "adres": "Molenstraat 170, 7321 BK Apeldoorn",
+            "score": 9,
+            "motivatie": "De Molenstraat 170 is een uitstekende match voor de woonwensen van Willem-Jan. Het betreft een karakteristiek vrijstaand woonhuis uit 1923 (2 punten voor stijl en vrijheid) met maar liefst 176 m\u00b2 woonoppervlakte en 5 slaapkamers, wat ruim boven de richtlijn valt. De aanwezigheid van authentieke elementen en de moderne luxe badkamer inclusief een ingebouwde sauna scoren maximaal (2 punten). Met een vraagprijs van \u20ac 650.000 bedraagt de prijs per vierkante meter circa \u20ac 3.693, wat zeer scherp is ten opzichte van de marktnorm in Apeldoorn en dus 2 punten oplevert. De tuin is ruim 23 meter diep en biedt volop mogelijkheden (2 punten). De levendige ligging aan de rand van het centrum wordt ruimschoots gecompenseerd door de diepte van het perceel en de beschutte ligging achterom (1 punt). Dit brengt de totaalscore op een sterke 9.",
+            "buurt": "Centrumrand / Apeldoorn Centrum",
+            "prijs": 650000,
+            "datum": "2026-11-25 01:20"
         }
     },
     "harderwijk_ermelo": {
