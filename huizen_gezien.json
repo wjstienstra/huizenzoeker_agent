@@ -3535,6 +3535,30 @@
             "buurt": "Centrumrand / Apeldoorn Centrum",
             "prijs": 650000,
             "datum": "2026-11-25 01:20"
+        },
+        "https://www.drieklomp.nl/woningen/canadalaan-22-a-apeldoorn": {
+            "adres": "Canadalaan 22 A",
+            "score": 10,
+            "motivatie": "1. Bouwstijl & Vrijheid (2/2 pnt): Een unieke, markante vrijstaande villa (voormalig koetshuis uit 1902, gemeentelijk monument) op een ruim perceel van 775 m\u00b2 met optimale vrijheid rondom.\n2. Authentieke Elementen & Interieur (2/2 pnt): Hard tekstueel bewijs van bewaarde historische elementen, waaronder paneeldeuren met kroonlijsten, Art Nouveau stucplafonds (Mackintosh-stijl), schouwen, een rijk bewerkt trappenhuis, open haard en suitedeuren.\n3. Prijs-Kwaliteit & Vierkante Meters (2/2 pnt): Met circa \u20ac 4.010 per m\u00b2 (\u20ac 1.195.000 voor 298 m\u00b2) is de woning zeer scherp en marktconform geprijsd (< \u20ac 4.700 p/m\u00b2). Let op: de totale vraagprijs ligt aanzienlijk boven het maximale budget van \u20ac 900.000 en het formaat is fors ruimer dan de richtlijn (125-175 m\u00b2).\n4. Buitenruimte & Sauna-potentie (2/2 pnt): Een royale, zonnige achtertuin op het zuidoosten van circa 420 m\u00b2 (21 x 20 meter) met veranda en stenen schuur, die meer dan voldoende beschutting en ruimte biedt voor een buitensauna.\n5. Ligging, Rust & Omgeving (2/2 pnt): Prachtig gelegen in villawijk De Parken. De diepte van het perceel en de omsloten achtertuin waarborgen maximale privacy en rust, wat eventuele levendigheid aan de voorzijde ruimschoots compenseert.",
+            "buurt": "De Parken",
+            "prijs": 1195000,
+            "datum": "2026-11-25 23:35"
+        },
+        "https://www.goos.nl/woning/stationsstraat-182b": {
+            "adres": "Stationsstraat 182B, Apeldoorn",
+            "score": 3,
+            "motivatie": "Dit appartement scoort matig op het Woon-DNA van Willem-Jan. Hoewel de hoge plafonds (3,5m) en de visgraatvloer een luxe uitstraling geven en er een royale stadstuin aanwezig is, schiet de woning ernstig tekort op ruimte. Met slechts 63 m\u00b2 woonoppervlakte en 2 slaapkamers voldoet het absoluut niet aan de richtlijn van 125-175 m\u00b2 en minimaal 3 slaapkamers. Ook de vierkante meterprijs van bijna \u20ac 6.000,- per m\u00b2 is fors te noemen voor Apeldoorn begrippen. Ondanks de moderne staat en het energielabel A is dit niet de geschikte woning.",
+            "buurt": "Centrum",
+            "prijs": 375000,
+            "datum": "2026-11-25 23:51"
+        },
+        "https://www.goos.nl/woning/eemstraat-21": {
+            "adres": "Eemstraat 21, 7333 JL Apeldoorn",
+            "score": 1,
+            "motivatie": "Dit appartement (42 m\u00b2, 1 slaapkamer, geen tuin) sluit in absoluut geen enkel opzicht aan bij Willem-Jans Woon-DNA. Er is geen sprake van historische stijlkenmerken of ruimte voor een sauna, en het woonoppervlakte en aantal slaapkamers liggen mijlenver onder de gewenste richtlijnen van 125-175m\u00b2 en minimaal 3 slaapkamers. Niet geschikt.",
+            "buurt": "Zuiderpark",
+            "prijs": 224500,
+            "datum": "2026-11-25 23:51"
         }
     },
     "harderwijk_ermelo": {
