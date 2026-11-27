@@ -3559,6 +3559,46 @@
             "buurt": "Zuiderpark",
             "prijs": 224500,
             "datum": "2026-11-25 23:51"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/langeweg-45-apeldoorn-934984615bb4cf74fe4e0da373f170653505ef": {
+            "adres": "Langeweg 45",
+            "score": 7,
+            "motivatie": "Feitelijke beoordeling op basis van het puntenraster (Totaal: 7/10):\n\n1. Bouwstijl & Vrijheid (2/2): Een karakteristieke, vrijstaande woning uit 1915 op een royaal dubbel kadastraal perceel van 490 m\u00b2, wat maximale vrijheid rondom biedt.\n2. Authentieke Elementen & Interieur (1/2): Voorzien van een vestibule, kelder, erker en een sfeervolle werkkamer met schuifdeur en fraaie wandpanelen. Er is echter geen sprake van vermeld glas-in-lood of en-suite kastenstellen.\n3. Prijs-Kwaliteit & Vierkante Meters (0/2): Met 111 m\u00b2 woonoppervlakte blijft het huis onder de gewenste ondergrens van 125 m\u00b2. De vierkante meterprijs ligt met circa \u20ac 5.180,- per m\u00b2 fors boven de marktnorm van \u20ac 4.700,- per m\u00b2. Gezien het energielabel G en de noodzaak tot modernisering/verduurzaming is de staat geenszins vlekkeloos.\n4. Buitenruimte & Sauna-potentie (2/2): Uitstekend. Een groot perceel van 490 m\u00b2 met een beschutte, rustige ligging en volop fysieke ruimte en bijgebouwen voor het realiseren van een sauna en ontspanningsruimte.\n5. Ligging, Rust & Omgeving (2/2): Toplocatie in de geliefde wijk Het Loo. Rustige straat met uitsluitend bestemmingsverkeer, op loopafstand van het Paleispark en nabij villawijk De Parken.\n\nConclusie: Een charmant, vrijstaand object met een fantastische tuin en volop potentie, maar relatief compact qua woonoppervlakte en prijzig per m\u00b2 gezien de nodige moderniseringskosten.",
+            "buurt": "Het Loo",
+            "prijs": 575000,
+            "datum": "2026-11-27 00:10"
+        },
+        "https://www.mulderijmakelaardij.nl/woningen/klein-hattem-11-ugchelen-934984387c968733cc45ddb2dcaf6df53fb65d": {
+            "adres": "Klein Hattem 11",
+            "score": 3,
+            "motivatie": "Deze tussenwoning uit 1967 sluit nauwelijks aan bij het gewenste Woon-DNA. \n\n1. Bouwstijl & Vrijheid (0/2): Het betreft een standaard tussenwoning/rijtjeswoning met buren aan weerszijden en geen vrijheid rondom.\n2. Authentieke Elementen & Interieur (0/2): Er zijn geen historische stijlkenmerken aanwezig. De woning is gemoderniseerd met kunststof kozijnen, keralit en pvc-vloeren; glas-in-lood, paneeldeuren of en-suite ontbreken volledig.\n3. Prijs-Kwaliteit & Vierkante Meters (2/2): Met een vraagprijs van \u20ac 419.500 voor 112 m\u00b2 ligt de vierkantemeterprijs op ca. \u20ac 3.745/m\u00b2, wat zeer scherp en ruim onder de marktprijs is. Het woonoppervlak valt wel iets onder de gewenste 125-175 m\u00b2.\n4. Buitenruimte & Sauna-potentie (0/2): De achtertuin van 54 m\u00b2 is al grotendeels gevuld met een stenen berging en overkapping. Er is geen re\u00eble fysieke ruimte of privacy voor een sauna.\n5. Ligging, Rust & Omgeving (1/2): Gelegen op een fijne plek in Ugchelen met vrij zicht aan de voorzijde op groen en het bos op loopafstand, maar het blijft een doorsnee woonstraat.\n\nConclusie: Ondanks de scherpe prijs en keurige onderhoudsstaat ontbreken het historische karakter, de gewenste inhoud en de buitenruimte voor een sauna.",
+            "buurt": "Ugchelen",
+            "prijs": 419500,
+            "datum": "2026-11-27 00:11"
+        },
+        "https://www.goos.nl/woning/juul-paatsstraat-8": {
+            "adres": "Juul Paatsstraat 8, 7334 DD Apeldoorn",
+            "score": 5,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 4.1 km van het centrum (-1 punten).\n\nDe woning aan de Juul Paatsstraat 8 is een moderne (bouwjaar 2020) en zeer ruime twee-onder-een-kapwoning van 182 m\u00b2 in het gewilde Ugchelen-Buiten. Met een vraagprijs van \u20ac850.000 komt de m\u00b2-prijs neer op circa \u20ac4.670, oerdegelijk en binnen de marktconforme bandbreedte. Het grote pluspunt is de ruimte (4 slaapkamers plus een werkkamer op de begane grond) en de zonnige achtertuin met veranda die voldoende potentie biedt voor een sauna. Omdat het een jonge bouw uit 2020 betreft, ontbreken echter de klassieke jaren '30 elementen en authentieke details zoals glas-in-lood of paneeldeuren die Willem-Jans hart sneller doen kloppen. Daarmee is het qua stijl een concessie, maar qua comfort en ruimte scoort het sterk.",
+            "buurt": "Ugchelen-Buiten",
+            "prijs": 850000,
+            "datum": "2026-11-27 00:11"
+        },
+        "https://www.goos.nl/woning/1e-wormenseweg-475": {
+            "adres": "1e Wormenseweg 475, 7333 GW Apeldoorn",
+            "score": 2,
+            "motivatie": "Dit appartement sluit in niets aan bij het Woon-DNA van Willem-Jan. Met slechts 74 m\u00b2 woonoppervlakte en een gebrek aan een eigen tuin (laat staan ruimte voor een sauna) valt deze woning direct af. Er is geen sprake van een vrijstaand herenhuis of karakteristieke jaren '30 stijl, en authentieke elementen ontbreken volledig in dit moderne appartement.",
+            "buurt": "Wormen",
+            "prijs": 289500,
+            "datum": "2026-11-27 00:11"
+        },
+        "https://www.goos.nl/woning/kobaltstraat-117-2": {
+            "adres": "Kobaltstraat 117, 7334 AR Apeldoorn",
+            "score": 1,
+            "motivatie": "Dit appartement scoort op alle fronten onvoldoende voor Willem-Jans wensen. Met slechts 65 m\u00b2 woonoppervlakte en 2 slaapkamers voldoet het niet aan de ruimte-eis van 125-175 m\u00b2 en minimaal 3 slaapkamers. Er is geen sprake van een jaren '30 stijl, authentieke elementen of een eigen tuin met sauna-potentie. De prijs per vierkante meter (\u20ac 4.230) is marktconform, maar de woning past totaal niet bij het gewenste Woon-DNA.",
+            "buurt": "Apeldoorn",
+            "prijs": 275000,
+            "datum": "2026-11-27 00:11"
         }
     },
     "harderwijk_ermelo": {
