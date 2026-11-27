@@ -3599,6 +3599,30 @@
             "buurt": "Apeldoorn",
             "prijs": 275000,
             "datum": "2026-11-27 00:11"
+        },
+        "https://vlpmakelaardij.nl/woningaanbod/het-verlaat-282": {
+            "adres": "Het Verlaat 282",
+            "score": 4,
+            "motivatie": "Het Verlaat 282 is een ruime moderne tussenwoning uit 2007 gelegen in Osseveld, met een woonoppervlakte van 137 m\u00b2 en een zeer scherpe prijs per vierkante meter van circa \u20ac 3.573. Hoewel de vierkante meters en de ligging aan het water met eigen parkeergelegenheid plus carport erg aantrekkelijk zijn, past deze woning qua bouwstijl (2007 massabouw in plaats van jaren '30) en het ontbreken van authentieke elementen zoals glas-in-lood of paneeldeuren totaal niet bij het Woon-DNA van Willem-Jan. De tuin op het zuidoosten aan het water biedt enige buitenruimte, maar scoort onvoldoende op de specifieke historische wensen. Om deze redenen valt de match score uit op een 4.",
+            "buurt": "Osseveld",
+            "prijs": 489500,
+            "datum": "2026-11-27 23:19"
+        },
+        "https://www.drieklomp.nl/woningen/hulhorstweg-28-beekbergen": {
+            "adres": "Hulhorstweg 28, Beekbergen",
+            "score": 1,
+            "motivatie": "\ud83d\udccd <b>Afstands-penalty:</b> 8.1 km van het centrum (-7 punten).\n\nDe woning is een vrijstaande villa met maar liefst 5 slaapkamers en een royaal perceel van 1.680 m\u00b2, wat volop privacy en sauna-potentie biedt. Echter mist het pand de specifieke jaren '30 stijl (het is gebouwd in 1984) en ontbreken harde bewijzen van authentieke elementen zoals glas-in-lood of paneeldeuren. Daarnaast is de status 'Verkocht' en ontbreekt de vraagprijs, maar de ruimte en het vrijstaande karakter passen wel bij de bredere wensen van Willem-Jan.",
+            "buurt": "Beekbergen",
+            "prijs": null,
+            "datum": "2026-11-27 23:22"
+        },
+        "https://www.goos.nl/woning/het-schip-164": {
+            "adres": "Het Schip 164, 7325 NP Apeldoorn",
+            "score": 3,
+            "motivatie": "Dit betreft een standaard tussenwoning uit 1994 in de wijk Woudhuis en sluit daarmee in absoluut opzicht niet aan bij het Woon-DNA van Willem-Jan, dat vraagt om een karakteristiek herenhuis of oudere bouwstijl met authentieke elementen zoals glas-in-lood en paneeldeuren. Met 114 m\u00b2 woonoppervlakte zit het onder de richtlijn, en de bouwstijl scoort 0 punten (standaard rijtjeshuis). Wel is de prijs-kwaliteit verhouding met \u20ac 400.000 (\u20ac 3.508 p/m\u00b2) scherp en is er een ruime achtertuin, maar het ontbreken van elk historisch karakter maakt dit geen passende woning.",
+            "buurt": "Woudhuis",
+            "prijs": 400000,
+            "datum": "2026-11-27 23:26"
         }
     },
     "harderwijk_ermelo": {
@@ -5417,6 +5441,14 @@
             "buurt": "Waterfront",
             "prijs": 519500,
             "datum": "2026-11-17 23:58"
+        },
+        "https://www.unieckerwonenmakelaars.nl/object/klaverlaan-13-ermelo-21311": {
+            "adres": "Klaverlaan 13, Ermelo",
+            "score": 5,
+            "motivatie": "De woning scoort maximaal op staat van afwerking (3 punten voor een moderne, instapklare staat), maatvoering met 114 m\u00b2 (2 punten) en buitenruimte met een compacte tuin van 40 m\u00b2 (1 punt). Ook de beschikbaarheid is op korte termijn in overleg (1 punt). Echter, op het hoofdcriterium 'Levensloopbestendig/Type' scoort deze woning 0 punten, aangezien het een standaard tussenwoning is met alle slaapkamers en de badkamer op de verdieping en er geen lift of slaapkamer op de begane grond aanwezig is. Hierdoor valt de totaalscore uit op 7 punten. (Let op: volgens de strenge criteria voor Ida past een bungalow of luxe appartement beter bij haar woon-DNA).",
+            "buurt": "Ermelo",
+            "prijs": 525000,
+            "datum": "2026-11-27 23:28"
         }
     },
     "moeder_harderwijk_ermelo": {
